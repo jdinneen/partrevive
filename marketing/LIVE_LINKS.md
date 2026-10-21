@@ -20,7 +20,7 @@ Each page ends with "Don't have a printer? PartRevive prints this and ships it" 
 - Printables / Prusa account: signed in; public username changed from the real name to "PartRevive" (handle still @JonDinneen_5559590 unless changed in Printables settings)
 - Reddit: signed in (existing account linked to the Gmail)
 - Bing Webmaster Tools: signed in
-- Etsy: an Etsy account already exists for this email but is not linked to Google; Etsy asks for the Etsy password before linking. Not completed.
+- Etsy: signed in after a password reset (new password stored only in a private local file, see the chat report); shop onboarding done through preferences and the shop name **PartRevive3D** ("PartRevive" was taken). Stopped at "How you'll get paid": bank account, billing card, identity check and a one-time $29 set-up fee are Jon's to enter. Listings cannot be created until that step is done.
 - eBay: no eBay account for this email; Google sign-in leads to account registration (asks for personal details). Not completed.
 
 ## Not done on purpose (would publish personal information)
