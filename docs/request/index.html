@@ -150,18 +150,11 @@
   var mail="jon.dinneen@gmail.com";
   function show(kind,html){st.className="form-status form-status-"+kind;st.innerHTML=html;st.hidden=false;st.scrollIntoView({block:"nearest"});}
   function mailto(){
-    var d=new FormData(form),body="Name: "+(d.get("name")||"")+"
-Email: "+(d.get("email")||"")+"
-Part: "+(d.get("part")||"")+"
-Quantity: "+(d.get("quantity")||"1")+"
-
-What broke:
-"+(d.get("what_broke")||"")+"
-
-(Please attach your photos.)";
+    var d=new FormData(form),nl=String.fromCharCode(10);
+    var body=["Name: "+(d.get("name")||""),"Email: "+(d.get("email")||""),"Part: "+(d.get("part")||""),"Quantity: "+(d.get("quantity")||"1"),"","What broke:",(d.get("what_broke")||""),"","(Please attach your photos.)"].join(nl);
     return "mailto:"+mail+"?subject="+encodeURIComponent("PartRevive quote request: "+(d.get("part")||""))+"&body="+encodeURIComponent(body);
   }
-  if(q.get("error")){show("err","Something went wrong with that submission. Please try again, or <a href=\""+mail+"\">email us</a> instead.".replace(mail,"mailto:"+mail));}
+  if(q.get("error")){show("err","Something went wrong with that submission. Please try again, or <a href=\"mailto:"+mail+"\">email us</a> instead.");}
   form.addEventListener("submit",function(e){
     e.preventDefault();
     if(!form.reportValidity())return;

@@ -72,7 +72,7 @@ Category is one of: rv-camper, kitchen-appliance, tools-toolboxes, automotive. G
 - `/category/<slug>/` category pages
 - `/guides/<slug>/` articles
 - `/guides/` article index
-- `/request/` quote request form (formsubmit.co)
+- `/request/` quote request form (posts to the Cloud Run receiver in backend/quote-receiver/)
 - `/about/`, `/faq/`, `/404.html`, `/sitemap.xml`, `/robots.txt`, `/llms.txt`, `/llms-full.txt`
 
 ## Fixed slugs
