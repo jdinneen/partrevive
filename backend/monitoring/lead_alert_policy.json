@@ -2,7 +2,7 @@
   "displayName": "PartRevive: new quote request",
   "documentation": {
     "mimeType": "text/markdown",
-    "content": "New PartRevive quote request.\n\nName: ${log.extracted_label.name}\nEmail: ${log.extracted_label.email}\nPart: ${log.extracted_label.part}\nQuantity: ${log.extracted_label.quantity}\nWhat broke: ${log.extracted_label.what_broke}\nPhoto: ${log.extracted_label.photo}\nLead id: ${log.extracted_label.lead_id}\n\nFull record and photo: ${log.extracted_label.console}\n\nReply to the customer from Gmail within 24 hours on business days."
+    "content": "**New PartRevive quote request**\n\n- Name: ${log.extracted_label.name}\n- Email: ${log.extracted_label.email}\n- Part: ${log.extracted_label.part}\n- Quantity: ${log.extracted_label.quantity}\n- What broke: ${log.extracted_label.what_broke}\n- Photo: ${log.extracted_label.photo}\n- Lead id: ${log.extracted_label.lead_id}\n\n[Open the full record and photo](${log.extracted_label.console})\n\nReply to the customer from Gmail within 24 hours on business days."
   },
   "combiner": "OR",
   "conditions": [
@@ -24,7 +24,9 @@
     }
   ],
   "alertStrategy": {
-    "notificationRateLimit": { "period": "300s" },
+    "notificationRateLimit": {
+      "period": "300s"
+    },
     "autoClose": "1800s"
   },
   "severity": "WARNING",
@@ -32,5 +34,6 @@
     "projects/monterey-bay-lab/notificationChannels/6686672769351832486",
     "projects/monterey-bay-lab/notificationChannels/1442086413698695682"
   ],
-  "enabled": true
+  "enabled": true,
+  "name": "projects/monterey-bay-lab/alertPolicies/14753100764385192821"
 }
