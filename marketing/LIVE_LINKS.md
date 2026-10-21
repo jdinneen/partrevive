@@ -2,6 +2,8 @@
 
 ## Site and search
 - Site: https://jdinneen.github.io/partrevive/ (25 products, 8 guides)
+- Final quality pass 2026-10-21 (commit bdaa689): responsive WebP images with srcset, favicon, inlined CSS, analytics loaded after page load, copy honesty pass (no equivalence/durability promises, no research notes, US spelling), category intros generated from data, 10 illustrations regenerated, home page limited to 12 featured parts. Lighthouse after (mobile, live): home, product and category pages all 100 for performance, accessibility, best practices and SEO; home LCP 4.0 s before, 1.3 s after.
+- Known limit, not fixable without Jon: the hostname carries the surname (jdinneen.github.io). A custom domain would remove that.
 - Google Search Console: verified (meta tag), sitemap submitted; owners jon.dinneen@gmail.com and jon.dinneen2@gmail.com
 - Bing Webmaster Tools: verified (meta tag `msvalidate.01`), account signed in with Google (jon.dinneen@gmail.com)
 - IndexNow: key file at site root; all URLs submitted
