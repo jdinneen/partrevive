@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<div class="wrap">
+  {{ m.crumbs(page.crumbs) }}
+  <h1>Guides</h1>
+  <p class="lead">Plain-English help for broken plastic parts: what your options are, what can be 3D printed, and how to get a good quote.</p>
+  {% if articles %}
+  <ul class="grid">{% for a in articles %}{{ m.guide_card(a) }}{% endfor %}</ul>
+  {% else %}
+  <p>Guides are coming soon. In the meantime, <a href="{{ u('/request/') }}">request a quote</a>.</p>
+  {% endif %}
+</div>
+{% endblock %}

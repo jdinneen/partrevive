@@ -1,0 +1,80 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<article class="wrap product">
+  {{ m.crumbs(page.crumbs) }}
+  <h1>{{ p.h1 or p.name }}</h1>
+  {% if p.answer_first %}<div class="answer" role="note"><p><strong>Short answer:</strong> {{ p.answer_first }}</p></div>{% endif %}
+
+  <div class="product-top">
+    {% if imginfo(p.image) %}<figure class="product-img">{{ m.pic(p.image, p.image_alt or p.name, eager=true) }}</figure>{% endif %}
+    <aside class="buy" aria-label="Price and ordering">
+      {% if p.price_from_usd is defined and p.price_from_usd is not none %}
+      <p class="buy-price"><span class="buy-from">From</span> ${{ p.price_from_usd }}</p>
+      {% if p.price_note %}<p class="buy-note">{{ p.price_note }}. Typical quote; final price confirmed before we print.</p>{% endif %}
+      {% endif %}
+      <p class="buy-lead"><strong>Lead time:</strong> {{ p.lead_time or site.lead_time }}</p>
+      <p class="buy-lead"><strong>Quote:</strong> {{ site.quote_turnaround }}</p>
+      <p><a class="btn btn-lg btn-block" href="{{ u('/request/') }}?part={{ p.slug }}" data-quote="{{ p.slug }}">Get a quote</a></p>
+      <p class="buy-note">Made to order. You approve the quote before we print anything.</p>
+    </aside>
+  </div>
+
+  {% if p.fits %}
+  <section aria-labelledby="fits-h">
+    <h2 id="fits-h">Fits</h2>
+    <ul class="checks">{% for f in p.fits %}<li>{{ f }}</li>{% endfor %}</ul>
+    <p class="fine-note">Brand names identify fit only. PartRevive is not affiliated with any brand named.</p>
+  </section>
+  {% endif %}
+
+  {% if p.problem %}<section aria-labelledby="why-h"><h2 id="why-h">Why it breaks</h2><p>{{ p.problem }}</p></section>{% endif %}
+  {% if p.oem_situation %}<section aria-labelledby="oem-h"><h2 id="oem-h">OEM situation</h2><p>{{ p.oem_situation }}</p></section>{% endif %}
+  {% if p.our_part %}<section aria-labelledby="make-h"><h2 id="make-h">What we make</h2><p>{{ p.our_part }}</p></section>{% endif %}
+
+  {% if p.specs %}
+  <section aria-labelledby="specs-h">
+    <h2 id="specs-h">Specifications</h2>
+    <table class="specs">
+      <tbody>
+      {% set spec_labels = p.specs | map(attribute='label') | map('lower') | list %}
+      {% for s in p.specs %}<tr><th scope="row">{{ s.label }}</th><td>{{ s.value }}</td></tr>{% endfor %}
+      {% if p.price_from_usd is defined and p.price_from_usd is not none and 'price from' not in spec_labels %}<tr><th scope="row">Price from</th><td>${{ p.price_from_usd }}{% if p.price_note %} ({{ p.price_note }}){% endif %}</td></tr>{% endif %}
+      {% if 'lead time' not in spec_labels %}<tr><th scope="row">Lead time</th><td>{{ p.lead_time or site.lead_time }}</td></tr>{% endif %}
+      </tbody>
+    </table>
+  </section>
+  {% endif %}
+
+  {% if p.how_to_order %}
+  <section aria-labelledby="order-h">
+    <h2 id="order-h">How to order</h2>
+    <ol class="steps">{% for s in p.how_to_order %}<li>{{ s }}</li>{% endfor %}</ol>
+    <p><a class="btn" href="{{ u('/request/') }}?part={{ p.slug }}" data-quote="{{ p.slug }}">Get a quote</a></p>
+  </section>
+  {% endif %}
+
+  {% if p.faqs %}
+  <section aria-labelledby="faq-h">
+    <h2 id="faq-h">Frequently asked questions</h2>
+    {{ m.faq_list(p.faqs) }}
+  </section>
+  {% endif %}
+
+  {% if related %}
+  <section aria-labelledby="rel-h">
+    <h2 id="rel-h">Related parts</h2>
+    <ul class="grid">{% for r in related %}{{ m.part_card(r) }}{% endfor %}</ul>
+  </section>
+  {% endif %}
+
+  {% if guides %}
+  <section aria-labelledby="guides-h">
+    <h2 id="guides-h">Related guides</h2>
+    <ul class="grid">{% for a in guides %}{{ m.guide_card(a) }}{% endfor %}</ul>
+  </section>
+  {% endif %}
+
+  {{ m.sources(p.sources) }}
+</article>
+{% endblock %}

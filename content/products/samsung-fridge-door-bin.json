@@ -1,0 +1,83 @@
+{
+  "slug": "samsung-fridge-door-bin",
+  "name": "Samsung fridge door bin",
+  "category": "kitchen-appliance",
+  "meta_title": "Samsung Door Bin Replacement, 3D Printed | PartRevive",
+  "meta_description": "Cracked Samsung fridge door bin, or out of stock? We print a replacement from your model number and photo. Quote within 24 hours, from $55.",
+  "h1": "Samsung fridge door bin replacement",
+  "primary_keyword": "samsung door bin replacement",
+  "secondary_keywords": [
+    "samsung refrigerator door shelf",
+    "samsung fridge door bin out of stock",
+    "samsung door bin broken",
+    "samsung fridge door basket"
+  ],
+  "answer_first": "We print replacement Samsung style refrigerator door bins to order, matched to your model number and photos. Send them and we quote within 24 hours, from $55.",
+  "fits": [
+    "Samsung refrigerator door bins (confirm by model number)"
+  ],
+  "problem": "A door bin that holds a gallon of milk takes a lot of weight at its corners and lower edge. Cold, aging plastic cracks there, and the bin drops or sags. Replacing the whole door is not an option, so the bin is the part people hunt for.",
+  "oem_situation": "Original Samsung bins typically cost $115 to $140 and are often out of stock. We price from $55 for a typical bin, and the final figure depends on size.",
+  "our_part": "We print in PETG, which stays tough in the cold. We rebuild the bin to your photos and measurements. We do not make food-contact claims, so use it for jars, bottles and packaged items. We need the model number from the sticker inside the fridge and photos with a ruler.",
+  "price_from_usd": 55,
+  "price_note": "per bin; price depends on size",
+  "material": "PETG",
+  "specs": [
+    {
+      "label": "Material",
+      "value": "PETG"
+    },
+    {
+      "label": "Max size",
+      "value": "250 mm"
+    },
+    {
+      "label": "Lead time",
+      "value": "5 to 10 business days after approval"
+    },
+    {
+      "label": "Made",
+      "value": "To order from your photo or model number"
+    }
+  ],
+  "how_to_order": [
+    "Find the model number sticker inside the fridge, then photograph the broken bin and the door it mounts to.",
+    "Send photos on the request page, with a coin or ruler in the shot and the model number if you have it. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Where is my Samsung model number?",
+      "a": "Look on a sticker inside the fridge compartment, on a side wall or near the top. Send a photo of it with the damaged bin."
+    },
+    {
+      "q": "Is a printed part as strong as the original?",
+      "a": "We do not claim it matches the original. Printed PETG is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. We reinforce load-bearing corners where the original design allows."
+    },
+    {
+      "q": "How do I measure or photograph the part?",
+      "a": "Photograph the bin from the front, the side and the underside, and the clips or rails that hold it on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+    },
+    {
+      "q": "Is the bin food safe?",
+      "a": "We make no food-contact claims. Keep loose food off it and use it for packaged goods and bottles."
+    },
+    {
+      "q": "Does the bin look identical to the original?",
+      "a": "It will have the same shape and function. The surface shows fine print lines, and the colour is the nearest we can offer, not an exact match."
+    }
+  ],
+  "related": [
+    "whirlpool-kitchenaid-fridge-door-bin",
+    "custom-replacement-part-from-photo"
+  ],
+  "image_alt": "Printed PETG replacement fridge door bin",
+  "sources": [
+    {
+      "label": "Walmart listing showing Samsung door bin pricing",
+      "url": "https://www.walmart.com/ip/seort/1673745592"
+    }
+  ],
+  "lead_time": "5 to 10 business days after approval",
+  "image": "samsung-fridge-door-bin.jpg"
+}

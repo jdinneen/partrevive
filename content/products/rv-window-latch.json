@@ -1,0 +1,84 @@
+{
+  "slug": "rv-window-latch",
+  "name": "RV window latch (Elixir, Hehr, Kinro style)",
+  "category": "rv-camper",
+  "meta_title": "RV Window Latch Replacement, Printed in ASA | PartRevive",
+  "meta_description": "Broken RV window latch? We print a replacement in UV-resistant ASA from your photo. Quote within 24 hours, from $18. Send a photo to start.",
+  "h1": "RV window latch replacement, printed in ASA",
+  "primary_keyword": "rv window latch replacement",
+  "secondary_keywords": [
+    "camper window latch",
+    "rv window latch broken",
+    "replacement rv window latch",
+    "rv window latch 3d printed"
+  ],
+  "answer_first": "We print replacement RV and camper window latches in ASA, a UV and heat resistant plastic, from your photo or measurements. Send a picture with a coin beside the latch and we quote within 24 hours, from $18 per latch.",
+  "fits": [
+    "Window latches in the style of Elixir, Hehr and Kinro RV windows (send a photo to confirm the match)",
+    "Many travel trailer, fifth wheel and camper van window latches"
+  ],
+  "problem": "RV window latches live in direct sun and heat. Over the years the plastic turns brittle, and a latch that has worked for a decade snaps the day you open the window. Many are sold only as part of a larger window assembly, so a small break can look like a costly repair.",
+  "oem_situation": "Typically the original latch is hard to buy on its own and is often sold as part of an assembly. Other printed-latch sellers charge roughly $7 to $24 per latch, which is the range we price within.",
+  "our_part": "We print in ASA because it resists UV and heat far better than ordinary hobby plastics, which matters on a sun-facing window. We match the shape from your photo and, if needed, from the broken pieces. We need a clear photo with a coin or ruler, and the window brand if you know it.",
+  "price_from_usd": 18,
+  "price_note": "per latch; pairs and multi-packs are quoted lower per unit; final price depends on the shape",
+  "material": "ASA",
+  "specs": [
+    {
+      "label": "Material",
+      "value": "ASA (UV and heat resistant)"
+    },
+    {
+      "label": "Max size",
+      "value": "250 mm"
+    },
+    {
+      "label": "Lead time",
+      "value": "5 to 10 business days after approval"
+    },
+    {
+      "label": "Made",
+      "value": "To order from your photo or model number"
+    }
+  ],
+  "how_to_order": [
+    "Find the broken latch, or the window it came from, and take it off the window if you can do so safely.",
+    "Send photos on the request page, with a coin or ruler in the shot and the model number if you have it. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Will it fit my RV window?",
+      "a": "If your latch looks like the Elixir, Hehr or Kinro style, probably. We do not stock parts, so we confirm the match from your photos before quoting and tell you if we are unsure."
+    },
+    {
+      "q": "Is a printed part as strong as the original?",
+      "a": "We do not claim it matches the original. Printed ASA is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. A latch holds a window closed against wind, not a person's weight."
+    },
+    {
+      "q": "How do I measure or photograph the part?",
+      "a": "Photograph the latch from above and from the side, plus the window frame where it mounts on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+    },
+    {
+      "q": "Why ASA instead of cheaper plastic?",
+      "a": "ASA is made for outdoor sun and heat. Cheaper plastics such as PLA soften in a hot vehicle, so we do not use them for RV parts."
+    },
+    {
+      "q": "Can I order a pair or a set for the whole RV?",
+      "a": "Yes. Tell us how many windows you have and we quote a lower price per latch for multiples."
+    }
+  ],
+  "related": [
+    "rv-cabinet-door-latch",
+    "custom-replacement-part-from-photo"
+  ],
+  "image_alt": "Replacement RV window latch printed in ASA beside a coin for scale",
+  "sources": [
+    {
+      "label": "Etsy listing for a printed replacement RV window latch",
+      "url": "https://www.etsy.com/listing/1762267902/replacement-rv-window-latch"
+    }
+  ],
+  "lead_time": "5 to 10 business days after approval",
+  "image": "rv-window-latch.jpg"
+}

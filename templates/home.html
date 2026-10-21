@@ -1,0 +1,92 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div class="hero-text">
+      <h1>Made-to-order 3D-printed replacement parts</h1>
+      <p class="lead">Send a photo of the broken part, get a quote in 24 hours. We design it, print it and ship it. Nothing is stocked, so every part is made for your model.</p>
+      <p class="cta-row">
+        <a class="btn btn-lg" href="{{ u('/request/') }}" data-quote="home-hero">Request a quote</a>
+        <a class="btn btn-lg btn-ghost" href="{{ u('/parts/') }}">Browse parts</a>
+      </p>
+      <p class="fine-note">Quotes {{ site.quote_turnaround }}. New shop, launched October 2026.</p>
+    </div>
+    {% if imginfo('hero.jpg') %}<div class="hero-img">{{ m.pic('hero.jpg', 'A broken plastic part beside its 3D-printed replacement on a workbench', eager=true) }}</div>{% endif %}
+  </div>
+</section>
+
+<section class="wrap band" aria-labelledby="how-h">
+  <h2 id="how-h">How it works</h2>
+  <ol class="how">
+    <li><span class="num" aria-hidden="true">1</span><h3>Send a photo</h3><p>Photograph the broken part next to a coin or ruler and tell us the brand and model it came from.</p></li>
+    <li><span class="num" aria-hidden="true">2</span><h3>Get a quote</h3><p>We reply {{ site.quote_turnaround }} with a price, a material suggestion and an honest view of whether printing is a good fit.</p></li>
+    <li><span class="num" aria-hidden="true">3</span><h3>We make and ship it</h3><p>After you approve, we design, print and ship. Typical lead time is {{ site.lead_time }}.</p></li>
+  </ol>
+</section>
+
+{% if categories %}
+<section class="wrap band" aria-labelledby="cats-h">
+  <h2 id="cats-h">Shop by category</h2>
+  <ul class="grid">{% for c in categories %}{{ m.cat_card(c) }}{% endfor %}</ul>
+</section>
+{% endif %}
+
+{% if products %}
+<section class="wrap band" aria-labelledby="parts-h">
+  <h2 id="parts-h">Featured parts</h2>
+  <ul class="grid">{% for p in products %}{{ m.part_card(p) }}{% endfor %}</ul>
+  <p><a href="{{ u('/parts/') }}">See all parts</a></p>
+</section>
+{% endif %}
+
+{% if latest %}
+<section class="wrap band" aria-labelledby="guides-h">
+  <h2 id="guides-h">Latest guides</h2>
+  <ul class="grid">{% for a in latest %}{{ m.guide_card(a) }}{% endfor %}</ul>
+  <p><a href="{{ u('/guides/') }}">All guides</a></p>
+</section>
+{% endif %}
+
+<section class="wrap band" aria-labelledby="trust-h">
+  <h2 id="trust-h">What to expect from us</h2>
+  <div class="trust">
+    <div>
+      <h3>Materials we use</h3>
+      <ul>
+        <li><strong>PETG</strong> for general indoor parts</li>
+        <li><strong>ASA</strong> for sun and heat</li>
+        <li><strong>PA-CF</strong> (carbon-fibre nylon) for high loads</li>
+        <li><strong>TPU</strong> for flexible parts</li>
+      </ul>
+    </div>
+    <div>
+      <h3>What we will not make</h3>
+      <ul>
+        <li>Safety-critical parts such as brakes and steering</li>
+        <li>Battery contacts and live electrical parts</li>
+        <li>Children's items</li>
+        <li>Surfaces that touch food</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Honest lead time</h3>
+      <p>{{ site.lead_time|capitalize }}, after you approve the quote. Quotes come back {{ site.quote_turnaround }}. We are not affiliated with any brand, and we do not claim our parts match the original maker's.</p>
+    </div>
+  </div>
+</section>
+
+<section class="wrap band" aria-labelledby="faq-h">
+  <h2 id="faq-h">Common questions</h2>
+  {{ m.faq_list(faqs) }}
+  <p><a href="{{ u('/faq/') }}">More questions answered</a></p>
+</section>
+
+<section class="cta-band" aria-labelledby="cta-h">
+  <div class="wrap">
+    <h2 id="cta-h">Got a broken part?</h2>
+    <p>Send a photo and the model number. We will tell you what it takes to make a replacement.</p>
+    <p><a class="btn btn-lg btn-light" href="{{ u('/request/') }}" data-quote="home-footer">Request a quote</a></p>
+  </div>
+</section>
+{% endblock %}

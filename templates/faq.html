@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<div class="wrap narrow">
+  {{ m.crumbs(page.crumbs) }}
+  <h1>Frequently asked questions</h1>
+  {{ m.faq_list(faqs) }}
+  <p><a class="btn btn-lg" href="{{ u('/request/') }}" data-quote="faq">Request a quote</a></p>
+</div>
+{% endblock %}

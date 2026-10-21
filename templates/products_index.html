@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<div class="wrap">
+  {{ m.crumbs(page.crumbs) }}
+  <h1>Made-to-order replacement parts</h1>
+  <p class="lead">Every part is printed to order after you approve a quote. Prices are from-estimates for a typical quote. Do not see yours? <a href="{{ u('/parts/custom-replacement-part-from-photo/') }}">Send a photo</a> and we will see what we can do.</p>
+  <p class="filter no-text"><label for="q">Filter parts</label> <input id="q" type="search" autocomplete="off" placeholder="e.g. fridge, latch, knob"></p>
+  <p id="none" class="fine-note" hidden>No parts match. <a href="{{ u('/request/') }}">Request a custom quote</a>.</p>
+  {% for c in categories %}
+  {% if c._products %}
+  <section aria-labelledby="c-{{ c.slug }}">
+    <h2 id="c-{{ c.slug }}"><a href="{{ u(c._url) }}">{{ c.name }}</a></h2>
+    <ul class="grid">{% for p in c._products %}{{ m.part_card(p) }}{% endfor %}</ul>
+  </section>
+  {% endif %}
+  {% endfor %}
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+(function(){var q=document.getElementById("q");if(!q)return;
+var cards=[].slice.call(document.querySelectorAll(".grid .card")),none=document.getElementById("none");
+function f(){var t=q.value.toLowerCase().trim(),n=0;cards.forEach(function(c){var k=!t||c.textContent.toLowerCase().indexOf(t)>-1;c.hidden=!k;if(k)n++;});
+document.querySelectorAll("main section").forEach(function(s){s.hidden=!s.querySelector(".card:not([hidden])");});none.hidden=n>0;}
+q.addEventListener("input",f);var p=new URLSearchParams(location.search).get("q");if(p){q.value=p;f();}})();
+</script>
+{% endblock %}

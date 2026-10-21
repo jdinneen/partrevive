@@ -1,0 +1,88 @@
+{
+  "slug": "maytag-whirlpool-dryer-knob",
+  "name": "Maytag and Whirlpool dryer knob",
+  "category": "kitchen-appliance",
+  "meta_title": "Maytag Dryer Knob Replacement, 3D Printed | PartRevive",
+  "meta_description": "Cracked Maytag or Whirlpool dryer knob? We print the plastic knob from your photo and model number. Quote within 24 hours, from $14.",
+  "h1": "Maytag and Whirlpool dryer knob replacement",
+  "primary_keyword": "maytag dryer knob replacement",
+  "secondary_keywords": [
+    "whirlpool dryer knob",
+    "dryer timer knob broken",
+    "dryer knob 3d print",
+    "maytag dryer knob stripped"
+  ],
+  "answer_first": "We print a replacement plastic knob for Maytag and Whirlpool style dryers to order, matched to your model number and photos. We do not touch electrical parts, only the plastic knob. Quote within 24 hours, from $14.",
+  "fits": [
+    "Maytag dryer control knobs (confirm by model number)",
+    "Whirlpool dryer control knobs (confirm by model number)"
+  ],
+  "problem": "The thin plastic inside the knob's shaft hole cracks and strips, so the knob spins without turning the timer. The dryer itself is fine, so a knob is a small fix that saves a large expense.",
+  "oem_situation": "A forum post describes a printed fix for the Maytag dryer knob after the thin plastic inside the shaft broke. We found no original-part price for this knob, so we quote on the individual knob after seeing your photos.",
+  "our_part": "We print only the plastic knob, in ASA because a dryer's front panel can get warm. We do not touch electrical parts: no switches, timers or wiring. We need your model number from the label inside the door opening or on the back, and photos of the knob, the shaft and the panel, with a coin for scale.",
+  "price_from_usd": 14,
+  "price_note": "per knob; sets of several knobs quoted lower per unit",
+  "material": "ASA",
+  "specs": [
+    {
+      "label": "Scope",
+      "value": "Plastic knob only; no electrical parts"
+    },
+    {
+      "label": "Material",
+      "value": "ASA (heat resistant)"
+    },
+    {
+      "label": "Max size",
+      "value": "250 mm"
+    },
+    {
+      "label": "Lead time",
+      "value": "5 to 10 business days after approval"
+    },
+    {
+      "label": "Made",
+      "value": "To order from your photo or model number"
+    }
+  ],
+  "how_to_order": [
+    "Pull the broken knob off, if it still comes off, and photograph the shaft and the knob.",
+    "Send photos on the request page, with a coin or ruler in the shot and the model number if you have it. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Do you replace the timer or any electrical part?",
+      "a": "No. We do not touch electrical parts. We make only the plastic knob, and the timer, switch and wiring are not part of the service."
+    },
+    {
+      "q": "Is a printed part as strong as the original?",
+      "a": "We do not claim it matches the original. Printed ASA is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. The weak point in a dryer knob is the thin wall around the shaft hole, so we thicken it where space allows."
+    },
+    {
+      "q": "How do I measure or photograph the part?",
+      "a": "Photograph the knob from the front and the back, and the metal shaft it sits on, with a coin for scale on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+    },
+    {
+      "q": "Where is my dryer model number?",
+      "a": "Usually on a label inside the dryer door opening or on the back panel. Send a photo of it with the knob."
+    },
+    {
+      "q": "Is a printed knob safe near the heat of a dryer?",
+      "a": "ASA tolerates more heat than ordinary hobby plastics, and a control knob sits on the front panel, away from the drum. We make no safety certification claims."
+    }
+  ],
+  "related": [
+    "bosch-dishwasher-tine-clip",
+    "custom-replacement-part-from-photo"
+  ],
+  "image_alt": "Printed replacement dryer control knob with a coin for scale",
+  "sources": [
+    {
+      "label": "Prusa forum thread on a printed Maytag dryer knob fix",
+      "url": "https://forum.prusa3d.com/forum/english-forum-awesome-prints-hall-of-fame/maytag-dryer-knob-mk4s-to-the-rescue"
+    }
+  ],
+  "lead_time": "5 to 10 business days after approval",
+  "image": "maytag-whirlpool-dryer-knob.jpg"
+}

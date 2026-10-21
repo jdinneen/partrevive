@@ -1,0 +1,84 @@
+{
+  "slug": "whirlpool-kitchenaid-fridge-door-bin",
+  "name": "Whirlpool and KitchenAid fridge door bin and holder",
+  "category": "kitchen-appliance",
+  "meta_title": "Whirlpool Door Bin Replacement, 3D Printed | PartRevive",
+  "meta_description": "Cracked Whirlpool or KitchenAid fridge door bin or holder? We print a replacement from your model number and photo. Quote in 24 hours, from $65.",
+  "h1": "Whirlpool fridge door bin replacement (also fits KitchenAid styles)",
+  "primary_keyword": "whirlpool door bin replacement",
+  "secondary_keywords": [
+    "kitchenaid fridge door bin",
+    "refrigerator door shelf cracked",
+    "whirlpool fridge door bin holder",
+    "fridge door bin 3d printed"
+  ],
+  "answer_first": "We print replacement Whirlpool and KitchenAid style refrigerator door bins and bin holders to order, matched to your model number and photos. Send them and we quote within 24 hours, from $65.",
+  "fits": [
+    "Whirlpool refrigerator door bins and holders (confirm by model number)",
+    "KitchenAid refrigerator door bins and holders (confirm by model number)"
+  ],
+  "problem": "Fridge door bins carry heavy jars and bottles, and cold plastic gets brittle. The holder tabs, the small parts that hook the bin to the door, are what usually break first, and often the whole shelf cracks along a corner.",
+  "oem_situation": "One maker reports an original bin plus holder costing about $200 as a unit. That is a single report, so treat it as an example, not a market price. We price made-to-order bins from $65.",
+  "our_part": "We print in PETG, which stays tough at fridge temperatures. We rebuild the broken bin or holder to your measurements. We do not make food-contact claims, so we suggest the bin for jars, bottles and packaged food rather than loose items. We need your model number, found on a sticker inside the fridge, and photos with a ruler.",
+  "price_from_usd": 65,
+  "price_note": "per bin or holder; price depends on size",
+  "material": "PETG",
+  "specs": [
+    {
+      "label": "Material",
+      "value": "PETG"
+    },
+    {
+      "label": "Max size",
+      "value": "250 mm"
+    },
+    {
+      "label": "Lead time",
+      "value": "5 to 10 business days after approval"
+    },
+    {
+      "label": "Made",
+      "value": "To order from your photo or model number"
+    }
+  ],
+  "how_to_order": [
+    "Find the model number on the sticker inside the fridge, usually on the upper wall or a side wall.",
+    "Send photos on the request page, with a coin or ruler in the shot and the model number if you have it. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Where is my fridge model number?",
+      "a": "Usually on a sticker inside the fresh-food compartment, on a side wall or near the top. Photograph it and send it with the broken part."
+    },
+    {
+      "q": "Is a printed part as strong as the original?",
+      "a": "We do not claim it matches the original. Printed PETG is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. Door bins carry jars and bottles, so tell us what you plan to store and we will size the walls to suit."
+    },
+    {
+      "q": "How do I measure or photograph the part?",
+      "a": "Photograph the bin from above and from the side, and the door where it mounts on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+    },
+    {
+      "q": "Is the bin food safe?",
+      "a": "We make no food-contact claims. Use it for sealed or packaged items and do not put loose food directly against it."
+    },
+    {
+      "q": "Can you make just the small holder?",
+      "a": "Yes. If only the holder is broken we quote just that, which costs less than a whole bin."
+    }
+  ],
+  "related": [
+    "samsung-fridge-door-bin",
+    "custom-replacement-part-from-photo"
+  ],
+  "image_alt": "Printed PETG fridge door bin on a kitchen counter",
+  "sources": [
+    {
+      "label": "Thingiverse listing citing an OEM bin and holder at about $200",
+      "url": "https://www.thingiverse.com/thing:6277130"
+    }
+  ],
+  "lead_time": "5 to 10 business days after approval",
+  "image": "whirlpool-kitchenaid-fridge-door-bin.jpg"
+}

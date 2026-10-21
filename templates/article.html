@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<article class="wrap article">
+  {{ m.crumbs(page.crumbs) }}
+  <h1>{{ a.title }}</h1>
+  <p class="byline">By {{ a.author or site.site_name }}{% if a.date_published %} &middot; <time datetime="{{ a.date_published }}">{{ a.date_published }}</time>{% endif %}</p>
+  {% if a.answer_first %}<div class="answer" role="note"><p><strong>Short answer:</strong> {{ a.answer_first }}</p></div>{% endif %}
+  {% if imginfo(a.image) %}<figure class="article-img">{{ m.pic(a.image, a.image_alt or a.title, eager=true) }}</figure>{% endif %}
+  <div class="prose">{{ a.body_html|safe }}</div>
+
+  <aside class="cta-box" aria-label="Request a quote">
+    <h2>Need a replacement made?</h2>
+    <p>Send a photo and the model number and we will quote {{ site.quote_turnaround }}.</p>
+    <p><a class="btn btn-lg" href="{{ u('/request/') }}" data-quote="guide-{{ a.slug }}">Request a quote</a></p>
+  </aside>
+
+  {% if a.faqs %}
+  <section aria-labelledby="faq-h"><h2 id="faq-h">Frequently asked questions</h2>{{ m.faq_list(a.faqs) }}</section>
+  {% endif %}
+
+  {% if rel_products %}
+  <section aria-labelledby="rel-h"><h2 id="rel-h">Related parts</h2>
+    <ul class="grid">{% for r in rel_products %}{{ m.part_card(r) }}{% endfor %}</ul>
+  </section>
+  {% endif %}
+  {{ m.sources(a.sources) }}
+</article>
+{% endblock %}

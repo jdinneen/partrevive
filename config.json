@@ -1,0 +1,25 @@
+{
+  "site_name": "PartRevive",
+  "tagline": "Made-to-order 3D-printed replacement parts for appliances, RVs, tools and cars",
+  "base_url": "https://jdinneen.github.io/partrevive",
+  "repo": "jdinneen/partrevive",
+  "ga_measurement_id": "G-C1NDPF5X2M",
+  "ga_note": "Shared with Samish River Watch for launch; replace with a dedicated GA4 web stream ID for this site.",
+  "form_action": "https://formsubmit.co/jon.dinneen2@gmail.com",
+  "form_note": "formsubmit.co delivers to this inbox after a one-time activation email is confirmed; swap to the hashed alias it issues.",
+  "locale": "en-US",
+  "country": "United States",
+  "lead_time": "5 to 10 business days after approval",
+  "quote_turnaround": "within 24 hours on business days",
+  "materials": [
+    "PETG",
+    "ASA",
+    "PA-CF (carbon-fibre nylon)",
+    "TPU"
+  ],
+  "max_size_mm": 250,
+  "founded": "2026",
+  "indexnow_key": "4f5d376f530acfa721f3b161d4ec38d5",
+  "google_site_verification": "",
+  "bing_site_verification": ""
+}

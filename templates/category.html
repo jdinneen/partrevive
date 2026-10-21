@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<div class="wrap">
+  {{ m.crumbs(page.crumbs) }}
+  <h1>{{ c.name }}</h1>
+  <div class="cat-head">
+    <div>
+      <p class="lead">{{ c.intro }}</p>
+      <p><a class="btn" href="{{ u('/request/') }}" data-quote="category-{{ c.slug }}">Request a quote</a></p>
+    </div>
+    {% if imginfo(c.image) %}<div class="cat-img">{{ m.pic(c.image, c.image_alt or c.name, eager=true) }}</div>{% endif %}
+  </div>
+  {% if c._products %}
+  <h2>Parts in this category</h2>
+  <ul class="grid">{% for p in c._products %}{{ m.part_card(p) }}{% endfor %}</ul>
+  {% else %}
+  <p>No parts listed here yet. <a href="{{ u('/request/') }}">Request a custom quote</a>.</p>
+  {% endif %}
+</div>
+{% endblock %}

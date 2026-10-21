@@ -1,0 +1,83 @@
+{
+  "slug": "dewalt-tstak-latch-clip",
+  "name": "DeWalt TSTAK latch clip",
+  "category": "tools-toolboxes",
+  "meta_title": "DeWalt TSTAK Latch Replacement, 3D Printed | PartRevive",
+  "meta_description": "Broken DeWalt TSTAK latch or clip? We print a replacement pair in PETG or PA-CF. Quote within 24 hours, from $12 a pair. Send a photo.",
+  "h1": "DeWalt TSTAK latch replacement, printed pair",
+  "primary_keyword": "dewalt tstak latch replacement",
+  "secondary_keywords": [
+    "tstak latch 3d print",
+    "dewalt tstak clip",
+    "tstak latch keeps breaking",
+    "dewalt toolbox latch replacement"
+  ],
+  "answer_first": "We print replacement latch clips that fit DeWalt TSTAK toolboxes in PETG, or in carbon-fibre nylon (PA-CF) for harder use. Send a photo of the broken latch and we quote within 24 hours, from $12 for a pair.",
+  "fits": [
+    "DeWalt TSTAK stackable toolbox latches and clips (send a photo to confirm your box)"
+  ],
+  "problem": "TSTAK latches get snapped when boxes are stacked and lifted by the handle, or when a lid is slammed in the cold. The latch is a small part on a large, otherwise sound box, so people end up with a good box that will not close.",
+  "oem_situation": "An original latch is about $22 on eBay. A printed 2-pack sells for $9.95 elsewhere. We price from $12 a pair and quote based on the version of the latch.",
+  "our_part": "We print PETG for everyday toolboxes and PA-CF, carbon-fibre filled nylon, when the box takes hard use. Printing the latch with layers running along the load path is the main thing that keeps it from snapping the same way again. We need a photo of the broken latch beside a coin and one of the matching spot on the box.",
+  "price_from_usd": 12,
+  "price_note": "per pair; larger sets quoted lower per clip",
+  "material": "PETG or PA-CF",
+  "specs": [
+    {
+      "label": "Material",
+      "value": "PETG standard, PA-CF on request"
+    },
+    {
+      "label": "Max size",
+      "value": "250 mm"
+    },
+    {
+      "label": "Lead time",
+      "value": "5 to 10 business days after approval"
+    },
+    {
+      "label": "Made",
+      "value": "To order from your photo or model number"
+    }
+  ],
+  "how_to_order": [
+    "Photograph the broken latch, or the empty latch position on the box, with a coin in the shot.",
+    "Send photos on the request page, with a coin or ruler in the shot and the model number if you have it. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Will it fit my TSTAK box?",
+      "a": "If your box looks like a DeWalt TSTAK, we match it from photos. Tell us which box size you have and we confirm the fit before printing."
+    },
+    {
+      "q": "Is a printed part as strong as the original?",
+      "a": "We do not claim it matches the original. Printed PETG is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. If the latch has snapped repeatedly, ask for PA-CF, which is stiffer and tougher."
+    },
+    {
+      "q": "How do I measure or photograph the part?",
+      "a": "Photograph the latch from the front, the side and the underside, plus the post it clips onto on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+    },
+    {
+      "q": "Is PETG strong enough for a loaded toolbox?",
+      "a": "For ordinary use, usually. For heavy tools or a box that gets dropped, choose PA-CF and let us know the loaded weight."
+    },
+    {
+      "q": "Can I order a set for several boxes?",
+      "a": "Yes. Give us the number of latches you need and we quote a lower price per clip."
+    }
+  ],
+  "related": [
+    "milwaukee-packout-drawer-latch",
+    "custom-replacement-part-from-photo"
+  ],
+  "image_alt": "Printed replacement TSTAK-style toolbox latch pair",
+  "sources": [
+    {
+      "label": "Printed TSTAK clip 5-pack listing",
+      "url": "https://shop.you3dit.com/products/dewalt-tstaktm-clip-replacement-5-pack-am"
+    }
+  ],
+  "lead_time": "5 to 10 business days after approval",
+  "image": "dewalt-tstak-latch-clip.jpg"
+}

@@ -1,0 +1,71 @@
+{% macro pic(file, alt, eager=false, cls='') -%}
+{%- set i = imginfo(file) if file else none -%}
+{%- if i -%}
+<img src="{{ i.src }}" width="{{ i.w }}" height="{{ i.h }}" alt="{{ alt or '' }}"{% if eager %} fetchpriority="high"{% else %} loading="lazy" decoding="async"{% endif %}{% if cls %} class="{{ cls }}"{% endif %}>
+{%- endif -%}
+{%- endmacro %}
+
+{% macro part_card(p) -%}
+<li class="card">
+  {% if imginfo(p.image) %}<a class="card-img" href="{{ u(p._url) }}" tabindex="-1" aria-hidden="true">{{ pic(p.image, p.image_alt or p.name) }}</a>{% endif %}
+  <div class="card-body">
+    {% if p._cat %}<p class="eyebrow">{{ p._cat.name }}</p>{% endif %}
+    <h3><a href="{{ u(p._url) }}">{{ p.name }}</a></h3>
+    <p>{{ (p.answer_first or '')|truncate(130) }}</p>
+    {% if p.price_from_usd is defined and p.price_from_usd is not none %}<p class="price">From ${{ p.price_from_usd }}</p>{% endif %}
+  </div>
+</li>
+{%- endmacro %}
+
+{% macro cat_card(c) -%}
+<li class="card">
+  {% if imginfo(c.image) %}<a class="card-img" href="{{ u(c._url) }}" tabindex="-1" aria-hidden="true">{{ pic(c.image, c.image_alt or c.name) }}</a>{% endif %}
+  <div class="card-body">
+    <h3><a href="{{ u(c._url) }}">{{ c.name }}</a></h3>
+    <p>{{ (c.intro or '')|truncate(120) }}</p>
+  </div>
+</li>
+{%- endmacro %}
+
+{% macro guide_card(a) -%}
+<li class="card">
+  {% if imginfo(a.image) %}<a class="card-img" href="{{ u(a._url) }}" tabindex="-1" aria-hidden="true">{{ pic(a.image, a.image_alt or a.title) }}</a>{% endif %}
+  <div class="card-body">
+    <p class="eyebrow">Guide</p>
+    <h3><a href="{{ u(a._url) }}">{{ a.title }}</a></h3>
+    <p>{{ (a.answer_first or '')|truncate(140) }}</p>
+  </div>
+</li>
+{%- endmacro %}
+
+{% macro crumbs(items) -%}
+<nav class="crumbs" aria-label="Breadcrumb">
+  <ol>
+    {% for name, path in items %}
+    <li>{% if loop.last %}<span aria-current="page">{{ name }}</span>{% else %}<a href="{{ u(path) }}">{{ name }}</a>{% endif %}</li>
+    {% endfor %}
+  </ol>
+</nav>
+{%- endmacro %}
+
+{% macro faq_list(faqs) -%}
+<div class="faq">
+  {% for f in faqs %}
+  <details>
+    <summary>{{ f.q }}</summary>
+    <p>{{ f.a }}</p>
+  </details>
+  {% endfor %}
+</div>
+{%- endmacro %}
+
+{% macro sources(items) -%}
+{% if items %}
+<section aria-labelledby="sources-h" class="sources">
+  <h2 id="sources-h">Sources</h2>
+  <ol>
+    {% for s in items %}<li><a href="{{ s.url }}" rel="noopener nofollow">{{ s.label }}</a></li>{% endfor %}
+  </ol>
+</section>
+{% endif %}
+{%- endmacro %}

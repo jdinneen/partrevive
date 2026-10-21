@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<div class="wrap narrow">
+  {{ m.crumbs(page.crumbs) }}
+  <h1>Request a quote</h1>
+  <p class="lead">Tell us what broke and attach a photo. We reply {{ site.quote_turnaround }} with a price and lead time ({{ site.lead_time }}). You approve the quote before we print anything.</p>
+
+  <form class="quote-form" action="{{ form_action }}" method="POST" enctype="multipart/form-data" data-lead>
+    <input type="hidden" name="_subject" value="PartRevive quote request">
+    <input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="_template" value="table">
+    <input type="hidden" name="_next" value="{{ next_url }}">
+    <div class="honey"><label for="_honey">Leave this field empty</label><input type="text" id="_honey" name="_honey" tabindex="-1" autocomplete="off"></div>
+
+    <div class="field">
+      <label for="name">Your name</label>
+      <input type="text" id="name" name="name" autocomplete="name" required>
+    </div>
+    <div class="field">
+      <label for="email">Email address</label>
+      <input type="email" id="email" name="email" autocomplete="email" required>
+    </div>
+    <div class="field">
+      <label for="part">Part, appliance or vehicle model</label>
+      <input type="text" id="part" name="part" aria-describedby="part-h" required>
+      <p class="hint" id="part-h">For example: Samsung RF28 fridge door bin, or the brand and model number printed on the appliance.</p>
+    </div>
+    <div class="field">
+      <label for="broke">What broke?</label>
+      <textarea id="broke" name="what_broke" rows="5" aria-describedby="broke-h" required></textarea>
+      <p class="hint" id="broke-h">Which piece, how it broke, and anything unusual about it (heat, sun, age).</p>
+    </div>
+    <div class="field">
+      <label for="qty">Quantity</label>
+      <input type="number" id="qty" name="quantity" min="1" max="500" value="1" inputmode="numeric">
+    </div>
+    <div class="field">
+      <label for="photo">Photo of the broken part</label>
+      <input type="file" id="photo" name="attachment" accept="image/*" aria-describedby="photo-h">
+      <p class="hint" id="photo-h">Place a coin or ruler beside the part and shoot from two or three angles. Keep the file under 5 MB.{% if photo_guide %} <a href="{{ u('/guides/' ~ photo_guide.slug ~ '/') }}">How to photograph a broken part</a>.{% endif %}</p>
+    </div>
+    <p><button class="btn btn-lg" type="submit">Send quote request</button></p>
+    <p class="fine-note">We use your details only to reply about this quote. We do not make safety-critical parts, battery contacts, children's items or food-contact surfaces.</p>
+  </form>
+</div>
+{% endblock %}
+{% block scripts %}
+<script>
+(function(){var p=new URLSearchParams(location.search).get("part");if(!p)return;
+var names={{ parts_map|tojson }};var f=document.getElementById("part");
+if(f&&!f.value){f.value=names[p]||p.replace(/-/g," ");}})();
+</script>
+{% endblock %}

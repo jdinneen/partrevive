@@ -1,0 +1,88 @@
+{
+  "slug": "custom-replacement-part-from-photo",
+  "name": "Custom replacement part from a photo",
+  "category": "tools-toolboxes",
+  "meta_title": "Custom 3D Printed Replacement Part From a Photo",
+  "meta_description": "Send a photo of a broken plastic part and we quote a 3D-printed replacement within 24 hours, from $35 including design time. Start your quote now.",
+  "h1": "Custom replacement part from a photo",
+  "primary_keyword": "custom 3d printed replacement part",
+  "secondary_keywords": [
+    "3d print replacement part from photo",
+    "replace broken plastic part",
+    "custom plastic part from photo",
+    "discontinued plastic part replacement"
+  ],
+  "answer_first": "Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement within 24 hours on business days, from $35 including design time for simple parts. We print in PETG, ASA, PA-CF or TPU.",
+  "fits": [
+    "Most plastic parts under 250 mm that are not food-contact and not safety-critical",
+    "Appliance knobs, bins and clips; RV and camper latches; toolbox parts; car interior trim"
+  ],
+  "problem": "Plastic parts break, and the maker often no longer sells them, or sells only a whole assembly. A cheap clip then looks like a reason to throw a good machine away.",
+  "oem_situation": "Typically the choices are an expensive original, a used part with an unknown fit, or no part at all. A printed part sits in between: made to order from your photo, often for less than an original assembly.",
+  "our_part": "This is the main service. You photograph the part, we reply within 24 hours with a yes, a no, or a question. We then design it, print it in the right material (ASA for sun and heat, PA-CF for high load, TPU for flexible, PETG for general use), and ship it. Parts must be under 250 mm and plastic. We do not make food-contact parts, safety-critical parts such as brakes, battery contacts or child items, or parts under high heat unless ASA suits the job.",
+  "price_from_usd": 35,
+  "price_note": "includes design time for simple parts; complex shapes are quoted individually",
+  "material": "PETG, ASA, PA-CF or TPU, chosen per part",
+  "specs": [
+    {
+      "label": "Quote time",
+      "value": "Within 24 hours on business days"
+    },
+    {
+      "label": "Material",
+      "value": "PETG, ASA, PA-CF or TPU depending on the part"
+    },
+    {
+      "label": "Max size",
+      "value": "250 mm"
+    },
+    {
+      "label": "Lead time",
+      "value": "5 to 10 business days after approval"
+    },
+    {
+      "label": "Made",
+      "value": "To order from your photo or model number"
+    }
+  ],
+  "how_to_order": [
+    "Photograph the broken part, and the place it fits, from several sides, with a coin or ruler in the picture. Add the brand, model and any number stamped on the part.",
+    "Send the photos on the request page. We reply within 24 hours on business days with a quote, or an honest no if the part is a poor fit for printing.",
+    "Approve the quote, and we design and print the part, usually in 5 to 10 business days after approval, then ship it."
+  ],
+  "faqs": [
+    {
+      "q": "What can you print?",
+      "a": "Plastic parts under 250 mm in size: knobs, clips, latches, bins, brackets and trim. We use PETG, ASA, PA-CF or TPU. We do not print food-contact or safety-critical parts."
+    },
+    {
+      "q": "How does the quote work?",
+      "a": "You send photos and we reply within 24 hours on business days with a price and a timeline. The quote covers design time for simple parts. Complex or multi-part designs cost more and we tell you before you approve."
+    },
+    {
+      "q": "Is a printed part as strong as the original?",
+      "a": "We do not claim it matches the original. Printed PETG or ASA is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. We choose PA-CF where high load is expected."
+    },
+    {
+      "q": "How do I measure or photograph the part?",
+      "a": "Photograph the part from the top, side and mounting end, and the place it fits on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+    },
+    {
+      "q": "What will you refuse to make?",
+      "a": "Food-contact items, anything safety-critical such as brakes, battery contacts or child items, and parts that face high heat unless ASA suits the job. We say so in the reply."
+    },
+    {
+      "q": "What if the part does not fit?",
+      "a": "Tell us and we work out why. Accurate photos with a coin for scale cut the risk, and we confirm the details with you before printing."
+    }
+  ],
+  "related": [
+    "rv-window-latch",
+    "dewalt-tstak-latch-clip",
+    "whirlpool-kitchenaid-fridge-door-bin"
+  ],
+  "image_alt": "Broken plastic part photographed next to a coin beside its printed replacement",
+  "sources": [],
+  "lead_time": "5 to 10 business days after approval",
+  "image": "custom-replacement-part-from-photo.jpg"
+}

@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="wrap narrow">
+  <h1>Thank you, your request is in</h1>
+  <p class="lead">We will reply {{ site.quote_turnaround }} with a quote. If you do not hear from us, check your spam folder.</p>
+  <p><a class="btn" href="{{ u('/parts/') }}">Browse parts</a> <a class="btn btn-ghost" href="{{ u('/guides/') }}">Read the guides</a></p>
+</div>
+{% endblock %}

@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% import "_macros.html" as m %}
+{% block content %}
+<div class="wrap narrow prose">
+  {{ m.crumbs(page.crumbs) }}
+  <h1>About {{ site.site_name }}</h1>
+  <div class="answer" role="note"><p><strong>Short answer:</strong> {{ site.site_name }} is a new one-person shop, launched October 2026, that 3D-prints replacement plastic parts to order.</p></div>
+  <h2>Why this exists</h2>
+  <p>A small plastic part breaks, and the maker sells only the whole assembly, or no longer sells it at all. We make the single part you need, in a material chosen for how it is used.</p>
+  <h2>How we work</h2>
+  <ol>
+    <li>You send a photo and the model number.</li>
+    <li>We quote {{ site.quote_turnaround }}, including whether printing is a sensible fix.</li>
+    <li>You approve, we design and print it, and we ship it. Lead time is {{ site.lead_time }}.</li>
+  </ol>
+  <p>We do not stock parts. Everything is made to order, up to about {{ site.max_size_mm }} mm.</p>
+  <h2>Materials</h2>
+  <ul>
+    <li><strong>PETG</strong> for general indoor parts</li>
+    <li><strong>ASA</strong> for sun and heat</li>
+    <li><strong>PA-CF</strong> (carbon-fibre nylon) for high loads</li>
+    <li><strong>TPU</strong> for flexible parts</li>
+  </ul>
+  <h2>What we will not make</h2>
+  <p>Safety-critical parts such as brake or steering components, battery contacts and other live electrical parts, children's items, and surfaces that touch food. We also do not claim our parts are equivalent to, or certified against, the original maker's part.</p>
+  <h2>Brands</h2>
+  <p>We are not affiliated with any brand named on this site. Brand and model names identify fit only.</p>
+  <p><a class="btn btn-lg" href="{{ u('/request/') }}" data-quote="about">Request a quote</a></p>
+</div>
+{% endblock %}

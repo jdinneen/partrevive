@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="wrap narrow">
+  <h1>Page not found</h1>
+  <p class="lead">That page does not exist or has moved.</p>
+  <p><a class="btn" href="{{ u('/parts/') }}">Browse parts</a> <a class="btn btn-ghost" href="{{ u('/request/') }}">Request a quote</a> <a class="btn btn-ghost" href="{{ u('/') }}">Home</a></p>
+</div>
+{% endblock %}

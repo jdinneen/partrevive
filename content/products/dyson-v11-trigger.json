@@ -1,0 +1,87 @@
+{
+  "slug": "dyson-v11-trigger",
+  "name": "Dyson V11 trigger",
+  "category": "kitchen-appliance",
+  "meta_title": "Dyson V11 Trigger Replacement, 3D Printed | PartRevive",
+  "meta_description": "Broken Dyson V11 trigger? We print just the plastic trigger, no electrical parts. Quote in 24 hours, from $16. Send a photo to start.",
+  "h1": "Dyson V11 trigger replacement, printed plastic only",
+  "primary_keyword": "dyson v11 trigger replacement",
+  "secondary_keywords": [
+    "dyson v11 trigger broken",
+    "dyson v11 trigger 3d print",
+    "dyson v11 power trigger",
+    "dyson cordless trigger repair"
+  ],
+  "answer_first": "We print a replacement plastic trigger that fits the Dyson V11 cordless vacuum, from your photos. We do not touch electrical parts, only the plastic trigger. Quote within 24 hours, from $16.",
+  "fits": [
+    "Dyson V11 cordless vacuum trigger (confirm by photo)"
+  ],
+  "problem": "The V11 trigger is a small plastic lever that you press every time you clean, and it snaps at its pivot. The vacuum works, but you cannot turn it on without the trigger.",
+  "oem_situation": "The original trigger is sold only as part of a whole handle. The most-downloaded free fix has 2,630 downloads, which shows how common the failure is.",
+  "our_part": "We print only the plastic trigger, in PA-CF, carbon-fibre nylon, because the pivot takes repeated load. We do not touch electrical parts: the switch, battery, motor and wiring are untouched, and you fit the trigger yourself. We need photos of the broken trigger and the handle slot, with a coin for scale.",
+  "price_from_usd": 16,
+  "price_note": "per trigger",
+  "material": "PA-CF",
+  "specs": [
+    {
+      "label": "Scope",
+      "value": "Plastic trigger only; no electrical parts"
+    },
+    {
+      "label": "Material",
+      "value": "PA-CF (carbon-fibre nylon)"
+    },
+    {
+      "label": "Max size",
+      "value": "250 mm"
+    },
+    {
+      "label": "Lead time",
+      "value": "5 to 10 business days after approval"
+    },
+    {
+      "label": "Made",
+      "value": "To order from your photo or model number"
+    }
+  ],
+  "how_to_order": [
+    "Photograph the broken trigger and the handle area where it sits.",
+    "Send photos on the request page, with a coin or ruler in the shot and the model number if you have it. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Do you repair the switch or battery?",
+      "a": "No. We do not touch electrical parts. We print only the plastic trigger, and the switch, battery and wiring are not part of the service."
+    },
+    {
+      "q": "Is a printed part as strong as the original?",
+      "a": "We do not claim it matches the original. Printed PA-CF is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. The pivot is the part that fails, so we orient the print so the layers do not split there."
+    },
+    {
+      "q": "How do I measure or photograph the part?",
+      "a": "Photograph the broken trigger, the handle slot and the pivot pin, with a coin for scale on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+    },
+    {
+      "q": "Will fitting it affect my warranty?",
+      "a": "It may. Check your Dyson warranty before you open the handle, since opening the vacuum is your decision."
+    },
+    {
+      "q": "Why not buy the whole handle?",
+      "a": "The whole handle is the only original option and costs far more than a trigger. A printed trigger replaces just the broken plastic."
+    }
+  ],
+  "related": [
+    "maytag-whirlpool-dryer-knob",
+    "custom-replacement-part-from-photo"
+  ],
+  "image_alt": "Printed replacement plastic vacuum trigger with a coin for scale",
+  "sources": [
+    {
+      "label": "Printables model of a free Dyson V11 trigger, 2,630 downloads",
+      "url": "https://www.printables.com/model/248539"
+    }
+  ],
+  "lead_time": "5 to 10 business days after approval",
+  "image": "dyson-v11-trigger.jpg"
+}
