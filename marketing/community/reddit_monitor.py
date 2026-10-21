@@ -36,10 +36,25 @@ SLUG_RULES = [
 
 
 def fetch(sub):
-    url = f"https://www.reddit.com/r/{sub}/new.json?limit=25"
-    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/json"})
+    """Reddit's JSON endpoint returns 403 from this network; the RSS feed does not.
+    Returns the same shape the JSON code expects: {"data": {"children": [{"data": post}]}}."""
+    import re
+    import xml.etree.ElementTree as ET
+    url = f"https://www.reddit.com/r/{sub}/new.rss?limit=25"
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "application/atom+xml"})
     with urllib.request.urlopen(req, timeout=20) as r:
-        return json.load(r)
+        root = ET.fromstring(r.read())
+    ns = {"a": "http://www.w3.org/2005/Atom"}
+    posts = []
+    for e in root.findall("a:entry", ns):
+        link = e.find("a:link", ns)
+        content = e.find("a:content", ns)
+        body = re.sub(r"<[^>]+>", " ", content.text or "") if content is not None else ""
+        posts.append({"title": (e.findtext("a:title", default="", namespaces=ns) or ""),
+                      "selftext": body, "permalink": (link.get("href") if link is not None else "").replace("https://www.reddit.com", ""),
+                      "created_utc": e.findtext("a:updated", default="", namespaces=ns),
+                      "subreddit": sub})
+    return {"data": {"children": [{"data": p} for p in posts]}}
 
 
 def suggest(text):

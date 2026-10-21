@@ -40,7 +40,6 @@
     </div>
     <p><button class="btn btn-lg" type="submit" id="send-btn">Send quote request</button></p>
     <p class="fine-note">We use your details only to reply about this quote. We do not make safety-critical parts, battery contacts, children's items or food-contact surfaces.</p>
-    <p class="fine-note">Prefer email? Send your photos to <a href="mailto:{{ site.contact_email }}?subject=PartRevive%20quote%20request">{{ site.contact_email }}</a>.</p>
   </form>
 </div>
 {% endblock %}
@@ -53,14 +52,12 @@
   if(p&&pf&&!pf.value){pf.value=names[p]||p.replace(/-/g," ");}
   var form=document.querySelector("form[data-lead]"),st=document.getElementById("form-status"),btn=document.getElementById("send-btn");
   if(!form||!window.fetch||!window.FormData)return;
-  var mail="{{ site.contact_email }}";
+  var mail="";
   function show(kind,html){st.className="form-status form-status-"+kind;st.innerHTML=html;st.hidden=false;st.scrollIntoView({block:"nearest"});}
-  function mailto(){
-    var d=new FormData(form),nl=String.fromCharCode(10);
-    var body=["Name: "+(d.get("name")||""),"Email: "+(d.get("email")||""),"Part: "+(d.get("part")||""),"Quantity: "+(d.get("quantity")||"1"),"","What broke:",(d.get("what_broke")||""),"","(Please attach your photos.)"].join(nl);
-    return "mailto:"+mail+"?subject="+encodeURIComponent("PartRevive quote request: "+(d.get("part")||""))+"&body="+encodeURIComponent(body);
+  function retryPath(){
+    return location.pathname;
   }
-  if(q.get("error")){show("err","Something went wrong with that submission. Please try again, or <a href=\"mailto:"+mail+"\">email us</a> instead.");}
+  if(q.get("error")){show("err","Something went wrong with that submission. Please try again in a few minutes.");}
   form.addEventListener("submit",function(e){
     e.preventDefault();
     if(!form.reportValidity())return;
@@ -78,12 +75,12 @@
         }
         var why=res.j&&res.j.error||("error "+res.status);
         var msg={bad_email:"That email address does not look right.",missing_fields:"Please fill in every required field.",photo_too_large:"That photo is over 10 MB. Please resize it or send it by email.",request_too_large:"Those files are over 10 MB in total. Please resize them or send them by email.",too_many_requests:"Too many requests from this connection. Please try again in an hour or email us."}[why]||"We could not send that request.";
-        show("err",msg+" Or <a href=\""+mailto()+"\">send it by email</a> to "+mail+".");
+        show("err",msg);
         btn.disabled=false;btn.textContent="Send quote request";
       })
       .catch(function(){
         if(timer)clearTimeout(timer);
-        show("err","We could not reach our server. <a href=\""+mailto()+"\">Send the request by email</a> instead (it opens your mail app with the details filled in), or email "+mail+" directly.");
+        show("err","We could not reach our server. Your details are still in the form; please try again in a few minutes.");
         btn.disabled=false;btn.textContent="Send quote request";
       });
   });

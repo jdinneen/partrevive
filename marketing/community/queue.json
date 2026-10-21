@@ -1,11 +1,28 @@
 {
-  "generated_utc": 1792615828,
+  "generated_utc": 1792616051,
   "user_agent": "PartReviveThreadFinder/0.1 (read-only research script; contact jon.dinneen2@gmail.com)",
-  "subs_scanned": {},
+  "subs_scanned": {
+    "RVLiving": 25,
+    "3dPrintSellers": 0
+  },
   "errors": {
-    "RVLiving": "HTTP 403",
-    "fixit": "HTTP 403",
-    "3Dprinting": "HTTP 403"
+    "GoRVing": "HTTP 429",
+    "rvs": "HTTP 429",
+    "TravelTrailers": "HTTP 429",
+    "Tacoma": "HTTP 429",
+    "ToyotaTacoma": "HTTP 429",
+    "Silverado": "HTTP 429",
+    "Appliances": "HTTP 429",
+    "ApplianceRepair": "HTTP 429",
+    "fixit": "HTTP 429",
+    "HomeImprovement": "HTTP 429",
+    "3Dprinting": "HTTP 429",
+    "functionalprint": "HTTP 429",
+    "YetiCoolers": "HTTP 429",
+    "Dewalt": "HTTP 429",
+    "MilwaukeeTool": "HTTP 429",
+    "pelicancases": "HTTP 429",
+    "Dyson": "HTTP 429"
   },
   "queue": []
 }
