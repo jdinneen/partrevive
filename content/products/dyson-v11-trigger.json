@@ -17,8 +17,8 @@
     "Dyson V11 cordless vacuum trigger (confirm by photo)"
   ],
   "problem": "The V11 trigger is a small plastic lever that you press every time you clean, and it snaps at its pivot. The vacuum works, but you cannot turn it on without the trigger.",
-  "oem_situation": "The original trigger is sold only as part of a whole handle. The most-downloaded free fix has 2,630 downloads, which shows how common the failure is.",
-  "our_part": "We print only the plastic trigger, in PA-CF, carbon-fibre nylon, because the pivot takes repeated load. We do not touch electrical parts: the switch, battery, motor and wiring are untouched, and you fit the trigger yourself. We need photos of the broken trigger and the handle slot, with a coin for scale.",
+  "oem_situation": "The original trigger is sold only as part of a whole handle, so a small plastic break can look like a costly repair.",
+  "our_part": "We print only the plastic trigger, in PA-CF, carbon-fiber nylon, because the pivot takes repeated load. We do not touch electrical parts: the switch, battery, motor and wiring are untouched, and you fit the trigger yourself. We need photos of the broken trigger and the handle slot, with a coin for scale.",
   "price_from_usd": 16,
   "price_note": "per trigger",
   "material": "PA-CF",
@@ -29,7 +29,7 @@
     },
     {
       "label": "Material",
-      "value": "PA-CF (carbon-fibre nylon)"
+      "value": "PA-CF (carbon-fiber nylon)"
     },
     {
       "label": "Max size",
@@ -56,11 +56,11 @@
     },
     {
       "q": "Is a printed part as strong as the original?",
-      "a": "We do not claim it matches the original. Printed PA-CF is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. The pivot is the part that fails, so we orient the print so the layers do not split there."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them, and we tell you if a part is a poor candidate. The pivot is the part that fails, so we orient the print so the layers do not split there."
     },
     {
       "q": "How do I measure or photograph the part?",
-      "a": "Photograph the broken trigger, the handle slot and the pivot pin, with a coin for scale on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+      "a": "Photograph the broken trigger, the handle slot and the pivot pin on a plain background with a coin or ruler beside them, from the top, the side and the mounting end. If you still have a broken piece, photograph that too."
     },
     {
       "q": "Will fitting it affect my warranty?",
@@ -68,7 +68,7 @@
     },
     {
       "q": "Why not buy the whole handle?",
-      "a": "The whole handle is the only original option and costs far more than a trigger. A printed trigger replaces just the broken plastic."
+      "a": "The whole handle is the only original option. A printed trigger replaces just the broken plastic."
     }
   ],
   "related": [
@@ -78,7 +78,7 @@
   "image_alt": "Printed replacement plastic vacuum trigger with a coin for scale",
   "sources": [
     {
-      "label": "Printables model of a free Dyson V11 trigger, 2,630 downloads",
+      "label": "Printables model of a free Dyson V11 trigger",
       "url": "https://www.printables.com/model/248539"
     }
   ],

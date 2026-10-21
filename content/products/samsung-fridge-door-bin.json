@@ -52,19 +52,19 @@
     },
     {
       "q": "Is a printed part as strong as the original?",
-      "a": "We do not claim it matches the original. Printed PETG is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. We reinforce load-bearing corners where the original design allows."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them, and we tell you if a part is a poor candidate. We reinforce load-bearing corners where the original design allows."
     },
     {
       "q": "How do I measure or photograph the part?",
-      "a": "Photograph the bin from the front, the side and the underside, and the clips or rails that hold it on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+      "a": "Photograph the bin from the front, the side and the underside, and the clips or rails that hold it, on a plain background with a coin or ruler beside it. Also send the fridge model number from the sticker inside the fridge compartment. If you still have a broken piece, photograph that too."
     },
     {
       "q": "Is the bin food safe?",
       "a": "We make no food-contact claims. Keep loose food off it and use it for packaged goods and bottles."
     },
     {
-      "q": "Does the bin look identical to the original?",
-      "a": "It will have the same shape and function. The surface shows fine print lines, and the colour is the nearest we can offer, not an exact match."
+      "q": "Will the bin look the same as the original?",
+      "a": "Printed does not mean identical. It is made to fit the same space, the surface shows fine print lines, and the color is the nearest we can offer, not an exact match."
     }
   ],
   "related": [

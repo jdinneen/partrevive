@@ -19,8 +19,8 @@
     "Other covers on request; send a photo to confirm"
   ],
   "problem": "The small plastic clip that holds the prop rod or strut cracks or is lost, so the cover will not stay propped open. That typically happens after sun, cold and many open-close cycles. The cover itself is usually fine.",
-  "oem_situation": "The cover maker typically sells these clips only as part of a hardware kit, though we have not verified this for every model. Free printable files exist for some covers, but they need to match your exact cover and a photo with scale. We make a single clip to your photo instead.",
-  "our_part": "We print ASA because a clip on a truck bed sits in sun and weather all year, and ASA is the UV and heat resistant choice. We do not use PLA, which softens in heat. We need a photo of the old clip or the empty mounting spot, with a coin or ruler in the shot, plus the cover brand and model and your truck year. We make trim and hardware clips only, not safety-related parts.",
+  "oem_situation": "The cover maker typically sells these clips only as part of a hardware kit. We make a single clip to your photo instead.",
+  "our_part": "We print ASA because a clip on a truck bed sits in sun and weather all year, and ASA is the UV and heat resistant choice. We do not use PLA, which softens in heat. We need a photo of the old clip or the empty mounting spot, with a coin or ruler in the shot, plus the cover brand and model and your truck year. We make trim and hardware clips only, not safety-related parts. Do not rely on a printed clip as the only support for a raised cover; check the cover is secure before reaching under it.",
   "price_from_usd": 14,
   "price_note": "per clip; sets for several clips quoted lower per unit",
   "material": "ASA",
@@ -59,7 +59,7 @@
     },
     {
       "q": "Is a printed clip as strong as the original?",
-      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the load runs along the layers. A prop rod clip holds a light load, but tell us if your cover is heavy."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them. A prop rod clip holds a light load, but tell us if your cover is heavy."
     },
     {
       "q": "Will it handle heat and sun on a truck bed?",

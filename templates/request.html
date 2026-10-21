@@ -74,7 +74,7 @@
           return;
         }
         var why=res.j&&res.j.error||("error "+res.status);
-        var msg={bad_email:"That email address does not look right.",missing_fields:"Please fill in every required field.",photo_too_large:"That photo is over 10 MB. Please resize it or send it by email.",request_too_large:"Those files are over 10 MB in total. Please resize them or send them by email.",too_many_requests:"Too many requests from this connection. Please try again in an hour or email us."}[why]||"We could not send that request.";
+        var msg={bad_email:"That email address does not look right.",missing_fields:"Please fill in every required field.",photo_too_large:"That photo is over 10 MB. Please resize it (a phone screenshot of the photo usually works) and try again.",request_too_large:"Those files are over 10 MB in total. Please resize them and try again.",too_many_requests:"Too many requests from this connection. Please try again in an hour."}[why]||"We could not send that request.";
         show("err",msg);
         btn.disabled=false;btn.textContent="Send quote request";
       })

@@ -18,7 +18,7 @@
     "Many travel trailer, fifth wheel and camper van window latches"
   ],
   "problem": "RV window latches live in direct sun and heat. Over the years the plastic turns brittle, and a latch that has worked for a decade snaps the day you open the window. Many are sold only as part of a larger window assembly, so a small break can look like a costly repair.",
-  "oem_situation": "Typically the original latch is hard to buy on its own and is often sold as part of an assembly. Other printed-latch sellers charge roughly $7 to $24 per latch, which is the range we price within.",
+  "oem_situation": "Typically the original latch is hard to buy on its own and is often sold as part of an assembly. Other printed-latch sellers charge roughly $7 to $24 per latch. We price from $18, and the final figure depends on the shape.",
   "our_part": "We print in ASA because it resists UV and heat far better than ordinary hobby plastics, which matters on a sun-facing window. We match the shape from your photo and, if needed, from the broken pieces. We need a clear photo with a coin or ruler, and the window brand if you know it.",
   "price_from_usd": 18,
   "price_note": "per latch; pairs and multi-packs are quoted lower per unit; final price depends on the shape",
@@ -53,11 +53,11 @@
     },
     {
       "q": "Is a printed part as strong as the original?",
-      "a": "We do not claim it matches the original. Printed ASA is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. A latch holds a window closed against wind, not a person's weight."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them, and we tell you if a part is a poor candidate. A latch holds a window closed against wind, not a person's weight."
     },
     {
       "q": "How do I measure or photograph the part?",
-      "a": "Photograph the latch from above and from the side, plus the window frame where it mounts on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+      "a": "Photograph the latch from above and from the side, plus the window frame where it mounts, on a plain background with a coin or ruler beside it. Send the window brand if you know it. If you still have a broken piece, photograph that too."
     },
     {
       "q": "Why ASA instead of cheaper plastic?",

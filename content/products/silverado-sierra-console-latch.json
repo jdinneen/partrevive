@@ -12,14 +12,14 @@
     "chevy silverado center console latch",
     "Silverado console latch broken"
   ],
-  "answer_first": "We print a replacement center console lid latch that fits Chevrolet Silverado and GMC Sierra 2007-2013 and related SUVs with the bucket-seat console, in PETG. Send a photo of the old latch and your year, and we quote within 24 hours on business days, from $19.",
+  "answer_first": "We print a replacement center console lid latch designed to fit the Chevrolet Silverado and GMC Sierra 2007-2013 bucket-seat console, in PETG. Send a photo of the old latch and your year, and we quote within 24 hours on business days, from $19.",
   "fits": [
-    "Chevrolet Silverado 1500, Suburban, Tahoe and Avalanche 2007-2013",
-    "GMC Sierra 1500, Yukon and Yukon XL 2007-2013",
+    "Chevrolet Silverado 1500 2007-2013; Suburban, Tahoe and Avalanche versions confirmed from your photo",
+    "GMC Sierra 1500 2007-2013; Yukon and Yukon XL versions confirmed from your photo",
     "Bucket-seat console versions; we confirm from your photo whether the latch or the lid is the broken part"
   ],
   "problem": "The console latch breaks and the lid will not stay shut, so it flaps open over bumps and corners. It is a small part, but the console is used every drive. People often cannot tell whether the latch or the lid itself has failed.",
-  "oem_situation": "A cheap fix exists: one retailer lists an aftermarket 2-pack of latches (GM 20864151/53/54) for $8.99, and a single latch for $25.95. One reviewer there said a dealer wanted over $200 and would not sell just the latch (an anecdote, not a price we can confirm). If the cheap latch fits your truck, buy it. A made-to-fit printed part makes sense when your year or colour does not match, the part is discontinued, or the latch keeps breaking and you want a stronger material.",
+  "oem_situation": "A cheap fix exists: one retailer lists an aftermarket 2-pack of latches (GM 20864151/53/54) for $8.99, and a single latch for $25.95. If the cheap latch fits your truck, buy it. A made-to-fit printed part makes sense when your year or color does not match, the part is discontinued, or the latch keeps breaking and you want a different material.",
   "our_part": "We print PETG, which holds up in a warm cabin where PLA softens, and we can use ASA if the vehicle sits in strong sun. We do not use PLA for car interiors. We need a photo of the old latch or the empty position, with a coin or ruler in the shot, and your year and model. Interior trim only; we do not make airbag, seatbelt, brake, steering, lighting or fuel parts.",
   "price_from_usd": 19,
   "price_note": "per latch; typical quote, multiples quoted lower per unit",
@@ -40,11 +40,11 @@
   "faqs": [
     {
       "q": "Why not just buy the $8.99 aftermarket pair?",
-      "a": "If it fits your truck and you are happy with it, do that. Ours is for when the year or colour does not match, the part is discontinued, or the latch keeps breaking and you want a stronger material."
+      "a": "If it fits your truck and you are happy with it, do that. Ours is for when the year or color does not match, the part is discontinued, or the latch keeps breaking and you want a different material."
     },
     {
       "q": "Is a printed latch as strong as the original?",
-      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along the layers. We tell you if the part is a poor candidate."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them. We tell you if the part is a poor candidate."
     },
     {
       "q": "Will it handle heat in a parked truck?",

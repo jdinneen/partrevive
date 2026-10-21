@@ -7,9 +7,11 @@
   <div class="cat-head">
     <div>
       <p class="lead">{{ c.intro }}</p>
+      {% set prices = c._products|map(attribute="price_from_usd")|reject("none")|list %}
+      {% if c._products %}<p class="fine-note">{{ c._products|length }} part{{ "s" if c._products|length != 1 }} listed{% if prices %}, from ${{ prices|min }}{% endif %}. Not seeing yours? Every part is made to order, so send a photo.</p>{% endif %}
       <p><a class="btn" href="{{ u('/request/') }}" data-quote="category-{{ c.slug }}">Request a quote</a></p>
     </div>
-    {% if imginfo(c.image) %}<div class="cat-img">{{ m.pic(c.image, c.image_alt or c.name, eager=true) }}</div>{% endif %}
+    {% if imginfo(c.image) %}<div class="cat-img">{{ m.pic(c.image, c.image_alt or c.name, eager=true, sizes='(min-width: 860px) 480px, 92vw') }}</div>{% endif %}
   </div>
   {% if c._products %}
   <h2>Parts in this category</h2>

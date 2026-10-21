@@ -16,8 +16,8 @@
   "fits": [
     "Toyota Tacoma 2005-2012 center console lid latch (original part numbers vary by year, so we confirm from your photo and year)"
   ],
-  "problem": "The small plastic hook and retention tabs on the console latch snap off, so the lid will not stay shut and rattles or pops open on bumps. It is a tiny part on a console that is otherwise fine. The Tacoma community has also reported that printed parts in PLA soften in summer heat inside a parked truck.",
-  "oem_situation": "Molded replacement latches are sold in beige (2009-2012) and gray (2005-2012) by aftermarket retailers, and original part numbers differ by year. We did not capture current prices, so check the listing for your colour and year first. A made-to-fit printed latch is worth asking about when your colour or year is hard to find, or when the latch keeps breaking.",
+  "problem": "The small plastic hook and retention tabs on the console latch snap off, so the lid will not stay shut and rattles or pops open on bumps. It is a tiny part on a console that is otherwise fine.",
+  "oem_situation": "Molded replacement latches are sold in beige (2009-2012) and gray (2005-2012) by aftermarket retailers, and original part numbers differ by year. Check the listing for your color and year first. A made-to-fit printed latch is worth asking about when your color or year is hard to find, or when the latch keeps breaking.",
   "our_part": "We print in PETG, which holds up in a warm cabin where PLA softens, and in ASA when the truck lives in the sun. We do not use PLA for car interiors. We need a clear photo of the old latch or the empty latch position, with a coin or ruler in the shot, plus your year and trim. This is an interior trim part only; we do not make safety-related parts such as airbag, seatbelt, brake, steering, lighting or fuel components.",
   "price_from_usd": 18,
   "price_note": "per latch; typical quote, final price depends on the version",
@@ -42,11 +42,11 @@
     },
     {
       "q": "Is a printed latch as strong as the original?",
-      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print to put the load along the layers. PETG is tough enough for a console lid latch, and we tell you if your part looks like a poor candidate."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them. PETG is tough enough for a console lid latch, and we tell you if your part looks like a poor candidate."
     },
     {
       "q": "Will it survive heat in a parked truck?",
-      "a": "PLA softens in a hot car, so we do not use it. We print PETG for cabins and ASA if the truck sits in strong sun for long periods. The Tacoma latch designer reported that a PETG reprint held up where PLA softened."
+      "a": "PLA softens in a hot car, so we do not use it. We print PETG for cabins and ASA if the truck sits in strong sun for long periods."
     },
     {
       "q": "How do I photograph the latch for a fit check?",

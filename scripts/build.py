@@ -101,6 +101,9 @@ def imginfo(file):
         except Exception:
             w, h = 1200, 900
         info = {"src": u("/assets/img/" + file), "abs": absu("/assets/img/" + file), "w": w, "h": h}
+        stem = p.stem
+        for key, name in (("src600", f"{stem}-600.jpg"), ("webp", f"{stem}.webp"), ("webp600", f"{stem}-600.webp")):
+            info[key] = u("/assets/img/" + name) if (ASSETS / "img" / name).is_file() else None
     else:
         warn(f"image missing: assets/img/{file} (image omitted)")
     _img_cache[file] = info
@@ -267,6 +270,8 @@ def main():
     for a in articles:
         a["_url"] = f"/guides/{a['slug']}/"
 
+    import subprocess
+    subprocess.run([sys.executable, str(ROOT / "scripts" / "images" / "make_variants.py")], check=True)
     if DOCS.exists():
         shutil.rmtree(DOCS)
     DOCS.mkdir(parents=True)
@@ -280,8 +285,11 @@ def main():
 
     env = Environment(loader=FileSystemLoader(str(ROOT / "templates")),
                       autoescape=select_autoescape(["html"]), trim_blocks=True, lstrip_blocks=True)
+    css = (ASSETS / "css" / "site.css").read_text(encoding="utf-8")
+    css = re.sub(r"/\*.*?\*/", "", css, flags=re.S)
+    css = re.sub(r"\s*\n\s*", "", css).strip()
     env.globals.update(u=u, absu=absu, imginfo=imginfo, site=cfg, categories=categories,
-                       year=TODAY[:4])
+                       year=TODAY[:4], inline_css=css)
 
     pages = []
 
@@ -302,7 +310,12 @@ def main():
 
     faqs = general_faqs()
 
-    # Home
+    # Home: 12 featured parts, taken round-robin across categories so every category shows
+    featured, pools = [], [list(c["_products"]) for c in categories]
+    while len(featured) < 12 and any(pools):
+        for pool in pools:
+            if pool and len(featured) < 12:
+                featured.append(pool.pop(0))
     render("home.html", "/", {
         "title": f"{cfg['site_name']}: Made-to-order 3D-printed replacement parts",
         "description": "Send a photo of a broken plastic part and get a quote within 24 hours. Made-to-order 3D-printed replacements for appliances, RVs, tools and cars.",
@@ -318,7 +331,7 @@ def main():
                                      "target": {"@type": "EntryPoint", "urlTemplate": absu("/parts/") + "?q={search_term_string}"},
                                      "query-input": "required name=search_term_string"}}]},
             faq_ld(faqs[:6])]},
-        products=products, latest=articles[:3], faqs=faqs[:6])
+        products=featured, latest=articles[:3], faqs=faqs[:6])
 
     # Product pages
     for p in products:

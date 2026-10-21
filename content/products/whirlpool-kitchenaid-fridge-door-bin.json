@@ -18,7 +18,7 @@
     "KitchenAid refrigerator door bins and holders (confirm by model number)"
   ],
   "problem": "Fridge door bins carry heavy jars and bottles, and cold plastic gets brittle. The holder tabs, the small parts that hook the bin to the door, are what usually break first, and often the whole shelf cracks along a corner.",
-  "oem_situation": "One maker reports an original bin plus holder costing about $200 as a unit. That is a single report, so treat it as an example, not a market price. We price made-to-order bins from $65.",
+  "oem_situation": "Originals are often sold as a bin-plus-holder set and can cost around $200. We price made-to-order bins from $65.",
   "our_part": "We print in PETG, which stays tough at fridge temperatures. We rebuild the broken bin or holder to your measurements. We do not make food-contact claims, so we suggest the bin for jars, bottles and packaged food rather than loose items. We need your model number, found on a sticker inside the fridge, and photos with a ruler.",
   "price_from_usd": 65,
   "price_note": "per bin or holder; price depends on size",
@@ -53,11 +53,11 @@
     },
     {
       "q": "Is a printed part as strong as the original?",
-      "a": "We do not claim it matches the original. Printed PETG is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. Door bins carry jars and bottles, so tell us what you plan to store and we will size the walls to suit."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them, and we tell you if a part is a poor candidate. Door bins carry jars and bottles, so tell us what you plan to store and we tell you whether the bin is a poor candidate for that load."
     },
     {
       "q": "How do I measure or photograph the part?",
-      "a": "Photograph the bin from above and from the side, and the door where it mounts on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+      "a": "Photograph the bin from above and from the side, and the door where it mounts, on a plain background with a coin or ruler beside it. Also send the fridge model number from the sticker inside the fresh-food compartment. If you still have a broken piece, photograph that too."
     },
     {
       "q": "Is the bin food safe?",

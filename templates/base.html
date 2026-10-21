@@ -29,8 +29,10 @@
 <meta name="twitter:title" content="{{ page.title }}">
 <meta name="twitter:description" content="{{ page.description }}">
 {% if ogi %}<meta name="twitter:image" content="{{ ogi.abs }}">{% endif %}
-<link rel="preconnect" href="https://www.googletagmanager.com">
-<link rel="stylesheet" href="{{ u('/assets/css/site.css') }}">
+<link rel="icon" href="{{ u('/assets/img/favicon.svg') }}" type="image/svg+xml">
+<link rel="icon" href="{{ u('/assets/img/favicon-32.png') }}" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="{{ u('/assets/img/apple-touch-icon.png') }}">
+<style>{{ inline_css|safe }}</style>
 {% for j in page.jsonld %}
 <script type="application/ld+json">{{ j|safe }}</script>
 {% endfor %}
@@ -92,10 +94,12 @@
   var n=navigator;
   var optOut=n.doNotTrack==="1"||window.doNotTrack==="1"||n.msDoNotTrack==="1"||n.globalPrivacyControl===true;
   if(!optOut&&id){
-    var s=document.createElement("script");s.async=true;
-    s.src="https://www.googletagmanager.com/gtag/js?id="+id;document.head.appendChild(s);
     gtag("js",new Date());
     gtag("config",id,{allow_google_signals:false,allow_ad_personalization_signals:false,anonymize_ip:true});
+    var load=function(){var s=document.createElement("script");s.async=true;
+      s.src="https://www.googletagmanager.com/gtag/js?id="+id;document.head.appendChild(s);};
+    var idle=function(){(window.requestIdleCallback||function(f){setTimeout(f,1200);})(load);};
+    if(document.readyState==="complete"){idle();}else{window.addEventListener("load",idle);}
   } else { window.gtag=function(){}; }
   document.addEventListener("click",function(e){
     var a=e.target.closest&&e.target.closest("[data-quote]");

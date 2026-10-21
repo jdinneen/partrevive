@@ -18,17 +18,32 @@
     "Rubbermaid ice chests, matched from photos"
   ],
   "problem": "The hinge cracks and splits at the pin, and reviewers report Igloo hinges splitting from stress after a few years. The cooler body is usually fine, but a lid without a hinge will not stay on.",
-  "oem_situation": "A universal Igloo hinge set is about $10 to $12 a pair, and a Coleman set of four hinges is about $10.43. A hinge for the 150 to 165 qt Igloos is $35.99. Many free models also exist, so we compete on matching your exact hinge from photos, from $14.",
+  "oem_situation": "A universal Igloo hinge set is about $10 to $12 a pair, and a Coleman set of four hinges is about $10.43. A hinge for the 150 to 165 qt Igloos is $35.99. We help when a generic set does not match your hinge: we match it from photos, from $14.",
   "our_part": "We print in PETG, a tough everyday plastic, with layers oriented so the pin load runs along them. The hinge screw spacing and pin diameter decide the fit, so we need a photo of the cracked hinge beside a coin or ruler and one of the lid and body mounting points. Large coolers take bigger hinges, up to our 250 mm size limit.",
   "price_from_usd": 14,
   "price_note": "per hinge; sets of two or four quoted lower per unit",
   "material": "PETG",
   "specs": [
-    {"label": "Material", "value": "PETG (tough, everyday)"},
-    {"label": "Max size", "value": "250 mm"},
-    {"label": "Lead time", "value": "5 to 10 business days after approval"},
-    {"label": "Made", "value": "To order from your photo or model number"},
-    {"label": "Typical size", "value": "About 70 x 40 x 15 mm (large coolers about 100 x 60 mm)"}
+    {
+      "label": "Material",
+      "value": "PETG (tough, everyday)"
+    },
+    {
+      "label": "Max size",
+      "value": "250 mm"
+    },
+    {
+      "label": "Lead time",
+      "value": "5 to 10 business days after approval"
+    },
+    {
+      "label": "Made",
+      "value": "To order from your photo or model number"
+    },
+    {
+      "label": "Typical size",
+      "value": "About 70 x 40 x 15 mm (large coolers about 100 x 60 mm)"
+    }
   ],
   "how_to_order": [
     "Photograph the cracked hinge, and where it mounts on the lid and body, with a coin in the shot.",
@@ -36,11 +51,26 @@
     "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
   ],
   "faqs": [
-    {"q": "Will it fit my Igloo or Coleman cooler?", "a": "We match it from photos and the hinge screw spacing, and confirm the fit with you before printing. Tell us the brand, quart size and any model number from the cooler."},
-    {"q": "Is a printed hinge as strong as the original?", "a": "We do not claim it matches the original. Printed PETG is strong, but it is weakest where layers pull apart, so we orient the print along the pin load. We tell you if your hinge is a poor candidate."},
-    {"q": "Will it last outdoors in the sun?", "a": "PETG is fine for ordinary outdoor use, but we do not give a UV rating. If the cooler sits in strong sun all day, tell us when you order and we can discuss ASA."},
-    {"q": "Can I get a set for both sides?", "a": "Yes. Tell us how many hinges you need and we quote a lower price per hinge."},
-    {"q": "How do I measure or photograph it?", "a": "Measure the distance between the hinge screw holes and the pin diameter, or photograph both beside a ruler. Add photos of the hinge from the top, side and mounting face on a plain background."}
+    {
+      "q": "Will it fit my Igloo or Coleman cooler?",
+      "a": "We match it from photos and the hinge screw spacing, and confirm the fit with you before printing. Tell us the brand, quart size and any model number from the cooler."
+    },
+    {
+      "q": "Is a printed hinge as strong as the original?",
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load, here the pin load, runs along them. We tell you if your hinge is a poor candidate."
+    },
+    {
+      "q": "Will it last outdoors in the sun?",
+      "a": "We do not give PETG a UV rating. If the cooler sits in strong sun all day, tell us when you order and we can discuss ASA."
+    },
+    {
+      "q": "Can I get a set for both sides?",
+      "a": "Yes. Tell us how many hinges you need and we quote a lower price per hinge."
+    },
+    {
+      "q": "How do I measure or photograph it?",
+      "a": "Measure the distance between the hinge screw holes and the pin diameter, or photograph both beside a ruler. Add photos of the hinge from the top, side and mounting face on a plain background."
+    }
   ],
   "related": [
     "cooler-lid-latch",
@@ -48,13 +78,24 @@
     "custom-replacement-part-from-photo"
   ],
   "image": "cooler-lid-hinge.jpg",
-  "image_alt": "Printed replacement cooler lid hinge with pin barrel and two screw holes in grey PETG",
+  "image_alt": "Printed replacement cooler lid hinge with pin barrel and two screw holes in gray PETG",
   "sources": [
-    {"label": "Igloo Universal Replacement Cooler Hinges, Sportsmans Warehouse", "url": "https://www.sportsmanswarehouse.com/sportsmans/Igloo-Universal-Replacement-Cooler-Hinges/productDetail/Coolers/prod999901360484/cat100871"},
-    {"label": "Coleman cooler hinge set listing", "url": "https://www.walmart.com/ip/seort/12952966485"},
-    {"label": "Oversized hinge for Igloo 150 to 165 qt coolers", "url": "https://moveonup.csd.auth.gr/products/cooler-oversized-mechanical-hinge-compatible-with-igloo-150/218340432/"},
-    {"label": "MakerWorld Igloo hinge model (reviewers on hinge splitting)", "url": "https://makerworld.com/models/1717448"},
-    {"label": "Printables Coleman Cooler Hinge", "url": "https://www.printables.com/model/679811"}
+    {
+      "label": "Igloo Universal Replacement Cooler Hinges, Sportsmans Warehouse",
+      "url": "https://www.sportsmanswarehouse.com/sportsmans/Igloo-Universal-Replacement-Cooler-Hinges/productDetail/Coolers/prod999901360484/cat100871"
+    },
+    {
+      "label": "Coleman cooler hinge set listing",
+      "url": "https://www.walmart.com/ip/seort/12952966485"
+    },
+    {
+      "label": "MakerWorld Igloo hinge model (reviewers on hinge splitting)",
+      "url": "https://makerworld.com/models/1717448"
+    },
+    {
+      "label": "Printables Coleman Cooler Hinge",
+      "url": "https://www.printables.com/model/679811"
+    }
   ],
   "lead_time": "5 to 10 business days after approval"
 }

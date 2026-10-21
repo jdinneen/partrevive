@@ -21,7 +21,7 @@
   "oem_situation": "Genuine parts cost about $93.50 for the E90 left, $74.97 for the right, and $61.45 for the E46 console holder. A printed PETG E46 cup holder sells at $65.99 elsewhere. We price from $49, and the final figure depends on the model and finish.",
   "our_part": "We print in ASA because a car interior in summer is too hot for ordinary hobby plastics, and ASA resists heat and sunlight. We copy the shape from photos and measurements. We need clear photos of your holder installed, and of the broken one removed, plus the car's year and trim.",
   "price_from_usd": 49,
-  "price_note": "per holder; price depends on model and colour",
+  "price_note": "per holder; price depends on model and color",
   "material": "ASA",
   "specs": [
     {
@@ -53,19 +53,19 @@
     },
     {
       "q": "Is a printed part as strong as the original?",
-      "a": "We do not claim it matches the original. Printed ASA is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. A cup holder holds a drink, not a person's weight, so do not use it as a handle."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them, and we tell you if a part is a poor candidate. A cup holder holds a drink, not a person's weight, so do not use it as a handle."
     },
     {
       "q": "How do I measure or photograph the part?",
-      "a": "Photograph the holder from above, from the front and from the side, and the opening in the dash on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+      "a": "Photograph the holder from above, from the front and from the side on a plain background with a coin or ruler beside it, and photograph the opening it sits in. Send your car's year and trim. If you still have a broken piece, photograph that too."
     },
     {
-      "q": "Does it match my interior colour?",
-      "a": "We offer the nearest available colour, not an exact match. Tell us your interior colour and we suggest the closest option."
+      "q": "Does it match my interior color?",
+      "a": "We offer the nearest available color, not an exact match. Tell us your interior color and we suggest the closest option."
     },
     {
       "q": "Why not PLA like many sellers?",
-      "a": "PLA softens in a hot car. ASA and PETG are the right plastics for vehicle interiors, and ASA is our pick for sun-exposed dash parts."
+      "a": "PLA softens in a hot car. ASA and PETG hold up better in vehicle interiors, and ASA is our pick for sun-exposed dash parts."
     }
   ],
   "related": [

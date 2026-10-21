@@ -19,14 +19,14 @@
     "RTIC hard coolers",
     "Other rubber-latch hard coolers, matched from photos"
   ],
-  "problem": "The rubber pull latch tears, or its pin hole stretches until it slips off, after years of sun and use. The cooler is fine but will not stay shut. Searches such as \"yeti cooler latch broke\" are common.",
+  "problem": "The rubber pull latch tears, or its pin hole stretches until it slips off, after years of sun and use. The cooler is fine but will not stay shut.",
   "oem_situation": "An official 2-pack is about $17 at one retailer, while one reseller lists a 2-pack at $61.39. Latches are sold in sets, and the larger Tundra 85, 120 and 155 coolers use three. We print a single latch or a full set and price from $14.",
-  "our_part": "We print in TPU, a flexible plastic that stretches and springs back like the original rubber, so the latch still pulls over the lid lug. The pin hole size matters most, so we need a photo of the old latch beside a coin and one of the lug it hooks onto. We do not claim bear-resistance or any special rating.",
+  "our_part": "We print in TPU, a flexible plastic that stretches and springs back, so the latch can still pull over the lid lug. The pin hole size matters most, so we need a photo of the old latch beside a coin and one of the lug it hooks onto. We do not claim bear-resistance or any special rating.",
   "price_from_usd": 14,
   "price_note": "per latch; sets of two or three quoted lower per unit",
   "material": "TPU",
   "specs": [
-    {"label": "Material", "value": "TPU (flexible, like the original rubber)"},
+    {"label": "Material", "value": "TPU (flexible)"},
     {"label": "Max size", "value": "250 mm"},
     {"label": "Lead time", "value": "5 to 10 business days after approval"},
     {"label": "Made", "value": "To order from your photo or model number"},
@@ -39,8 +39,8 @@
   ],
   "faqs": [
     {"q": "Will it fit my Yeti or RTIC cooler?", "a": "We match it from photos for Yeti Tundra, Roadie and RTIC coolers and confirm the fit before printing. Tell us the cooler size, as larger coolers use three latches."},
-    {"q": "Is a printed latch as strong as the original?", "a": "We do not claim it matches the original. TPU flexes like rubber, so it does not snap, but it can stretch or wear over time. We tell you if your latch looks like a poor candidate."},
-    {"q": "Will it hold up in the sun?", "a": "TPU is fine for ordinary outdoor use, but we do not give a UV rating and sun slowly wears any flexible plastic. If the cooler lives in strong sun, tell us when you order."},
+    {"q": "Is a printed latch as strong as the original?", "a": "We do not claim it matches the original. TPU is flexible, so it bends rather than snaps, but it can stretch or wear over time. We tell you if your latch looks like a poor candidate."},
+    {"q": "Will it hold up in the sun?", "a": "We do not give TPU a UV rating, and sun slowly wears any flexible plastic. If the cooler lives in strong sun, tell us when you order."},
     {"q": "Is it safe for food?", "a": "The latch sits on the outside of the cooler and does not touch food. We make no food-contact safety claim, so we do not recommend it for any part that touches food or drink."},
     {"q": "How do I measure or photograph it?", "a": "Photograph the latch flat from the front and side beside a coin or ruler, and measure the pin or lug diameter if you can, since that fit matters most. Add a photo of the cooler lid where the latch attaches."}
   ],

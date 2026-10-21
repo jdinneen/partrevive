@@ -17,10 +17,10 @@
     "Milwaukee Packout drawer organizer latches (send a photo to confirm your model)"
   ],
   "problem": "Packout drawers get slammed, dropped and used in cold trucks, and the small latch is the weak point. When it cracks, the drawer slides open in transit while the rest of the organizer is fine.",
-  "oem_situation": "A non-printed aftermarket latch is listed at $8.99, with 193 sold on that listing. We do not try to beat that for a simple generic latch. We are for cases where the stock part does not fit or is out of stock.",
+  "oem_situation": "A non-printed aftermarket latch is listed at $8.99. We do not try to beat that for a simple generic latch. We are for cases where the stock part does not fit or is out of stock.",
   "our_part": "We print in PETG for general use and PA-CF for rough use, orienting the print to match how the latch is loaded. We need a photo of the broken latch and the drawer front beside a coin, and the Packout model name if you know it.",
   "price_from_usd": 14,
-  "price_note": "per latch; multiples quoted lower per unit",
+  "price_note": "per latch in PETG; PA-CF is quoted higher; multiples quoted lower per unit",
   "material": "PETG or PA-CF",
   "specs": [
     {
@@ -48,22 +48,22 @@
   "faqs": [
     {
       "q": "A $9 aftermarket latch exists. Why order from you?",
-      "a": "If a standard replacement fits, buy it. We help when the stock part is out of stock, does not fit your version, or you want a stronger material."
+      "a": "If a standard replacement fits, buy it. We help when the stock part is out of stock, does not fit your version, or you want PA-CF."
     },
     {
       "q": "Is a printed part as strong as the original?",
-      "a": "We do not claim it matches the original. Printed PETG is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. For a drawer that sees rough use, ask for PA-CF."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them, and we tell you if a part is a poor candidate. For a drawer that sees rough use, ask for PA-CF."
     },
     {
       "q": "How do I measure or photograph the part?",
-      "a": "Photograph the latch from the front and the side, and the drawer lip it hooks over on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+      "a": "Photograph the latch from the front and the side, and the drawer lip it hooks over, on a plain background with a coin or ruler beside it. Send the Packout model name if you know it. If you still have a broken piece, photograph that too."
     },
     {
       "q": "Which Packout models do you cover?",
       "a": "We fit from photos rather than a fixed model list. Send the latch and the drawer unit and we confirm before printing."
     },
     {
-      "q": "Can you make a stronger version?",
+      "q": "Can you thicken the weak points?",
       "a": "Sometimes. We can thicken stress points and use PA-CF, as long as it still fits the drawer. We tell you in the quote what we changed."
     }
   ],

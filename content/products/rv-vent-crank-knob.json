@@ -2,13 +2,15 @@
   "slug": "rv-vent-crank-knob",
   "name": "RV roof vent crank knob",
   "category": "rv-camper",
-  "meta_title": "RV Vent Crank Handle Replacement, Printed | PartRevive",
-  "meta_description": "Stripped RV vent crank handle? We print a knob to match your shaft or spline in ASA. Quote within 24 hours, from $16. Send a photo to start.",
-  "h1": "RV vent crank handle replacement, matched to your shaft",
-  "primary_keyword": "rv vent crank handle replacement",
+  "meta_title": "RV Vent Crank Knob Replacement, Printed | PartRevive",
+  "meta_description": "Stripped RV vent crank knob? We print a replacement to match your shaft or spline in ASA. Quote within 24 hours, from $16. Send a photo to start.",
+  "h1": "RV vent crank knob replacement, matched to your shaft",
+  "primary_keyword": "rv vent crank knob replacement",
   "secondary_keywords": [
     "camper vent crank handle",
-    "rv roof vent crank knob"
+    "rv roof vent crank knob",
+    "ventline crank handle replacement",
+    "rv roof vent handle"
   ],
   "answer_first": "We print replacement crank knobs for manual RV roof vents, including Ventline, Elixir and Hehr style vents, in UV-resistant ASA, matched to your shaft or spline. Send a photo and your measurements and we quote within 24 hours on business days, from $16.",
   "fits": [
@@ -16,7 +18,7 @@
     "Matched to a splined shaft or a 1/2 in shaft, from your measurements"
   ],
   "problem": "Plastic crank knobs strip where they grip the shaft, so the handle spins without opening the vent. The knobs sit in the sun for years and turn brittle. The fit depends on the exact spline or shaft size, which varies between makers.",
-  "oem_situation": "A Ventline operator with crank, BVD0462-00, was listed at $23.14 and out of stock. One etrailer answer says Ventline Northern Breeze vents are discontinued with no replacement parts. Ventline spline also differs from Jensen, so a generic knob may not fit. We price from $16.",
+  "oem_situation": "A Ventline operator with crank, BVD0462-00, was listed at $23.14 and out of stock. Spline patterns differ between makers, so a generic knob may not fit. We price from $16.",
   "our_part": "We print in ASA, a plastic made to resist sun and heat. We need the shaft type and size, which you measure yourself: spline or round, with the diameter, plus the knob diameter and a photo with a coin or ruler. We match the shaft opening to your measurements and tell you if anything looks unclear before we print.",
   "price_from_usd": 16,
   "price_note": "per knob; sets quoted lower per unit",
@@ -41,7 +43,7 @@
     },
     {
       "q": "Is a printed knob as strong as the original?",
-      "a": "We do not claim it matches the original. Printed ASA is strong in most directions but weakest where the layers pull apart, so we orient the print to put the load along the layers. We tell you if a part is a poor candidate."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them. We tell you if a part is a poor candidate."
     },
     {
       "q": "How do I measure the shaft?",
@@ -49,7 +51,7 @@
     },
     {
       "q": "My shaft is splined. Does that matter?",
-      "a": "Yes. Spline patterns differ between makers, and Ventline spline differs from Jensen. A clear straight-on photo of the shaft end is the most useful thing you can send."
+      "a": "Yes. Spline patterns differ between makers. A clear straight-on photo of the shaft end is the most useful thing you can send."
     },
     {
       "q": "Can I order several knobs?",

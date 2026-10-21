@@ -22,28 +22,6 @@
   "bytes": 13044
  },
  {
-  "file": "rv-cabinet-door-latch.jpg",
-  "width": 1200,
-  "height": 900,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, tiny round push-button catch for a cabinet door, a small cylindrical plastic push button with a flange, charcoal plastic, macro",
-  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies (+ box, drawer, room, interior, vehicle, giant, tray for round-2 prompts)",
-  "seed": 4444,
-  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
-  "jpeg_quality": 82,
-  "bytes": 43762
- },
- {
-  "file": "rv-cabinet-door-latch-600.jpg",
-  "width": 600,
-  "height": 450,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, tiny round push-button catch for a cabinet door, a small cylindrical plastic push button with a flange, charcoal plastic, macro",
-  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies (+ box, drawer, room, interior, vehicle, giant, tray for round-2 prompts)",
-  "seed": 4444,
-  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
-  "jpeg_quality": 82,
-  "bytes": 11403
- },
- {
   "file": "whirlpool-kitchenaid-fridge-door-bin.jpg",
   "width": 1200,
   "height": 900,
@@ -220,28 +198,6 @@
   "bytes": 13922
  },
  {
-  "file": "custom-replacement-part-from-photo.jpg",
-  "width": 1200,
-  "height": 900,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a broken plastic bracket next to its freshly 3D-printed teal replacement bracket, side by side",
-  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies (+ box, drawer, room, interior, vehicle, giant, tray for round-2 prompts)",
-  "seed": 222,
-  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
-  "jpeg_quality": 82,
-  "bytes": 46742
- },
- {
-  "file": "custom-replacement-part-from-photo-600.jpg",
-  "width": 600,
-  "height": 450,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a broken plastic bracket next to its freshly 3D-printed teal replacement bracket, side by side",
-  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies (+ box, drawer, room, interior, vehicle, giant, tray for round-2 prompts)",
-  "seed": 222,
-  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
-  "jpeg_quality": 82,
-  "bytes": 16892
- },
- {
   "file": "cat-rv-camper.jpg",
   "width": 1200,
   "height": 900,
@@ -341,17 +297,6 @@
   "bytes": 36074
  },
  {
-  "file": "article-rv-window-latch-replacement-guide.jpg",
-  "width": 1200,
-  "height": 900,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a camper window aluminium frame corner with a small grey plastic latch on the sash, close view, daylight",
-  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies (+ box, drawer, room, interior, vehicle, giant, tray for round-2 prompts)",
-  "seed": 222,
-  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
-  "jpeg_quality": 82,
-  "bytes": 44036
- },
- {
   "file": "article-dewalt-tstak-latch-keeps-breaking.jpg",
   "width": 1200,
   "height": 900,
@@ -361,28 +306,6 @@
   "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
   "jpeg_quality": 82,
   "bytes": 46582
- },
- {
-  "file": "article-can-this-plastic-part-be-3d-printed.jpg",
-  "width": 1200,
-  "height": 900,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, assorted plastic parts on a wooden desk with a ruler, overhead view",
-  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies (+ box, drawer, room, interior, vehicle, giant, tray for round-2 prompts)",
-  "seed": 222,
-  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
-  "jpeg_quality": 82,
-  "bytes": 109406
- },
- {
-  "file": "article-how-to-photograph-a-broken-part-for-a-quote.jpg",
-  "width": 1200,
-  "height": 900,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, overhead flat lay of a small broken plastic clip on white paper next to a coin and a ruler",
-  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies (+ box, drawer, room, interior, vehicle, giant, tray for round-2 prompts)",
-  "seed": 3333,
-  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
-  "jpeg_quality": 82,
-  "bytes": 95967
  },
  {
   "file": "hero.jpg",
@@ -517,28 +440,6 @@
   "bytes": 12728
  },
  {
-  "file": "fridge-drawer-wheel.jpg",
-  "width": 1200,
-  "height": 900,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a small matte translucent-white plastic drawer wheel about 25 mm across with a central axle hole and a short hub boss, slightly raised three-quarter view, macro",
-  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
-  "seed": 222,
-  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
-  "jpeg_quality": 82,
-  "bytes": 31508
- },
- {
-  "file": "fridge-drawer-wheel-600.jpg",
-  "width": 600,
-  "height": 450,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a small matte translucent-white plastic drawer wheel about 25 mm across with a central axle hole and a short hub boss, slightly raised three-quarter view, macro",
-  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
-  "seed": 222,
-  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
-  "jpeg_quality": 82,
-  "bytes": 10691
- },
- {
   "file": "toyota-tacoma-console-latch.jpg",
   "width": 1200,
   "height": 900,
@@ -603,50 +504,6 @@
   "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
   "jpeg_quality": 82,
   "bytes": 13017
- },
- {
-  "file": "pelican-case-latch.jpg",
-  "width": 1200,
-  "height": 900,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a single matte black carbon-fibre nylon hard-case latch with a curved hook, a pin hole and a small spring tab, three-quarter top view",
-  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
-  "seed": 3333,
-  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
-  "jpeg_quality": 82,
-  "bytes": 54052
- },
- {
-  "file": "pelican-case-latch-600.jpg",
-  "width": 600,
-  "height": 450,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a single matte black carbon-fibre nylon hard-case latch with a curved hook, a pin hole and a small spring tab, three-quarter top view",
-  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
-  "seed": 3333,
-  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
-  "jpeg_quality": 82,
-  "bytes": 13827
- },
- {
-  "file": "cooler-lid-latch.jpg",
-  "width": 1200,
-  "height": 900,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a flexible black rubber-look TPU cooler pull latch, a flat tapered strap with a thick looped end and a round pin hole, slightly curved, three-quarter view",
-  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
-  "seed": 3333,
-  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
-  "jpeg_quality": 82,
-  "bytes": 51921
- },
- {
-  "file": "cooler-lid-latch-600.jpg",
-  "width": 600,
-  "height": 450,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a flexible black rubber-look TPU cooler pull latch, a flat tapered strap with a thick looped end and a round pin hole, slightly curved, three-quarter view",
-  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
-  "seed": 3333,
-  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
-  "jpeg_quality": 82,
-  "bytes": 14879
  },
  {
   "file": "ryobi-40v-mower-battery-door.jpg",
@@ -726,25 +583,168 @@
   "bytes": 13215
  },
  {
-  "file": "cooler-lid-hinge.jpg",
+  "file": "fridge-drawer-wheel.jpg",
   "width": 1200,
   "height": 900,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a grey plastic door-style hinge for a plastic ice chest lid, two flat rectangular plates connected by a cylindrical pin knuckle, four screw holes, about 70 mm long, macro, three-quarter view",
+  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, one small smooth white nylon roller wheel with a plain flat tread, a central axle hole and no markings or embossing, standing on a plain surface",
+  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
+  "seed": 3333,
+  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
+  "jpeg_quality": 82,
+  "bytes": 59328
+ },
+ {
+  "file": "fridge-drawer-wheel-600.jpg",
+  "width": 600,
+  "height": 450,
+  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, one small smooth white nylon roller wheel with a plain flat tread, a central axle hole and no markings or embossing, standing on a plain surface",
+  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
+  "seed": 3333,
+  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
+  "jpeg_quality": 82,
+  "bytes": 20801
+ },
+ {
+  "file": "custom-replacement-part-from-photo.jpg",
+  "width": 1200,
+  "height": 900,
+  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a single small cracked grey plastic bracket beside an identical clean teal replacement bracket, both with snap tabs and screw holes, no markings",
+  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
+  "seed": 3333,
+  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
+  "jpeg_quality": 82,
+  "bytes": 50038
+ },
+ {
+  "file": "custom-replacement-part-from-photo-600.jpg",
+  "width": 600,
+  "height": 450,
+  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a single small cracked grey plastic bracket beside an identical clean teal replacement bracket, both with snap tabs and screw holes, no markings",
+  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
+  "seed": 3333,
+  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
+  "jpeg_quality": 82,
+  "bytes": 15135
+ },
+ {
+  "file": "pelican-case-latch.jpg",
+  "width": 1200,
+  "height": 900,
+  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a grey plastic press-and-pull latch: a flat rectangular body with a spring-loaded hinged hook lever, a thumb-press tab and two rivet holes, shown from slightly above",
   "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
   "seed": 222,
   "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
   "jpeg_quality": 82,
-  "bytes": 48725
+  "bytes": 38941
+ },
+ {
+  "file": "pelican-case-latch-600.jpg",
+  "width": 600,
+  "height": 450,
+  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a grey plastic press-and-pull latch: a flat rectangular body with a spring-loaded hinged hook lever, a thumb-press tab and two rivet holes, shown from slightly above",
+  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
+  "seed": 222,
+  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
+  "jpeg_quality": 82,
+  "bytes": 12363
+ },
+ {
+  "file": "rv-cabinet-door-latch.jpg",
+  "width": 1200,
+  "height": 900,
+  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a rectangular grey plastic push-to-open latch: a flat base with two screw holes and a spring-loaded plunger on a rounded catch body, shown from slightly above",
+  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
+  "seed": 222,
+  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
+  "jpeg_quality": 82,
+  "bytes": 45212
+ },
+ {
+  "file": "rv-cabinet-door-latch-600.jpg",
+  "width": 600,
+  "height": 450,
+  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a rectangular grey plastic push-to-open latch: a flat base with two screw holes and a spring-loaded plunger on a rounded catch body, shown from slightly above",
+  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
+  "seed": 222,
+  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
+  "jpeg_quality": 82,
+  "bytes": 14648
+ },
+ {
+  "file": "article-can-this-plastic-part-be-3d-printed.jpg",
+  "width": 1200,
+  "height": 900,
+  "prompt": "realistic photograph, natural light, shallow depth of field, no text, no logo, no faces, a tidy arrangement of five different grey 3D-printed plastic clips and knobs on a light wood table, with a plain blank metal caliper beside them, no ruler markings",
+  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
+  "seed": 3333,
+  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
+  "jpeg_quality": 82,
+  "bytes": 101959
+ },
+ {
+  "file": "article-rv-window-latch-replacement-guide.jpg",
+  "width": 1200,
+  "height": 900,
+  "prompt": "realistic photograph, natural light, shallow depth of field, no text, no logo, no faces, close-up of a small grey plastic cam latch with a flat lever and a round base with two screw holes, on a plain surface",
+  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
+  "seed": 222,
+  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
+  "jpeg_quality": 82,
+  "bytes": 39961
+ },
+ {
+  "file": "article-how-to-photograph-a-broken-part-for-a-quote.jpg",
+  "width": 1200,
+  "height": 900,
+  "prompt": "realistic photograph, natural light, shallow depth of field, no text, no logo, no faces, overhead view of one small cracked grey plastic clip lying alone in the middle of a plain white sheet of paper, soft window light, nothing else in frame",
+  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
+  "seed": 222,
+  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
+  "jpeg_quality": 82,
+  "bytes": 53982
+ },
+ {
+  "file": "cooler-lid-latch.jpg",
+  "width": 1200,
+  "height": 900,
+  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, one grey rubber-like T-shaped pull strap latch with a thick hooked end and a round pivot hole at the top, lying flat, matte",
+  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
+  "seed": 3333,
+  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
+  "jpeg_quality": 82,
+  "bytes": 44633
+ },
+ {
+  "file": "cooler-lid-latch-600.jpg",
+  "width": 600,
+  "height": 450,
+  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, one grey rubber-like T-shaped pull strap latch with a thick hooked end and a round pivot hole at the top, lying flat, matte",
+  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
+  "seed": 3333,
+  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
+  "jpeg_quality": 82,
+  "bytes": 14344
+ },
+ {
+  "file": "cooler-lid-hinge.jpg",
+  "width": 1200,
+  "height": 900,
+  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, one grey plastic butt hinge lying flat: two rectangular leaves with two screw holes each joined by a knuckle barrel along one edge, matte",
+  "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
+  "seed": 222,
+  "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
+  "jpeg_quality": 82,
+  "bytes": 34387
  },
  {
   "file": "cooler-lid-hinge-600.jpg",
   "width": 600,
   "height": 450,
-  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, a grey plastic door-style hinge for a plastic ice chest lid, two flat rectangular plates connected by a cylindrical pin knuckle, four screw holes, about 70 mm long, macro, three-quarter view",
+  "prompt": "product photography, single 3D-printed plastic part, plain light grey studio background, soft shadow, slightly visible print layer lines, matte finish, no text, no logo, no hands, one grey plastic butt hinge lying flat: two rectangular leaves with two screw holes each joined by a knuckle barrel along one edge, matte",
   "negative_prompt": "text, letters, logo, watermark, hands, fingers, people, blurry, deformed, multiple copies, box, drawer, room, interior, vehicle, giant, tray",
   "seed": 222,
   "generator": "stabilityai/stable-diffusion-xl-base-1.0 (fp16, 28 steps, cfg 6.5)",
   "jpeg_quality": 82,
-  "bytes": 18516
+  "bytes": 10692
  }
 ]

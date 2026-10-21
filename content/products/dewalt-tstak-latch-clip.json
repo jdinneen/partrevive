@@ -12,15 +12,15 @@
     "tstak latch keeps breaking",
     "dewalt toolbox latch replacement"
   ],
-  "answer_first": "We print replacement latch clips that fit DeWalt TSTAK toolboxes in PETG, or in carbon-fibre nylon (PA-CF) for harder use. Send a photo of the broken latch and we quote within 24 hours, from $12 for a pair.",
+  "answer_first": "We print replacement latch clips that fit DeWalt TSTAK toolboxes in PETG, or in carbon-fiber nylon (PA-CF) for harder use. Send a photo of the broken latch and we quote within 24 hours, from $12 for a pair.",
   "fits": [
     "DeWalt TSTAK stackable toolbox latches and clips (send a photo to confirm your box)"
   ],
   "problem": "TSTAK latches get snapped when boxes are stacked and lifted by the handle, or when a lid is slammed in the cold. The latch is a small part on a large, otherwise sound box, so people end up with a good box that will not close.",
   "oem_situation": "An original latch is about $22 on eBay. A printed 2-pack sells for $9.95 elsewhere. We price from $12 a pair and quote based on the version of the latch.",
-  "our_part": "We print PETG for everyday toolboxes and PA-CF, carbon-fibre filled nylon, when the box takes hard use. Printing the latch with layers running along the load path is the main thing that keeps it from snapping the same way again. We need a photo of the broken latch beside a coin and one of the matching spot on the box.",
+  "our_part": "We print PETG for everyday toolboxes and PA-CF, carbon-fiber filled nylon, when the box takes hard use. Printing the latch with layers running along the load path helps reduce the chance of it snapping the same way again, though we cannot guarantee how long it lasts. We need a photo of the broken latch beside a coin and one of the matching spot on the box.",
   "price_from_usd": 12,
-  "price_note": "per pair; larger sets quoted lower per clip",
+  "price_note": "per pair in PETG; PA-CF is quoted higher; larger sets quoted lower per clip",
   "material": "PETG or PA-CF",
   "specs": [
     {
@@ -52,11 +52,11 @@
     },
     {
       "q": "Is a printed part as strong as the original?",
-      "a": "We do not claim it matches the original. Printed PETG is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. If the latch has snapped repeatedly, ask for PA-CF, which is stiffer and tougher."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them, and we tell you if a part is a poor candidate. If the latch has snapped repeatedly, ask for PA-CF, which is stiffer and tougher."
     },
     {
       "q": "How do I measure or photograph the part?",
-      "a": "Photograph the latch from the front, the side and the underside, plus the post it clips onto on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+      "a": "Photograph the latch from the front, the side and the underside, plus the post it clips onto, on a plain background with a coin or ruler beside it. Send the box model if you know it. If you still have a broken piece, photograph that too."
     },
     {
       "q": "Is PETG strong enough for a loaded toolbox?",

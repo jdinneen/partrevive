@@ -12,12 +12,12 @@
     "car visor clip 3d printed",
     "sun visor clip 3d print"
   ],
-  "answer_first": "We print a replacement sun visor retainer clip made to your photo or part number, in PETG, for most cars with a vehicle-specific version. Send a clear photo with a coin for scale and we quote within 24 hours on business days, from $12.",
+  "answer_first": "We print a replacement sun visor retainer clip made to your photo or part number, in PETG. Send a clear photo with a coin for scale and your year, model and trim, and we quote within 24 hours on business days, from $12.",
   "fits": [
-    "Most cars and trucks; each clip is made to your vehicle, so send the year, model and trim"
+    "Vehicle-specific; send your year, model and trim and we confirm the fit"
   ],
   "problem": "The clip that holds the visor in its hook cracks or goes missing, so the visor droops or flips down on its own. It is a tiny piece of plastic on a visor that is otherwise fine. The clip is often what fails first because it flexes every time the visor is moved.",
-  "oem_situation": "The clip is typically sold only as part of the visor or trim, so a single clip is hard to find. Free printable files exist for some popular models, but they need a clear photo with scale to match your car. We make one to your photo or part number instead.",
+  "oem_situation": "The clip is typically sold only as part of the visor or trim, so a single clip is hard to find. We make one to your photo or part number instead.",
   "our_part": "We print PETG, which holds up in a hot cabin where PLA softens, and we do not use PLA for car interiors. We need a clear photo of the old clip or the empty hook, with a coin or ruler beside it, plus your year, model and trim. We make interior trim parts only, not airbag, seatbelt, brake, steering, lighting or fuel parts.",
   "price_from_usd": 12,
   "price_note": "per clip; pairs for both visors quoted lower per unit",
@@ -57,7 +57,7 @@
     },
     {
       "q": "Is a printed clip as strong as the original?",
-      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the flexing load runs along the layers. A visor clip is light-duty, and PETG is usually enough."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them. A visor clip is light-duty, and PETG is usually enough."
     },
     {
       "q": "Will it soften in a hot, parked car?",

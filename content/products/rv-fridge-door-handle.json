@@ -44,7 +44,7 @@
     },
     {
       "q": "Is a printed handle as strong as the original?",
-      "a": "We do not claim it matches the original. Printed ASA is strong in most directions but weakest where the layers pull apart, so we orient the print to put the load along the layers. We tell you if a part is a poor candidate."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them. We tell you if a part is a poor candidate."
     },
     {
       "q": "How do I measure or photograph the part?",

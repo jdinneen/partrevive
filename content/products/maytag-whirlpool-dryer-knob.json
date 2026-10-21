@@ -18,7 +18,7 @@
     "Whirlpool dryer control knobs (confirm by model number)"
   ],
   "problem": "The thin plastic inside the knob's shaft hole cracks and strips, so the knob spins without turning the timer. The dryer itself is fine, so a knob is a small fix that saves a large expense.",
-  "oem_situation": "A forum post describes a printed fix for the Maytag dryer knob after the thin plastic inside the shaft broke. We found no original-part price for this knob, so we quote on the individual knob after seeing your photos.",
+  "oem_situation": "We quote the individual knob after seeing your photos, and the final figure depends on the model.",
   "our_part": "We print only the plastic knob, in ASA because a dryer's front panel can get warm. We do not touch electrical parts: no switches, timers or wiring. We need your model number from the label inside the door opening or on the back, and photos of the knob, the shaft and the panel, with a coin for scale.",
   "price_from_usd": 14,
   "price_note": "per knob; sets of several knobs quoted lower per unit",
@@ -57,11 +57,11 @@
     },
     {
       "q": "Is a printed part as strong as the original?",
-      "a": "We do not claim it matches the original. Printed ASA is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. The weak point in a dryer knob is the thin wall around the shaft hole, so we thicken it where space allows."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them, and we tell you if a part is a poor candidate. The weak point in a dryer knob is the thin wall around the shaft hole, so we thicken it where space allows."
     },
     {
       "q": "How do I measure or photograph the part?",
-      "a": "Photograph the knob from the front and the back, and the metal shaft it sits on, with a coin for scale on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+      "a": "Photograph the knob from the front and the back, and the metal shaft it sits on, on a plain background with a coin or ruler beside it. Also send the dryer model number, usually on a label inside the door opening or on the back panel. If you still have a broken piece, photograph that too."
     },
     {
       "q": "Where is my dryer model number?",

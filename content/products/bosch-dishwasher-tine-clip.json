@@ -56,11 +56,11 @@
     },
     {
       "q": "Is a printed part as strong as the original?",
-      "a": "We do not claim it matches the original. Printed ASA is strong in most directions, but a layer-line direction exists: the part is weakest where layers pull apart. We orient the print so the main load runs along the layers, and we tell you if a part is a poor candidate. Tine clips carry a light load, so the main risk is heat ageing, not strength."
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along them, and we tell you if a part is a poor candidate. Tine clips carry a light load, so the main risk is heat aging, not strength."
     },
     {
       "q": "How do I measure or photograph the part?",
-      "a": "Photograph the clip from the side and the end, and the tine where it fits, with a coin in the shot on a plain background with a coin or ruler beside it, from the top, the side and the mounting end. Also send the model number, usually on a sticker inside the door, under the unit or on the product label. If you still have a broken piece, photograph that too."
+      "a": "Photograph the clip from the side and the end, and the tine where it fits, on a plain background with a coin or ruler beside it. Send the dishwasher model number if you can find it. If you still have a broken piece, photograph that too."
     },
     {
       "q": "Are the clips food safe?",

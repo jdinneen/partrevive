@@ -1,7 +1,15 @@
-{% macro pic(file, alt, eager=false, cls='') -%}
+{% macro imgattrs(i, alt, eager, cls) -%}
+width="{{ i.w }}" height="{{ i.h }}" alt="{{ alt or '' }}"{% if eager %} fetchpriority="high"{% else %} loading="lazy" decoding="async"{% endif %}{% if cls %} class="{{ cls }}"{% endif %}
+{%- endmacro %}
+
+{% macro pic(file, alt, eager=false, cls='', sizes='(min-width: 880px) 270px, (min-width: 560px) 45vw, 92vw') -%}
 {%- set i = imginfo(file) if file else none -%}
 {%- if i -%}
-<img src="{{ i.src }}" width="{{ i.w }}" height="{{ i.h }}" alt="{{ alt or '' }}"{% if eager %} fetchpriority="high"{% else %} loading="lazy" decoding="async"{% endif %}{% if cls %} class="{{ cls }}"{% endif %}>
+{%- if i.webp and i.webp600 and i.src600 -%}
+<picture><source type="image/webp" srcset="{{ i.webp600 }} 600w, {{ i.webp }} {{ i.w }}w" sizes="{{ sizes }}"><img src="{{ i.src }}" srcset="{{ i.src600 }} 600w, {{ i.src }} {{ i.w }}w" sizes="{{ sizes }}" {{ imgattrs(i, alt, eager, cls) }}></picture>
+{%- else -%}
+<img src="{{ i.src }}" {{ imgattrs(i, alt, eager, cls) }}>
+{%- endif -%}
 {%- endif -%}
 {%- endmacro %}
 
