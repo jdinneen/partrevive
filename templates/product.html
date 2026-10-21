@@ -7,7 +7,7 @@
   {% if p.answer_first %}<div class="answer" role="note"><p><strong>Short answer:</strong> {{ p.answer_first }}</p></div>{% endif %}
 
   <div class="product-top">
-    {% if imginfo(p.image) %}<figure class="product-img">{{ m.pic(p.image, p.image_alt or p.name, eager=true) }}</figure>{% endif %}
+    {% if imginfo(p.image) %}<figure class="product-img">{{ m.pic(p.image, p.image_alt or p.name, eager=true) }}<figcaption class="hint">Illustration of the part type. Your part is made to match your photos and model number.</figcaption></figure>{% endif %}
     <aside class="buy" aria-label="Price and ordering">
       {% if p.price_from_usd is defined and p.price_from_usd is not none %}
       <p class="buy-price"><span class="buy-from">From</span> ${{ p.price_from_usd }}</p>

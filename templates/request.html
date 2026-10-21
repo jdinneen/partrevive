@@ -8,7 +8,7 @@
 
   <form class="quote-form" action="{{ form_action }}" method="POST" enctype="multipart/form-data" data-lead>
     <input type="hidden" name="_subject" value="PartRevive quote request">
-    <input type="hidden" name="_captcha" value="false">
+    <input type="hidden" name="_captcha" value="true">
     <input type="hidden" name="_template" value="table">
     <input type="hidden" name="_next" value="{{ next_url }}">
     <div class="honey"><label for="_honey">Leave this field empty</label><input type="text" id="_honey" name="_honey" tabindex="-1" autocomplete="off"></div>
@@ -38,7 +38,7 @@
     <div class="field">
       <label for="photo">Photo of the broken part</label>
       <input type="file" id="photo" name="attachment" accept="image/*" aria-describedby="photo-h">
-      <p class="hint" id="photo-h">Place a coin or ruler beside the part and shoot from two or three angles. Keep the file under 5 MB.{% if photo_guide %} <a href="{{ u('/guides/' ~ photo_guide.slug ~ '/') }}">How to photograph a broken part</a>.{% endif %}</p>
+      <p class="hint" id="photo-h">Place a coin or ruler beside the part and shoot from two or three angles. Photos up to 10 MB in total.{% if photo_guide %} <a href="{{ u('/guides/' ~ photo_guide.slug ~ '/') }}">How to photograph a broken part</a>.{% endif %}</p>
     </div>
     <p><button class="btn btn-lg" type="submit">Send quote request</button></p>
     <p class="fine-note">We use your details only to reply about this quote. We do not make safety-critical parts, battery contacts, children's items or food-contact surfaces.</p>
