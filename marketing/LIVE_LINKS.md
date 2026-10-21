@@ -35,3 +35,11 @@ Each page ends with "Don't have a printer? PartRevive prints this and ships it" 
 - r/YetiCoolers "Lose latch on roadie 15": helpful reply (OEM 2-pack first, then the shop as an option, with disclosure)
 - r/fixit "Subaru Impreza 2018 driver's side visor": helpful reply; r/fixit bans marketing, so the reply links only the free Printables clip (edited to remove the shop mention)
 - Bing Webmaster Tools sitemap: submitted, status Processing
+
+## YouTube (channel renamed from an unused second channel; public name "PartRevive", handle @partrevive)
+- Channel: https://www.youtube.com/@partrevive
+- Shorts (15-second 3D-render turntables, captioned "3D render, not a photo", public):
+  - Sun visor clip: https://www.youtube.com/shorts/PEKgDNh03bQ
+  - Cooler lid hinge: https://www.youtube.com/shorts/YJTYutbrJ7o
+  - RV vent crank knob: https://www.youtube.com/shorts/niyPQTn0kso
+- Creating a brand-new channel would have required YouTube's identity verification, so the unused existing channel was repurposed instead. The personal "Jon Dinneen" channel was not touched.
