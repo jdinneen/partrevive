@@ -1,0 +1,72 @@
+{
+  "slug": "rv-screen-door-latch",
+  "name": "RV screen door latch and handle",
+  "category": "rv-camper",
+  "meta_title": "RV Screen Door Latch Replacement, 3D Printed | PartRevive",
+  "meta_description": "Broken RV screen door latch? We print a left or right hand replacement in ASA. Quote within 24 hours, from $22. Send a photo to start.",
+  "h1": "RV screen door latch replacement, printed to match",
+  "primary_keyword": "rv screen door latch replacement",
+  "secondary_keywords": [
+    "rv screen door handle replacement",
+    "rv screen door latch left hand",
+    "rv screen door latch spring"
+  ],
+  "answer_first": "We print replacement paddle and lever latches for travel-trailer screen doors, including Forest River style doors, in UV-resistant ASA, left or right hand. Send a photo of the broken latch and we quote within 24 hours on business days, from $22.",
+  "fits": [
+    "Fits Forest River and similar travel-trailer screen doors (send a photo to confirm your door)",
+    "Left-hand and right-hand versions, matched to your hole spacing"
+  ],
+  "problem": "The plastic paddle or lever on a screen door latch cracks with sun exposure and daily use, and the spring-return parts wear out. Owners report the paddle is hard to find on its own. A small broken lever leaves the whole door unable to latch.",
+  "oem_situation": "Replacements are typically sold only as a full latch kit. One zinc kit lists on Amazon through a third-party seller at $17.09, and one forum poster said their dealer had discontinued the replacement. We price from $22 for just the part you need.",
+  "our_part": "We print in ASA, a plastic made to resist sun and heat, which suits a part that lives on the outside of the camper. We need a photo of the latch from the front, side and back with a coin or ruler beside it, and we need to know whether it is a left-hand or right-hand door. We match the hole spacing from your photos.",
+  "price_from_usd": 22,
+  "price_note": "per latch; pairs and multi-packs quoted lower per unit",
+  "material": "ASA",
+  "lead_time": "5 to 10 business days after approval",
+  "specs": [
+    {"label": "Material", "value": "ASA (UV and heat resistant)"},
+    {"label": "Max size", "value": "250 mm"},
+    {"label": "Lead time", "value": "5 to 10 business days after approval"},
+    {"label": "Made", "value": "To order from your photo or model number"},
+    {"label": "Hand", "value": "Left or right, from your photo"}
+  ],
+  "how_to_order": [
+    "Photograph the broken latch, or the empty latch position on the door, with a coin or ruler in the shot.",
+    "Send photos on the request page, say whether the door is left or right hand, and add the model number if you have it. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Will it fit my camper screen door?",
+      "a": "If your latch looks like a paddle or lever style used on Forest River and similar doors, we match it from photos. We confirm the fit with you before printing."
+    },
+    {
+      "q": "Is a printed latch as strong as the original?",
+      "a": "We do not claim it matches the original. Printed ASA is strong in most directions but weakest where the layers pull apart, so we orient the print to put the main load along the layers. We tell you if a part looks like a poor candidate."
+    },
+    {
+      "q": "How do I measure or photograph the latch?",
+      "a": "Photograph the latch from the front, side and back on a plain background with a coin or ruler beside it. Tell us if the door is left hand or right hand, and measure the distance between the screw holes if you can. Send the model number if there is one."
+    },
+    {
+      "q": "Do you make the spring too?",
+      "a": "We print the plastic paddle and lever parts. Springs are metal, so we typically suggest reusing yours or buying a small spring locally, and we will say so in the quote."
+    },
+    {
+      "q": "Can I order a left and right pair?",
+      "a": "Yes. Tell us how many of each hand you need and we quote a lower price per latch."
+    }
+  ],
+  "related": [
+    "rv-door-holder-catch",
+    "rv-cabinet-door-latch",
+    "custom-replacement-part-from-photo"
+  ],
+  "image": "rv-screen-door-latch.jpg",
+  "image_alt": "Printed replacement RV screen door paddle latch with a thumb lever and screw holes",
+  "sources": [
+    {"label": "Forest River forum thread on a broken screen door handle", "url": "https://forestriverforums.com/threads/broken-screen-door-handle.233148"},
+    {"label": "Zinc screen door latch kit price history", "url": "https://camelcamelcamel.com/product/B0GD6W91LQ"},
+    {"label": "RV screen door handle models on Thangs", "url": "https://thangs.com/m/1131388"}
+  ]
+}

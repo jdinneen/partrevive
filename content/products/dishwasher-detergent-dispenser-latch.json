@@ -1,0 +1,107 @@
+{
+  "slug": "dishwasher-detergent-dispenser-latch",
+  "name": "Dishwasher detergent dispenser latch",
+  "category": "kitchen-appliance",
+  "meta_title": "Dishwasher Detergent Dispenser Latch Replacement, Printed",
+  "meta_description": "Broken dishwasher detergent door latch? We print a replacement in PETG, from $24. Quote within 24 hours on business days. Send a photo.",
+  "h1": "Dishwasher detergent dispenser latch replacement, printed to order",
+  "primary_keyword": "dishwasher detergent dispenser latch replacement",
+  "secondary_keywords": [
+    "whirlpool dishwasher soap dispenser latch broken",
+    "dishwasher detergent door won't latch",
+    "dishwasher detergent dispenser latch 3d print",
+    "kenmore dishwasher dispenser latch"
+  ],
+  "answer_first": "We print a replacement detergent dispenser latch in PETG that fits many Whirlpool, KitchenAid, Kenmore and Maytag dishwashers. Send a photo and the model number and we quote within 24 hours on business days, from $24.",
+  "fits": [
+    "Whirlpool dishwasher detergent dispensers",
+    "KitchenAid dishwasher detergent dispensers",
+    "Kenmore dishwasher detergent dispensers",
+    "Maytag dishwasher detergent dispensers (fit varies by model, so we confirm from your photos before printing)"
+  ],
+  "problem": "The small latch tab or spring arm on the detergent door snaps, so the door will not stay shut or will not pop open at the right moment in the cycle. The part lives in hot water and detergent and flexes every wash. A tiny broken tab then makes the whole dispenser look useless.",
+  "oem_situation": "Individual repair parts are often discontinued, so the usual replacement is the full dispenser assembly. Whirlpool part WPW10224428 is listed at about $58.95 to $60.52, and a KitchenAid assembly, WPW10224430, at about $138.28. A latch-only part, WP99001291, exists for some models. Other owners have reprinted their own latches rather than buy a whole door.",
+  "our_part": "We print the latch in PETG, sized to your dispenser from your photos, typically around 35 x 15 x 10 mm. It touches detergent and hot water but not food. We do not claim dishwasher-safe certification or OEM equivalence, and spring-action fit varies by model, so we confirm it with you before printing. We need photos of the broken latch and the dispenser, with a coin or ruler in the shot, plus the model number.",
+  "price_from_usd": 24,
+  "price_note": "per latch; several quoted lower per unit",
+  "material": "PETG",
+  "lead_time": "5 to 10 business days after approval",
+  "specs": [
+    {
+      "label": "Material",
+      "value": "PETG"
+    },
+    {
+      "label": "Max size",
+      "value": "250 mm"
+    },
+    {
+      "label": "Lead time",
+      "value": "5 to 10 business days after approval"
+    },
+    {
+      "label": "Made",
+      "value": "To order from your photo or model number"
+    },
+    {
+      "label": "Typical part size",
+      "value": "About 35 x 15 x 10 mm, varies by model"
+    }
+  ],
+  "how_to_order": [
+    "Photograph the broken latch and the dispenser door from the front, side and inside, with a coin or ruler in the shot. Note the dishwasher model number.",
+    "Send the photos on the request page. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Will it fit my dishwasher?",
+      "a": "Many Whirlpool, KitchenAid, Kenmore and Maytag dispensers use similar latches, but fit varies by model. Send the model number and photos and we confirm the fit before printing."
+    },
+    {
+      "q": "Is a printed latch as strong as the original?",
+      "a": "We do not claim it matches the original. PETG is tough and slightly flexible, which suits a spring arm, but it can still fatigue after many cycles. We orient the print so the flex runs along the layers and tell you if a part is a poor candidate."
+    },
+    {
+      "q": "Can it handle hot water and detergent?",
+      "a": "PETG copes with warm water and detergent well in most home cycles. It touches detergent and hot water but not food. We do not claim dishwasher-safe certification, and a latch near a heating element is a poor fit for PETG."
+    },
+    {
+      "q": "How do I photograph or measure the latch?",
+      "a": "Photograph the latch and the door from the front, the side and the inside on a plain background with a coin or ruler beside them. Also send the model number, usually on a sticker on the door edge or the tub frame. Keep any broken pieces and photograph them too."
+    },
+    {
+      "q": "Is it cheaper than a new dispenser?",
+      "a": "Usually yes. Full dispenser assemblies are listed at about $58.95 and up, and our latch starts from $24. The quote depends on your model."
+    }
+  ],
+  "related": [
+    "bosch-dishwasher-tine-clip",
+    "fridge-drawer-wheel",
+    "custom-replacement-part-from-photo"
+  ],
+  "image": "dishwasher-detergent-dispenser-latch.jpg",
+  "image_alt": "Small printed replacement dishwasher detergent dispenser latch with a spring arm",
+  "sources": [
+    {
+      "label": "Printables: Kenmore/Whirlpool dispenser latch model",
+      "url": "https://www.printables.com/model/15907-kenmore-whirlpool-dishwasher-detergent-dispenser-a"
+    },
+    {
+      "label": "Printables: Frigidaire dispenser arm reprint",
+      "url": "https://www.printables.com/model/569343-dispenser-arm-for-frigidaire-dishwasher"
+    },
+    {
+      "label": "Whirlpool dispenser assembly WPW10224428 listing",
+      "url": "https://appliancepartspros.com/answers-for-whirlpool-disp-asm-fuel-wpw10224428-ap6017357-question-252159.html"
+    },
+    {
+      "label": "Dishwasher dispenser assemblies and prices",
+      "url": "https://www.appliancepartspros.com/dishwasher-dispenser.html"
+    },
+    {
+      "label": "Latch-only part WP99001291 listing",
+      "url": "https://partselect.ca/PS11747598-Whirlpool-WP99001291-Detergent-Dispenser-Latch-White.htm"
+    }
+  ]
+}

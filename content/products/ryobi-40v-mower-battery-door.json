@@ -1,0 +1,59 @@
+{
+  "slug": "ryobi-40v-mower-battery-door",
+  "name": "Ryobi 40V mower battery door (cover only)",
+  "category": "tools-toolboxes",
+  "meta_title": "Ryobi 40V Mower Battery Cover Replacement | PartRevive",
+  "meta_description": "Broken Ryobi 40V mower battery door? We print a replacement cover in ASA. Quote within 24 hours, from $24. Send a photo and your model label.",
+  "h1": "Ryobi 40V mower battery cover replacement, printed door",
+  "primary_keyword": "ryobi 40v mower battery cover",
+  "secondary_keywords": [
+    "ryobi battery door replacement",
+    "ryobi mower top cover door",
+    "ryobi battery housing cover"
+  ],
+  "answer_first": "We print a replacement battery bay cover for Ryobi 40V mowers in sun-resistant ASA, including RY401014US, RY401015US and RY401017. It is a cover only with no battery contacts, and we quote within 24 hours on business days, from $24.",
+  "fits": [
+    "Ryobi RY401014US 40V mower battery cover",
+    "Ryobi RY401015US 40V mower battery cover",
+    "Ryobi RY401017 40V mower battery cover",
+    "Please verify your model on the mower label before ordering"
+  ],
+  "problem": "The hinged tabs on the battery bay door snap after repeated opening and years in the sun. The mower still runs, but the door will not close or stay shut.",
+  "oem_situation": "An original Ryobi battery cover, part 205803001, is $34.99 at one parts seller and ships in 7 to 10 days. A used RY401017 cover sold for $27.45 on eBay in May 2025. Many covers are used or backordered, so we print one to order from $24.",
+  "our_part": "We print in ASA, a plastic chosen for sun and heat, so the door can sit outside on a mower. This is a cover only. It has no battery contacts or electrical parts, and we do not make battery contacts. We need a photo of the broken door, the bay it fits and the model label on your mower. We do not claim the door is waterproof.",
+  "price_from_usd": 24,
+  "price_note": "per door; size varies by model and large covers may price higher",
+  "material": "ASA",
+  "specs": [
+    {"label": "Material", "value": "ASA (UV and heat resistant)"},
+    {"label": "Max size", "value": "250 mm"},
+    {"label": "Lead time", "value": "5 to 10 business days after approval"},
+    {"label": "Made", "value": "To order from your photo or model number"},
+    {"label": "Typical size", "value": "About 150 x 100 x 40 mm (varies by model); cover only, no electrical parts"}
+  ],
+  "how_to_order": [
+    "Photograph the broken battery door and the empty bay, and the model label on the mower, with a coin in the shot.",
+    "Send photos on the request page, with a coin or ruler in the shot and your mower model number. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {"q": "Will it fit my Ryobi mower?", "a": "We match it from photos and your model label for Ryobi RY401014US, RY401015US and RY401017, and confirm the fit before printing. Covers are model-specific, so please check the label first."},
+    {"q": "Does it include battery contacts?", "a": "No. It is a cover only, with no battery contacts or electrical parts, and we do not make battery contacts. Your mower keeps its original contacts and wiring."},
+    {"q": "Is a printed door as strong as the original?", "a": "We do not claim it matches the original. ASA is tough, but the hinge tabs are the weak point on any printed door, so we orient the print to protect them. We tell you if your door is a poor candidate."},
+    {"q": "Will it survive sun and weather?", "a": "ASA is chosen for sun and heat, so it is a good fit for outdoor use. We do not claim the door is waterproof, so please do not rely on it to keep out heavy rain."},
+    {"q": "How do I find my model and photograph the part?", "a": "The model number is on the label on the mower, often near the deck or under the handle. Photograph the broken door, its hinge tabs and the bay beside a coin or ruler, then add the label."}
+  ],
+  "related": [
+    "custom-replacement-part-from-photo",
+    "dewalt-tstak-latch-clip",
+    "cooler-lid-hinge"
+  ],
+  "image": "ryobi-40v-mower-battery-door.jpg",
+  "image_alt": "Printed replacement battery bay cover door with hinge tabs in dark green ASA",
+  "sources": [
+    {"label": "Ryobi battery cover 205803001, lawnmowerparts.ca", "url": "https://lawnmowerparts.ca/products/205803001-ryobi-battery-cover"},
+    {"label": "Used RY401017 cover, eBay listing (May 2025)", "url": "https://www.ebay.com/itm/336098367657"},
+    {"label": "Printables Ryobi battery cover model", "url": "https://www.printables.com/model/220878"}
+  ],
+  "lead_time": "5 to 10 business days after approval"
+}

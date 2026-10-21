@@ -161,6 +161,146 @@ Send us a photo of a broken or missing plastic part, with a coin or ruler beside
 
 From $35
 
+-
+
+Tools and toolbox parts
+
+### Cooler lid hinge (Igloo, Coleman, Rubbermaid style)
+
+We print replacement lid hinges that fit Igloo, Coleman and Rubbermaid plastic coolers and ice chests in PETG. Send a photo of...
+
+From $14
+
+-
+
+Tools and toolbox parts
+
+### Cooler lid latch (Yeti Tundra, Roadie, RTIC style)
+
+We print a flexible TPU replacement latch that fits Yeti Tundra, Yeti Roadie and RTIC hard coolers. Send a photo of the torn...
+
+From $14
+
+-
+
+Kitchen and home appliance parts
+
+### Dishwasher detergent dispenser latch
+
+We print a replacement detergent dispenser latch in PETG that fits many Whirlpool, KitchenAid, Kenmore and Maytag dishwashers....
+
+From $24
+
+-
+
+Kitchen and home appliance parts
+
+### Refrigerator and freezer drawer wheel
+
+We print replacement drawer wheels and rollers in PETG for LG, Samsung and Whirlpool refrigerator and freezer drawers. Send a...
+
+From $14
+
+-
+
+Tools and toolbox parts
+
+### Pelican-style hard case latch
+
+We print a single replacement latch that fits Pelican 1510, 1550 and 1600-style hard cases in carbon-fibre nylon (PA-CF);...
+
+From $16
+
+-
+
+RV and camper parts
+
+### RV entry door holder catch
+
+We print replacement plunger-and-socket door holders for RV and caravan entry doors in UV-resistant ASA, including odd shapes...
+
+From $12
+
+-
+
+RV and camper parts
+
+### RV refrigerator door handle and latch
+
+We print replacement door handles and latch catches for RV refrigerators in UV-resistant ASA, matched by model number and...
+
+From $24
+
+-
+
+RV and camper parts
+
+### RV screen door latch and handle
+
+We print replacement paddle and lever latches for travel-trailer screen doors, including Forest River style doors, in...
+
+From $22
+
+-
+
+RV and camper parts
+
+### RV roof vent crank knob
+
+We print replacement crank knobs for manual RV roof vents, including Ventline, Elixir and Hehr style vents, in UV-resistant...
+
+From $16
+
+-
+
+Tools and toolbox parts
+
+### Ryobi 40V mower battery door (cover only)
+
+We print a replacement battery bay cover for Ryobi 40V mowers in sun-resistant ASA, including RY401014US, RY401015US and...
+
+From $24
+
+-
+
+Automotive interior parts
+
+### Silverado and Sierra center console latch
+
+We print a replacement center console lid latch that fits Chevrolet Silverado and GMC Sierra 2007-2013 and related SUVs with...
+
+From $19
+
+-
+
+Automotive interior parts
+
+### Sun visor retainer clip
+
+We print a replacement sun visor retainer clip made to your photo or part number, in PETG, for most cars with a...
+
+From $12
+
+-
+
+Automotive interior parts
+
+### Tonneau cover prop rod clip
+
+We print a replacement prop rod or strut retention clip that fits BAKFlip and UnderCover tonneau covers, in UV-resistant ASA....
+
+From $14
+
+-
+
+Automotive interior parts
+
+### Toyota Tacoma center console latch
+
+We print a replacement center console lid latch that fits Toyota Tacoma 2005-2012, in PETG or heat-resistant ASA. Send a photo...
+
+From $18
+
 See all parts
 
 ## Latest guides
@@ -177,17 +317,17 @@ Most broken plastic parts under 250 mm can be 3D printed if they are not food-co
 
 Guide
 
-### Why a DeWalt TSTAK latch keeps breaking, and what to do
+### Broken center console latch: your options and what they cost
 
-A DeWalt TSTAK latch usually breaks from side loads, cold plastic and lifting a stack by the handle. A replacement printed in...
+A center console latch usually breaks because its small plastic hook is thin, loaded every time the lid closes, and baked by cabin heat....
 
 -
 
 Guide
 
-### Cracked fridge door bin: your options and what each costs
+### Fixing a broken cooler latch or hinge: Yeti, RTIC, Igloo, Coleman
 
-A broken fridge door bin can be replaced with an original part, a used part, or a part printed to order. Originals are the surest fit...
+A cooler latch or hinge usually fails at the pin hole, where a rubber latch stretches or a plastic hinge splits. Official sets cost...
 
 All guides
 
@@ -352,6 +492,16 @@ Send us a photo of a broken or missing plastic part, with a coin or ruler beside
 
 From $35
 
+-
+
+RV and camper parts
+
+### RV entry door holder catch
+
+We print replacement plunger-and-socket door holders for RV and caravan entry doors in UV-resistant ASA, including odd shapes...
+
+From $12
+
 ## Related guides
 
 -
@@ -361,6 +511,14 @@ Guide
 ### Can this broken plastic part be 3D printed? A buyer's checklist
 
 Most broken plastic parts under 250 mm can be 3D printed if they are not food-contact, not safety-critical and not exposed to high heat....
+
+-
+
+Guide
+
+### How to replace a broken RV screen door latch or handle
+
+To replace a broken RV screen door latch, first work out whether it is a left-hand or right-hand door, then measure the distance between...
 
 -
 
@@ -474,6 +632,16 @@ Tools and toolbox parts
 Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
 
 From $35
+
+-
+
+RV and camper parts
+
+### RV entry door holder catch
+
+We print replacement plunger-and-socket door holders for RV and caravan entry doors in UV-resistant ASA, including odd shapes...
+
+From $12
 
 ## Related guides
 
@@ -846,6 +1014,16 @@ Send us a photo of a broken or missing plastic part, with a coin or ruler beside
 
 From $35
 
+-
+
+Tools and toolbox parts
+
+### Cooler lid hinge (Igloo, Coleman, Rubbermaid style)
+
+We print replacement lid hinges that fit Igloo, Coleman and Rubbermaid plastic coolers and ice chests in PETG. Send a photo of...
+
+From $14
+
 ## Related guides
 
 -
@@ -968,6 +1146,16 @@ Send us a photo of a broken or missing plastic part, with a coin or ruler beside
 
 From $35
 
+-
+
+Tools and toolbox parts
+
+### Cooler lid hinge (Igloo, Coleman, Rubbermaid style)
+
+We print replacement lid hinges that fit Igloo, Coleman and Rubbermaid plastic coolers and ice chests in PETG. Send a photo of...
+
+From $14
+
 ## Related guides
 
 -
@@ -1082,6 +1270,16 @@ Kitchen and home appliance parts
 We print a replacement plastic knob for Maytag and Whirlpool style dryers to order, matched to your model number and photos....
 
 From $14
+
+-
+
+Automotive interior parts
+
+### Silverado and Sierra center console latch
+
+We print a replacement center console lid latch that fits Chevrolet Silverado and GMC Sierra 2007-2013 and related SUVs with...
+
+From $19
 
 
 ======================================================================
@@ -1569,6 +1767,22 @@ Most broken plastic parts under 250 mm can be 3D printed if they are not food-co
 
 Guide
 
+### Broken center console latch: your options and what they cost
+
+A center console latch usually breaks because its small plastic hook is thin, loaded every time the lid closes, and baked by cabin heat....
+
+-
+
+Guide
+
+### Fixing a broken cooler latch or hinge: Yeti, RTIC, Igloo, Coleman
+
+A cooler latch or hinge usually fails at the pin hole, where a rubber latch stretches or a plastic hinge splits. Official sets cost...
+
+-
+
+Guide
+
 ### Why a DeWalt TSTAK latch keeps breaking, and what to do
 
 A DeWalt TSTAK latch usually breaks from side loads, cold plastic and lifting a stack by the handle. A replacement printed in...
@@ -1593,9 +1807,1765 @@ Photograph the broken part from the top, side and mounting end with a coin or ru
 
 Guide
 
+### How to replace a broken RV screen door latch or handle
+
+To replace a broken RV screen door latch, first work out whether it is a left-hand or right-hand door, then measure the distance between...
+
+-
+
+Guide
+
 ### RV window latch replacement: a plain guide to your options
 
 To replace a broken RV window latch, identify the window style, then choose an original assembly, a used part, or a printed latch....
+
+
+======================================================================
+PAGE: Igloo Cooler Hinge Replacement, 3D Printed | PartRevive
+URL: https://jdinneen.github.io/partrevive/parts/cooler-lid-hinge/
+======================================================================
+
+# Igloo cooler hinge replacement, printed to fit
+
+Short answer: We print replacement lid hinges that fit Igloo, Coleman and Rubbermaid plastic coolers and ice chests in PETG. Send a photo of the cracked hinge and we quote within 24 hours on business days, from $14.
+
+From $14
+
+per hinge; sets of two or four quoted lower per unit. Typical quote; final price confirmed before we print.
+
+Lead time: 5 to 10 business days after approval
+
+Quote: within 24 hours on business days
+
+Get a quote
+
+Made to order. You approve the quote before we print anything.
+
+## Fits
+
+- Igloo rectangular hinged coolers, 25 to 165 qt
+- Coleman plastic coolers, including models 6277 and 6278
+- Rubbermaid ice chests, matched from photos
+
+Brand names identify fit only. PartRevive is not affiliated with any brand named.
+
+## Why it breaks
+
+The hinge cracks and splits at the pin, and reviewers report Igloo hinges splitting from stress after a few years. The cooler body is usually fine, but a lid without a hinge will not stay on.
+
+## OEM situation
+
+A universal Igloo hinge set is about $10 to $12 a pair, and a Coleman set of four hinges is about $10.43. A hinge for the 150 to 165 qt Igloos is $35.99. Many free models also exist, so we compete on matching your exact hinge from photos, from $14.
+
+## What we make
+
+We print in PETG, a tough everyday plastic, with layers oriented so the pin load runs along them. The hinge screw spacing and pin diameter decide the fit, so we need a photo of the cracked hinge beside a coin or ruler and one of the lid and body mounting points. Large coolers take bigger hinges, up to our 250 mm size limit.
+
+## Specifications
+
+Material | PETG (tough, everyday)
+Max size | 250 mm
+Lead time | 5 to 10 business days after approval
+Made | To order from your photo or model number
+Typical size | About 70 x 40 x 15 mm (large coolers about 100 x 60 mm)
+Price from | $14 (per hinge; sets of two or four quoted lower per unit)
+
+## How to order
+
+- Photograph the cracked hinge, and where it mounts on the lid and body, with a coin in the shot.
+- Send photos on the request page, with a coin or ruler in the shot and your cooler brand and size. We reply with a quote within 24 hours on business days.
+- Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you.
+
+Get a quote
+
+## Frequently asked questions
+
+### Will it fit my Igloo or Coleman cooler?
+
+We match it from photos and the hinge screw spacing, and confirm the fit with you before printing. Tell us the brand, quart size and any model number from the cooler.
+
+### Is a printed hinge as strong as the original?
+
+We do not claim it matches the original. Printed PETG is strong, but it is weakest where layers pull apart, so we orient the print along the pin load. We tell you if your hinge is a poor candidate.
+
+### Will it last outdoors in the sun?
+
+PETG is fine for ordinary outdoor use, but we do not give a UV rating. If the cooler sits in strong sun all day, tell us when you order and we can discuss ASA.
+
+### Can I get a set for both sides?
+
+Yes. Tell us how many hinges you need and we quote a lower price per hinge.
+
+### How do I measure or photograph it?
+
+Measure the distance between the hinge screw holes and the pin diameter, or photograph both beside a ruler. Add photos of the hinge from the top, side and mounting face on a plain background.
+
+## Related parts
+
+-
+
+Tools and toolbox parts
+
+### Cooler lid latch (Yeti Tundra, Roadie, RTIC style)
+
+We print a flexible TPU replacement latch that fits Yeti Tundra, Yeti Roadie and RTIC hard coolers. Send a photo of the torn...
+
+From $14
+
+-
+
+Tools and toolbox parts
+
+### Milwaukee Packout drawer latch
+
+We print replacement drawer latches that fit Milwaukee Packout organizers in PETG, or PA-CF for harder use. Send a photo of...
+
+From $14
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Related guides
+
+-
+
+Guide
+
+### Fixing a broken cooler latch or hinge: Yeti, RTIC, Igloo, Coleman
+
+A cooler latch or hinge usually fails at the pin hole, where a rubber latch stretches or a plastic hinge splits. Official sets cost...
+
+## Sources
+
+- Igloo Universal Replacement Cooler Hinges, Sportsmans Warehouse
+- Coleman cooler hinge set listing
+- Oversized hinge for Igloo 150 to 165 qt coolers
+- MakerWorld Igloo hinge model (reviewers on hinge splitting)
+- Printables Coleman Cooler Hinge
+
+
+======================================================================
+PAGE: Yeti Cooler Latch Replacement, 3D Printed | PartRevive
+URL: https://jdinneen.github.io/partrevive/parts/cooler-lid-latch/
+======================================================================
+
+# Yeti cooler latch replacement, flexible printed latch
+
+Short answer: We print a flexible TPU replacement latch that fits Yeti Tundra, Yeti Roadie and RTIC hard coolers. Send a photo of the torn latch and its pin and we quote within 24 hours on business days, from $14.
+
+From $14
+
+per latch; sets of two or three quoted lower per unit. Typical quote; final price confirmed before we print.
+
+Lead time: 5 to 10 business days after approval
+
+Quote: within 24 hours on business days
+
+Get a quote
+
+Made to order. You approve the quote before we print anything.
+
+## Fits
+
+- Yeti Tundra hard coolers
+- Yeti Roadie hard coolers
+- RTIC hard coolers
+- Other rubber-latch hard coolers, matched from photos
+
+Brand names identify fit only. PartRevive is not affiliated with any brand named.
+
+## Why it breaks
+
+The rubber pull latch tears, or its pin hole stretches until it slips off, after years of sun and use. The cooler is fine but will not stay shut. Searches such as "yeti cooler latch broke" are common.
+
+## OEM situation
+
+An official 2-pack is about $17 at one retailer, while one reseller lists a 2-pack at $61.39. Latches are sold in sets, and the larger Tundra 85, 120 and 155 coolers use three. We print a single latch or a full set and price from $14.
+
+## What we make
+
+We print in TPU, a flexible plastic that stretches and springs back like the original rubber, so the latch still pulls over the lid lug. The pin hole size matters most, so we need a photo of the old latch beside a coin and one of the lug it hooks onto. We do not claim bear-resistance or any special rating.
+
+## Specifications
+
+Material | TPU (flexible, like the original rubber)
+Max size | 250 mm
+Lead time | 5 to 10 business days after approval
+Made | To order from your photo or model number
+Typical size | About 80 x 30 x 25 mm
+Price from | $14 (per latch; sets of two or three quoted lower per unit)
+
+## How to order
+
+- Photograph the torn latch, and the lid lug or pin it hooks onto, with a coin in the shot.
+- Send photos on the request page, with a coin or ruler in the shot and your cooler model and size if you know it. We reply with a quote within 24 hours on business days.
+- Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you.
+
+Get a quote
+
+## Frequently asked questions
+
+### Will it fit my Yeti or RTIC cooler?
+
+We match it from photos for Yeti Tundra, Roadie and RTIC coolers and confirm the fit before printing. Tell us the cooler size, as larger coolers use three latches.
+
+### Is a printed latch as strong as the original?
+
+We do not claim it matches the original. TPU flexes like rubber, so it does not snap, but it can stretch or wear over time. We tell you if your latch looks like a poor candidate.
+
+### Will it hold up in the sun?
+
+TPU is fine for ordinary outdoor use, but we do not give a UV rating and sun slowly wears any flexible plastic. If the cooler lives in strong sun, tell us when you order.
+
+### Is it safe for food?
+
+The latch sits on the outside of the cooler and does not touch food. We make no food-contact safety claim, so we do not recommend it for any part that touches food or drink.
+
+### How do I measure or photograph it?
+
+Photograph the latch flat from the front and side beside a coin or ruler, and measure the pin or lug diameter if you can, since that fit matters most. Add a photo of the cooler lid where the latch attaches.
+
+## Related parts
+
+-
+
+Tools and toolbox parts
+
+### Cooler lid hinge (Igloo, Coleman, Rubbermaid style)
+
+We print replacement lid hinges that fit Igloo, Coleman and Rubbermaid plastic coolers and ice chests in PETG. Send a photo of...
+
+From $14
+
+-
+
+Tools and toolbox parts
+
+### DeWalt TSTAK latch clip
+
+We print replacement latch clips that fit DeWalt TSTAK toolboxes in PETG, or in carbon-fibre nylon (PA-CF) for harder use....
+
+From $12
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Related guides
+
+-
+
+Guide
+
+### Fixing a broken cooler latch or hinge: Yeti, RTIC, Igloo, Coleman
+
+A cooler latch or hinge usually fails at the pin hole, where a rubber latch stretches or a plastic hinge splits. Official sets cost...
+
+## Sources
+
+- Yeti Tundra latch 2-pack, Farm and Fleet
+- Yeti Tundra replacement latches 2-pack reseller listing
+- Gear Patrol, Etsy shop printing Yeti Roadie latches
+
+
+======================================================================
+PAGE: Dishwasher Detergent Dispenser Latch Replacement, Printed
+URL: https://jdinneen.github.io/partrevive/parts/dishwasher-detergent-dispenser-latch/
+======================================================================
+
+# Dishwasher detergent dispenser latch replacement, printed to order
+
+Short answer: We print a replacement detergent dispenser latch in PETG that fits many Whirlpool, KitchenAid, Kenmore and Maytag dishwashers. Send a photo and the model number and we quote within 24 hours on business days, from $24.
+
+From $24
+
+per latch; several quoted lower per unit. Typical quote; final price confirmed before we print.
+
+Lead time: 5 to 10 business days after approval
+
+Quote: within 24 hours on business days
+
+Get a quote
+
+Made to order. You approve the quote before we print anything.
+
+## Fits
+
+- Whirlpool dishwasher detergent dispensers
+- KitchenAid dishwasher detergent dispensers
+- Kenmore dishwasher detergent dispensers
+- Maytag dishwasher detergent dispensers (fit varies by model, so we confirm from your photos before printing)
+
+Brand names identify fit only. PartRevive is not affiliated with any brand named.
+
+## Why it breaks
+
+The small latch tab or spring arm on the detergent door snaps, so the door will not stay shut or will not pop open at the right moment in the cycle. The part lives in hot water and detergent and flexes every wash. A tiny broken tab then makes the whole dispenser look useless.
+
+## OEM situation
+
+Individual repair parts are often discontinued, so the usual replacement is the full dispenser assembly. Whirlpool part WPW10224428 is listed at about $58.95 to $60.52, and a KitchenAid assembly, WPW10224430, at about $138.28. A latch-only part, WP99001291, exists for some models. Other owners have reprinted their own latches rather than buy a whole door.
+
+## What we make
+
+We print the latch in PETG, sized to your dispenser from your photos, typically around 35 x 15 x 10 mm. It touches detergent and hot water but not food. We do not claim dishwasher-safe certification or OEM equivalence, and spring-action fit varies by model, so we confirm it with you before printing. We need photos of the broken latch and the dispenser, with a coin or ruler in the shot, plus the model number.
+
+## Specifications
+
+Material | PETG
+Max size | 250 mm
+Lead time | 5 to 10 business days after approval
+Made | To order from your photo or model number
+Typical part size | About 35 x 15 x 10 mm, varies by model
+Price from | $24 (per latch; several quoted lower per unit)
+
+## How to order
+
+- Photograph the broken latch and the dispenser door from the front, side and inside, with a coin or ruler in the shot. Note the dishwasher model number.
+- Send the photos on the request page. We reply with a quote within 24 hours on business days.
+- Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you.
+
+Get a quote
+
+## Frequently asked questions
+
+### Will it fit my dishwasher?
+
+Many Whirlpool, KitchenAid, Kenmore and Maytag dispensers use similar latches, but fit varies by model. Send the model number and photos and we confirm the fit before printing.
+
+### Is a printed latch as strong as the original?
+
+We do not claim it matches the original. PETG is tough and slightly flexible, which suits a spring arm, but it can still fatigue after many cycles. We orient the print so the flex runs along the layers and tell you if a part is a poor candidate.
+
+### Can it handle hot water and detergent?
+
+PETG copes with warm water and detergent well in most home cycles. It touches detergent and hot water but not food. We do not claim dishwasher-safe certification, and a latch near a heating element is a poor fit for PETG.
+
+### How do I photograph or measure the latch?
+
+Photograph the latch and the door from the front, the side and the inside on a plain background with a coin or ruler beside them. Also send the model number, usually on a sticker on the door edge or the tub frame. Keep any broken pieces and photograph them too.
+
+### Is it cheaper than a new dispenser?
+
+Usually yes. Full dispenser assemblies are listed at about $58.95 and up, and our latch starts from $24. The quote depends on your model.
+
+## Related parts
+
+-
+
+Kitchen and home appliance parts
+
+### Bosch dishwasher tine clip (set of 4)
+
+We print a set of four replacement tine clips for Bosch style dishwasher racks to order, matched to your rack photos. Send a...
+
+From $16
+
+-
+
+Kitchen and home appliance parts
+
+### Refrigerator and freezer drawer wheel
+
+We print replacement drawer wheels and rollers in PETG for LG, Samsung and Whirlpool refrigerator and freezer drawers. Send a...
+
+From $14
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Sources
+
+- Printables: Kenmore/Whirlpool dispenser latch model
+- Printables: Frigidaire dispenser arm reprint
+- Whirlpool dispenser assembly WPW10224428 listing
+- Dishwasher dispenser assemblies and prices
+- Latch-only part WP99001291 listing
+
+
+======================================================================
+PAGE: LG Refrigerator Drawer Wheel Replacement | PartRevive
+URL: https://jdinneen.github.io/partrevive/parts/fridge-drawer-wheel/
+======================================================================
+
+# LG refrigerator drawer wheel replacement, and other brands
+
+Short answer: We print replacement drawer wheels and rollers in PETG for LG, Samsung and Whirlpool refrigerator and freezer drawers. Send a photo and the model number and we quote within 24 hours on business days, from $14.
+
+From $14
+
+per wheel; sets for several wheels quoted lower per unit. Typical quote; final price confirmed before we print.
+
+Lead time: 5 to 10 business days after approval
+
+Quote: within 24 hours on business days
+
+Get a quote
+
+Made to order. You approve the quote before we print anything.
+
+## Fits
+
+- LG refrigerator and freezer drawer wheels
+- Samsung refrigerator drawer wheels
+- Whirlpool refrigerator drawer rollers (fit varies by model, so we confirm from your photos before printing)
+
+Brand names identify fit only. PartRevive is not affiliated with any brand named.
+
+## Why it breaks
+
+The small wheels under a crisper or freezer drawer flat-spot or snap, and the drawer starts to stick, scrape or tilt. The wheel is a few centimetres of plastic, but the drawer will not run without it. Owners often find the repair is not offered on its own.
+
+## OEM situation
+
+Manufacturers typically sell only the whole rail or drawer, not the wheel. Rails are listed from about $18 to $175 depending on the brand. Printed wheels have been used by owners to get a sticking LG crisper drawer rolling again.
+
+## What we make
+
+We print the wheel or roller in PETG, matched to your drawer from your photos, typically around 25 x 10 mm. The wheel sits inside the fridge but does not touch food. We do not claim OEM equivalence or food-contact certification. We need a photo of the broken wheel or its empty mount, the wheel diameter and axle size if you can measure them, and the model number.
+
+## Specifications
+
+Material | PETG
+Max size | 250 mm
+Lead time | 5 to 10 business days after approval
+Made | To order from your photo or model number
+Typical wheel size | About 25 x 10 mm, matched to your axle
+Price from | $14 (per wheel; sets for several wheels quoted lower per unit)
+
+## How to order
+
+- Photograph the broken wheel, or the empty mount on the drawer, with a coin or ruler in the shot. Note the wheel diameter and axle size if you can, and the fridge model number.
+- Send the photos on the request page. We reply with a quote within 24 hours on business days.
+- Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you.
+
+Get a quote
+
+## Frequently asked questions
+
+### Will it fit my fridge?
+
+Wheels vary by model, even within one brand. Send the model number and photos and we confirm the fit before printing.
+
+### Is a printed wheel as strong as the original?
+
+We do not claim it matches the original. PETG is tough and wears reasonably, but a heavily loaded drawer will wear any plastic wheel over time. We orient the print so the wheel resists splitting along the axle and tell you if a part is a poor candidate.
+
+### Does the cold of a fridge or freezer affect it?
+
+PETG stays usable at normal fridge and freezer temperatures in typical use. The wheel does not touch food. We do not claim food-contact certification.
+
+### How do I measure or photograph the wheel?
+
+Measure the wheel diameter and the axle or pin size in millimetres if you can, and photograph the wheel and its mount from the side and top with a coin or ruler beside them. Also send the model number, usually on a sticker inside the fridge wall or on the door frame.
+
+### Do I need to order every wheel?
+
+Only the ones that are broken, though flat-spotted wheels often wear together. Tell us how many you need and we quote a lower price per wheel for sets.
+
+## Related parts
+
+-
+
+Kitchen and home appliance parts
+
+### Whirlpool and KitchenAid fridge door bin and holder
+
+We print replacement Whirlpool and KitchenAid style refrigerator door bins and bin holders to order, matched to your model...
+
+From $65
+
+-
+
+Kitchen and home appliance parts
+
+### Samsung fridge door bin
+
+We print replacement Samsung style refrigerator door bins to order, matched to your model number and photos. Send them and we...
+
+From $55
+
+-
+
+Kitchen and home appliance parts
+
+### Dishwasher detergent dispenser latch
+
+We print a replacement detergent dispenser latch in PETG that fits many Whirlpool, KitchenAid, Kenmore and Maytag dishwashers....
+
+From $24
+
+## Sources
+
+- Printed LG crisper drawer wheel (promotional blog)
+- Whirlpool drawer strut tab repair
+- Crisper assembly parts and rail prices
+- GE rail part WR72X240 listing
+
+
+======================================================================
+PAGE: Pelican Case Latch Replacement, 3D Printed | PartRevive
+URL: https://jdinneen.github.io/partrevive/parts/pelican-case-latch/
+======================================================================
+
+# Pelican case latch replacement, printed single latch
+
+Short answer: We print a single replacement latch that fits Pelican 1510, 1550 and 1600-style hard cases in carbon-fibre nylon (PA-CF); Storm cases are matched from photos. Send a photo of the broken latch and we quote within 24 hours on business days, from $16.
+
+From $16
+
+per latch; sets for several latches quoted lower per unit. Typical quote; final price confirmed before we print.
+
+Lead time: 5 to 10 business days after approval
+
+Quote: within 24 hours on business days
+
+Get a quote
+
+Made to order. You approve the quote before we print anything.
+
+## Fits
+
+- Pelican 1510, 1550 and 1600-style hard case latches (old and new style, confirmed from your photo)
+- Peli-style and similar hard case latches
+- Storm cases, matched from photos
+
+Brand names identify fit only. PartRevive is not affiliated with any brand named.
+
+## Why it breaks
+
+The latch hook or its pin cracks, or the small spring tab snaps, after years of opening and closing under load. The case itself is usually fine, but one dead latch means it no longer closes tight. Google searches such as "pelican case latch pin" show how common this is.
+
+## OEM situation
+
+Single latches are typically not sold separately. Genuine latches usually come as a handle-and-latch set from resellers such as ColorCase, and one reviewer there wished for a single-latch option. We print one latch and price from $16.
+
+## What we make
+
+We print in PA-CF, carbon-fibre filled nylon, because a latch hook takes repeated load and PA-CF is stiff and tough. We orient the print so the main load runs along the layers. We need a photo of the broken latch beside a coin, plus the matching latch on the case. We make no waterproof or sealing claim: how well a case seals depends on the latch holding the lid shut firmly, and we do not give any ingress rating.
+
+## Specifications
+
+Material | PA-CF (carbon-fibre filled nylon)
+Max size | 250 mm
+Lead time | 5 to 10 business days after approval
+Made | To order from your photo or model number
+Typical size | About 60 x 35 x 20 mm
+Price from | $16 (per latch; sets for several latches quoted lower per unit)
+
+## How to order
+
+- Photograph the broken latch, and the intact latch on the other side of the case, with a coin in the shot.
+- Send photos on the request page, with a coin or ruler in the shot and the case model number if you have it. We reply with a quote within 24 hours on business days.
+- Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you.
+
+Get a quote
+
+## Frequently asked questions
+
+### Will it fit my Pelican case?
+
+We match it from photos for Pelican 1510, 1550 and 1600-style cases and confirm the fit with you before printing. Older and newer latch styles differ, so send a clear photo of the latch and the case model number.
+
+### Is a printed latch as strong as the original?
+
+We do not claim it matches the original. PA-CF is stiff and tough, and we orient the print so the load runs along the layers, but a printed part is weakest where layers pull apart. We tell you if your latch is a poor candidate.
+
+### Will the case still be waterproof?
+
+We make no waterproof or ingress-rating claim. A case seal depends on the latch holding the lid firmly, so a good-fitting latch helps, but we cannot promise any seal level.
+
+### Can it live outdoors in the sun?
+
+PA-CF is a tough nylon blend and fine for ordinary outdoor use, but we do not give a UV rating. If the case sits in strong sun all day, tell us and we will discuss options, such as ASA.
+
+### How do I measure or photograph it?
+
+Photograph the latch from the front, side and underside on a plain background with a coin or ruler beside it, and include the pin and the case model number, usually moulded or printed on the case. If you still have broken pieces, photograph those too.
+
+## Related parts
+
+-
+
+Tools and toolbox parts
+
+### Milwaukee Packout drawer latch
+
+We print replacement drawer latches that fit Milwaukee Packout organizers in PETG, or PA-CF for harder use. Send a photo of...
+
+From $14
+
+-
+
+Tools and toolbox parts
+
+### DeWalt TSTAK latch clip
+
+We print replacement latch clips that fit DeWalt TSTAK toolboxes in PETG, or in carbon-fibre nylon (PA-CF) for harder use....
+
+From $12
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Related guides
+
+-
+
+Guide
+
+### Fixing a broken cooler latch or hinge: Yeti, RTIC, Igloo, Coleman
+
+A cooler latch or hinge usually fails at the pin hole, where a rubber latch stretches or a plastic hinge splits. Official sets cost...
+
+## Sources
+
+- ColorCase Pelican 1510 replacement handles and latches set
+- ColorCase Pelican 1650 handle and latches set (reviewer wanted single latches)
+- Printables Pelican 1600 Latch model
+
+
+======================================================================
+PAGE: RV Door Holder Catch, 3D Printed Replacement | PartRevive
+URL: https://jdinneen.github.io/partrevive/parts/rv-door-holder-catch/
+======================================================================
+
+# RV door holder catch, printed to fit your door
+
+Short answer: We print replacement plunger-and-socket door holders for RV and caravan entry doors in UV-resistant ASA, including odd shapes the generic part does not fit. Send a photo and we quote within 24 hours on business days, from $12.
+
+From $12
+
+per holder; sets quoted lower per unit. Typical quote; final price confirmed before we print.
+
+Lead time: 5 to 10 business days after approval
+
+Quote: within 24 hours on business days
+
+Get a quote
+
+Made to order. You approve the quote before we print anything.
+
+## Fits
+
+- Fits most travel trailer and caravan entry door holders, plunger-and-socket style
+- Odd or angled shapes matched from your photo
+
+Brand names identify fit only. PartRevive is not affiliated with any brand named.
+
+## Why it breaks
+
+The plastic stem or socket of a door holder cracks or loses its grip, and the door then swings in the wind. Holders also go missing when the screws strip out. Some campers use a shape the common store-bought catch does not fit.
+
+## OEM situation
+
+A Camco 3 in door catch lists at $8.59, and an RV Designer E257 angled holder ranges from about $7.99 to $31 on eBay. Our value is in odd shapes the generic part does not fit. We price from $12.
+
+## What we make
+
+We print in ASA, a plastic made to resist sun and heat. We need photos of the broken holder and of the spot on the door and frame where it mounts, with a coin or ruler beside them. We match the screw spacing and shape from your photos.
+
+## Specifications
+
+Material | ASA (UV and heat resistant)
+Max size | 250 mm
+Lead time | 5 to 10 business days after approval
+Made | To order from your photo or model number
+Style | Plunger and socket, matched from your photo
+Price from | $12 (per holder; sets quoted lower per unit)
+
+## How to order
+
+- Photograph the broken holder and its mounting spots on the door and frame, with a coin or ruler in the shot.
+- Send photos on the request page, and add the camper make and model if you have it. We reply with a quote within 24 hours on business days.
+- Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you.
+
+Get a quote
+
+## Frequently asked questions
+
+### Will it fit my door?
+
+If your holder is a plunger-and-socket style, we match it from photos. We confirm the fit with you before printing.
+
+### Is a printed holder as strong as the original?
+
+We do not claim it matches the original. Printed ASA is strong in most directions but weakest where the layers pull apart, so we orient the print to put the load along the layers. We tell you if a part is a poor candidate.
+
+### How do I measure or photograph it?
+
+Photograph the holder from the front, side and back on a plain background with a coin or ruler beside it. Photograph the mounting spots on the door and frame too, and measure the screw hole spacing if you can. Send the camper make and model if you know them.
+
+### Can you copy an angled or 90 degree holder?
+
+Often, yes. Send clear photos from several sides and we tell you whether we can match the shape.
+
+### Can I order a few at once?
+
+Yes. Tell us the quantity and we quote a lower price per holder.
+
+## Related parts
+
+-
+
+RV and camper parts
+
+### RV screen door latch and handle
+
+We print replacement paddle and lever latches for travel-trailer screen doors, including Forest River style doors, in...
+
+From $22
+
+-
+
+RV and camper parts
+
+### RV cabinet door latch (Newmar-style)
+
+We print replacement RV cabinet door latches in ASA, including shapes that are discontinued, from your photo or part number....
+
+From $22
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Related guides
+
+-
+
+Guide
+
+### How to replace a broken RV screen door latch or handle
+
+To replace a broken RV screen door latch, first work out whether it is a left-hand or right-hand door, then measure the distance between...
+
+## Sources
+
+- Camco 3 in door catch price
+- RV Designer E257 angled holder listings
+
+
+======================================================================
+PAGE: RV Refrigerator Door Handle Replacement | PartRevive
+URL: https://jdinneen.github.io/partrevive/parts/rv-fridge-door-handle/
+======================================================================
+
+# RV refrigerator door handle replacement, printed to fit
+
+Short answer: We print replacement door handles and latch catches for RV refrigerators in UV-resistant ASA, matched by model number and photo. Send a photo and your fridge model and we quote within 24 hours on business days, from $24.
+
+From $24
+
+per handle or latch; sets quoted lower per unit. Typical quote; final price confirmed before we print.
+
+Lead time: 5 to 10 business days after approval
+
+Quote: within 24 hours on business days
+
+Get a quote
+
+Made to order. You approve the quote before we print anything.
+
+## Fits
+
+- Fits Dometic DMR702, DM2652, RM2652, RM2852, DM2672 and DM2872 refrigerator doors
+- Fits Dometic NRX series refrigerator doors
+- Fits Norcold latch 61578522 style door latches
+- Matched by model number, so send a photo to confirm
+
+Brand names identify fit only. PartRevive is not affiliated with any brand named.
+
+## Why it breaks
+
+Plastic fridge handles and latch catches snap from sun exposure and from vibration on the road. The parts are specific to each fridge model, so a handle that looks close often does not fit. A broken latch can leave the door swinging open while you travel.
+
+## OEM situation
+
+Original parts range widely. A Dometic DMR702 handle lists at about $20.99, a DM2672 or DM2872 handle set of two at $64.99, an NRX130C handle assembly at $42.02 on sale against $66.81, and a Norcold latch at $2.95. We price from $24 and quote by model.
+
+## What we make
+
+We print in ASA, a plastic made to resist sun and heat. We print only the plastic handle or latch catch. We do not make or touch anything to do with gas, burners or electrics. We need the fridge model number, usually on the label inside the fridge, and photos of the broken part and its mounting points with a coin or ruler beside them.
+
+## Specifications
+
+Material | ASA (UV and heat resistant)
+Max size | 250 mm
+Lead time | 5 to 10 business days after approval
+Made | To order from your photo or model number
+Part type | Door handle or latch catch, matched by fridge model number
+Price from | $24 (per handle or latch; sets quoted lower per unit)
+
+## How to order
+
+- Find your fridge model number and photograph the broken handle or latch, or the empty mounting spot, with a coin in the shot.
+- Send photos and the model number on the request page. We reply with a quote within 24 hours on business days.
+- Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you.
+
+Get a quote
+
+## Frequently asked questions
+
+### Will it fit my Dometic or Norcold fridge?
+
+We match the part from your model number and photos. The models we list are a starting point, and we confirm the fit with you before printing.
+
+### Is a printed handle as strong as the original?
+
+We do not claim it matches the original. Printed ASA is strong in most directions but weakest where the layers pull apart, so we orient the print to put the load along the layers. We tell you if a part is a poor candidate.
+
+### How do I measure or photograph the part?
+
+Photograph the handle or latch from the front, side and back on a plain background with a coin or ruler beside it, plus the door where it mounts. Send the fridge model number, usually on a label inside the fridge, and note the screw hole spacing if you can measure it.
+
+### Do you work on gas or electrical parts?
+
+No. We print only the plastic door handle or latch catch, never anything connected to burners, gas or electrics.
+
+### Can you make a matching pair of handles?
+
+Yes, for models that use two. Tell us the quantity and we quote a lower price per handle.
+
+## Related parts
+
+-
+
+RV and camper parts
+
+### RV entry door holder catch
+
+We print replacement plunger-and-socket door holders for RV and caravan entry doors in UV-resistant ASA, including odd shapes...
+
+From $12
+
+-
+
+RV and camper parts
+
+### RV cabinet door latch (Newmar-style)
+
+We print replacement RV cabinet door latches in ASA, including shapes that are discontinued, from your photo or part number....
+
+From $22
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Sources
+
+- Dometic DMR702 handle price
+- Dometic DM2672 and DM2872 handle set
+- Dometic NRX130C handle assembly
+- Norcold door latch 61578522
+
+
+======================================================================
+PAGE: RV Screen Door Latch Replacement, 3D Printed | PartRevive
+URL: https://jdinneen.github.io/partrevive/parts/rv-screen-door-latch/
+======================================================================
+
+# RV screen door latch replacement, printed to match
+
+Short answer: We print replacement paddle and lever latches for travel-trailer screen doors, including Forest River style doors, in UV-resistant ASA, left or right hand. Send a photo of the broken latch and we quote within 24 hours on business days, from $22.
+
+From $22
+
+per latch; pairs and multi-packs quoted lower per unit. Typical quote; final price confirmed before we print.
+
+Lead time: 5 to 10 business days after approval
+
+Quote: within 24 hours on business days
+
+Get a quote
+
+Made to order. You approve the quote before we print anything.
+
+## Fits
+
+- Fits Forest River and similar travel-trailer screen doors (send a photo to confirm your door)
+- Left-hand and right-hand versions, matched to your hole spacing
+
+Brand names identify fit only. PartRevive is not affiliated with any brand named.
+
+## Why it breaks
+
+The plastic paddle or lever on a screen door latch cracks with sun exposure and daily use, and the spring-return parts wear out. Owners report the paddle is hard to find on its own. A small broken lever leaves the whole door unable to latch.
+
+## OEM situation
+
+Replacements are typically sold only as a full latch kit. One zinc kit lists on Amazon through a third-party seller at $17.09, and one forum poster said their dealer had discontinued the replacement. We price from $22 for just the part you need.
+
+## What we make
+
+We print in ASA, a plastic made to resist sun and heat, which suits a part that lives on the outside of the camper. We need a photo of the latch from the front, side and back with a coin or ruler beside it, and we need to know whether it is a left-hand or right-hand door. We match the hole spacing from your photos.
+
+## Specifications
+
+Material | ASA (UV and heat resistant)
+Max size | 250 mm
+Lead time | 5 to 10 business days after approval
+Made | To order from your photo or model number
+Hand | Left or right, from your photo
+Price from | $22 (per latch; pairs and multi-packs quoted lower per unit)
+
+## How to order
+
+- Photograph the broken latch, or the empty latch position on the door, with a coin or ruler in the shot.
+- Send photos on the request page, say whether the door is left or right hand, and add the model number if you have it. We reply with a quote within 24 hours on business days.
+- Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you.
+
+Get a quote
+
+## Frequently asked questions
+
+### Will it fit my camper screen door?
+
+If your latch looks like a paddle or lever style used on Forest River and similar doors, we match it from photos. We confirm the fit with you before printing.
+
+### Is a printed latch as strong as the original?
+
+We do not claim it matches the original. Printed ASA is strong in most directions but weakest where the layers pull apart, so we orient the print to put the main load along the layers. We tell you if a part looks like a poor candidate.
+
+### How do I measure or photograph the latch?
+
+Photograph the latch from the front, side and back on a plain background with a coin or ruler beside it. Tell us if the door is left hand or right hand, and measure the distance between the screw holes if you can. Send the model number if there is one.
+
+### Do you make the spring too?
+
+We print the plastic paddle and lever parts. Springs are metal, so we typically suggest reusing yours or buying a small spring locally, and we will say so in the quote.
+
+### Can I order a left and right pair?
+
+Yes. Tell us how many of each hand you need and we quote a lower price per latch.
+
+## Related parts
+
+-
+
+RV and camper parts
+
+### RV entry door holder catch
+
+We print replacement plunger-and-socket door holders for RV and caravan entry doors in UV-resistant ASA, including odd shapes...
+
+From $12
+
+-
+
+RV and camper parts
+
+### RV cabinet door latch (Newmar-style)
+
+We print replacement RV cabinet door latches in ASA, including shapes that are discontinued, from your photo or part number....
+
+From $22
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Related guides
+
+-
+
+Guide
+
+### How to replace a broken RV screen door latch or handle
+
+To replace a broken RV screen door latch, first work out whether it is a left-hand or right-hand door, then measure the distance between...
+
+## Sources
+
+- Forest River forum thread on a broken screen door handle
+- Zinc screen door latch kit price history
+- RV screen door handle models on Thangs
+
+
+======================================================================
+PAGE: RV Vent Crank Handle Replacement, Printed | PartRevive
+URL: https://jdinneen.github.io/partrevive/parts/rv-vent-crank-knob/
+======================================================================
+
+# RV vent crank handle replacement, matched to your shaft
+
+Short answer: We print replacement crank knobs for manual RV roof vents, including Ventline, Elixir and Hehr style vents, in UV-resistant ASA, matched to your shaft or spline. Send a photo and your measurements and we quote within 24 hours on business days, from $16.
+
+From $16
+
+per knob; sets quoted lower per unit. Typical quote; final price confirmed before we print.
+
+Lead time: 5 to 10 business days after approval
+
+Quote: within 24 hours on business days
+
+Get a quote
+
+Made to order. You approve the quote before we print anything.
+
+## Fits
+
+- Fits Ventline, Elixir-style and Hehr-style manual roof vents
+- Matched to a splined shaft or a 1/2 in shaft, from your measurements
+
+Brand names identify fit only. PartRevive is not affiliated with any brand named.
+
+## Why it breaks
+
+Plastic crank knobs strip where they grip the shaft, so the handle spins without opening the vent. The knobs sit in the sun for years and turn brittle. The fit depends on the exact spline or shaft size, which varies between makers.
+
+## OEM situation
+
+A Ventline operator with crank, BVD0462-00, was listed at $23.14 and out of stock. One etrailer answer says Ventline Northern Breeze vents are discontinued with no replacement parts. Ventline spline also differs from Jensen, so a generic knob may not fit. We price from $16.
+
+## What we make
+
+We print in ASA, a plastic made to resist sun and heat. We need the shaft type and size, which you measure yourself: spline or round, with the diameter, plus the knob diameter and a photo with a coin or ruler. We match the shaft opening to your measurements and tell you if anything looks unclear before we print.
+
+## Specifications
+
+Material | ASA (UV and heat resistant)
+Max size | 250 mm
+Lead time | 5 to 10 business days after approval
+Made | To order from your photo or model number
+Shaft | Spline or 1/2 in, measured by you
+Price from | $16 (per knob; sets quoted lower per unit)
+
+## How to order
+
+- Photograph the old knob and the bare shaft with a coin or ruler in the shot, and measure the shaft diameter.
+- Send photos and measurements on the request page, noting if the shaft is splined or round. We reply with a quote within 24 hours on business days.
+- Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you.
+
+Get a quote
+
+## Frequently asked questions
+
+### Will it fit my vent?
+
+If we have a photo of your shaft and its measured size, we can match it. We confirm the fit with you before printing.
+
+### Is a printed knob as strong as the original?
+
+We do not claim it matches the original. Printed ASA is strong in most directions but weakest where the layers pull apart, so we orient the print to put the load along the layers. We tell you if a part is a poor candidate.
+
+### How do I measure the shaft?
+
+Photograph the shaft end from the side and straight on with a coin or ruler beside it. Tell us if it is splined or round, measure the diameter across it, and measure the old knob diameter. Send the vent make or model number if you have it.
+
+### My shaft is splined. Does that matter?
+
+Yes. Spline patterns differ between makers, and Ventline spline differs from Jensen. A clear straight-on photo of the shaft end is the most useful thing you can send.
+
+### Can I order several knobs?
+
+Yes. Tell us how many vents you have and we quote a lower price per knob.
+
+## Related parts
+
+-
+
+RV and camper parts
+
+### RV window latch (Elixir, Hehr, Kinro style)
+
+We print replacement RV and camper window latches in ASA, a UV and heat resistant plastic, from your photo or measurements....
+
+From $18
+
+-
+
+RV and camper parts
+
+### RV screen door latch and handle
+
+We print replacement paddle and lever latches for travel-trailer screen doors, including Forest River style doors, in...
+
+From $22
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Sources
+
+- Ventline operator with crank BVD0462-00
+- etrailer question on Ventline Northern Breeze vents
+- Ventline vent winder knob, spline note
+
+
+======================================================================
+PAGE: Ryobi 40V Mower Battery Cover Replacement | PartRevive
+URL: https://jdinneen.github.io/partrevive/parts/ryobi-40v-mower-battery-door/
+======================================================================
+
+# Ryobi 40V mower battery cover replacement, printed door
+
+Short answer: We print a replacement battery bay cover for Ryobi 40V mowers in sun-resistant ASA, including RY401014US, RY401015US and RY401017. It is a cover only with no battery contacts, and we quote within 24 hours on business days, from $24.
+
+From $24
+
+per door; size varies by model and large covers may price higher. Typical quote; final price confirmed before we print.
+
+Lead time: 5 to 10 business days after approval
+
+Quote: within 24 hours on business days
+
+Get a quote
+
+Made to order. You approve the quote before we print anything.
+
+## Fits
+
+- Ryobi RY401014US 40V mower battery cover
+- Ryobi RY401015US 40V mower battery cover
+- Ryobi RY401017 40V mower battery cover
+- Please verify your model on the mower label before ordering
+
+Brand names identify fit only. PartRevive is not affiliated with any brand named.
+
+## Why it breaks
+
+The hinged tabs on the battery bay door snap after repeated opening and years in the sun. The mower still runs, but the door will not close or stay shut.
+
+## OEM situation
+
+An original Ryobi battery cover, part 205803001, is $34.99 at one parts seller and ships in 7 to 10 days. A used RY401017 cover sold for $27.45 on eBay in May 2025. Many covers are used or backordered, so we print one to order from $24.
+
+## What we make
+
+We print in ASA, a plastic chosen for sun and heat, so the door can sit outside on a mower. This is a cover only. It has no battery contacts or electrical parts, and we do not make battery contacts. We need a photo of the broken door, the bay it fits and the model label on your mower. We do not claim the door is waterproof.
+
+## Specifications
+
+Material | ASA (UV and heat resistant)
+Max size | 250 mm
+Lead time | 5 to 10 business days after approval
+Made | To order from your photo or model number
+Typical size | About 150 x 100 x 40 mm (varies by model); cover only, no electrical parts
+Price from | $24 (per door; size varies by model and large covers may price higher)
+
+## How to order
+
+- Photograph the broken battery door and the empty bay, and the model label on the mower, with a coin in the shot.
+- Send photos on the request page, with a coin or ruler in the shot and your mower model number. We reply with a quote within 24 hours on business days.
+- Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you.
+
+Get a quote
+
+## Frequently asked questions
+
+### Will it fit my Ryobi mower?
+
+We match it from photos and your model label for Ryobi RY401014US, RY401015US and RY401017, and confirm the fit before printing. Covers are model-specific, so please check the label first.
+
+### Does it include battery contacts?
+
+No. It is a cover only, with no battery contacts or electrical parts, and we do not make battery contacts. Your mower keeps its original contacts and wiring.
+
+### Is a printed door as strong as the original?
+
+We do not claim it matches the original. ASA is tough, but the hinge tabs are the weak point on any printed door, so we orient the print to protect them. We tell you if your door is a poor candidate.
+
+### Will it survive sun and weather?
+
+ASA is chosen for sun and heat, so it is a good fit for outdoor use. We do not claim the door is waterproof, so please do not rely on it to keep out heavy rain.
+
+### How do I find my model and photograph the part?
+
+The model number is on the label on the mower, often near the deck or under the handle. Photograph the broken door, its hinge tabs and the bay beside a coin or ruler, then add the label.
+
+## Related parts
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+-
+
+Tools and toolbox parts
+
+### DeWalt TSTAK latch clip
+
+We print replacement latch clips that fit DeWalt TSTAK toolboxes in PETG, or in carbon-fibre nylon (PA-CF) for harder use....
+
+From $12
+
+-
+
+Tools and toolbox parts
+
+### Cooler lid hinge (Igloo, Coleman, Rubbermaid style)
+
+We print replacement lid hinges that fit Igloo, Coleman and Rubbermaid plastic coolers and ice chests in PETG. Send a photo of...
+
+From $14
+
+## Sources
+
+- Ryobi battery cover 205803001, lawnmowerparts.ca
+- Used RY401017 cover, eBay listing (May 2025)
+- Printables Ryobi battery cover model
+
+
+======================================================================
+PAGE: Silverado Center Console Latch Replacement | PartRevive
+URL: https://jdinneen.github.io/partrevive/parts/silverado-sierra-console-latch/
+======================================================================
+
+# Silverado center console latch replacement, made to fit
+
+Short answer: We print a replacement center console lid latch that fits Chevrolet Silverado and GMC Sierra 2007-2013 and related SUVs with the bucket-seat console, in PETG. Send a photo of the old latch and your year, and we quote within 24 hours on business days, from $19.
+
+From $19
+
+per latch; typical quote, multiples quoted lower per unit. Typical quote; final price confirmed before we print.
+
+Lead time: 5 to 10 business days after approval
+
+Quote: within 24 hours on business days
+
+Get a quote
+
+Made to order. You approve the quote before we print anything.
+
+## Fits
+
+- Chevrolet Silverado 1500, Suburban, Tahoe and Avalanche 2007-2013
+- GMC Sierra 1500, Yukon and Yukon XL 2007-2013
+- Bucket-seat console versions; we confirm from your photo whether the latch or the lid is the broken part
+
+Brand names identify fit only. PartRevive is not affiliated with any brand named.
+
+## Why it breaks
+
+The console latch breaks and the lid will not stay shut, so it flaps open over bumps and corners. It is a small part, but the console is used every drive. People often cannot tell whether the latch or the lid itself has failed.
+
+## OEM situation
+
+A cheap fix exists: one retailer lists an aftermarket 2-pack of latches (GM 20864151/53/54) for $8.99, and a single latch for $25.95. One reviewer there said a dealer wanted over $200 and would not sell just the latch (an anecdote, not a price we can confirm). If the cheap latch fits your truck, buy it. A made-to-fit printed part makes sense when your year or colour does not match, the part is discontinued, or the latch keeps breaking and you want a stronger material.
+
+## What we make
+
+We print PETG, which holds up in a warm cabin where PLA softens, and we can use ASA if the vehicle sits in strong sun. We do not use PLA for car interiors. We need a photo of the old latch or the empty position, with a coin or ruler in the shot, and your year and model. Interior trim only; we do not make airbag, seatbelt, brake, steering, lighting or fuel parts.
+
+## Specifications
+
+Material | PETG (ASA on request for sunny climates)
+Max size | 250 mm
+Lead time | 5 to 10 business days after approval
+Made | To order from your photo or model number
+Fit confirmed from | Year, model and a photo of the old latch
+Price from | $19 (per latch; typical quote, multiples quoted lower per unit)
+
+## How to order
+
+- Photograph the broken latch, or the empty latch position on the console, with a coin in the shot. Note your year and model.
+- Send photos on the request page, with any part number you can see. We reply with a quote within 24 hours on business days.
+- Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you.
+
+Get a quote
+
+## Frequently asked questions
+
+### Why not just buy the $8.99 aftermarket pair?
+
+If it fits your truck and you are happy with it, do that. Ours is for when the year or colour does not match, the part is discontinued, or the latch keeps breaking and you want a stronger material.
+
+### Is a printed latch as strong as the original?
+
+We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along the layers. We tell you if the part is a poor candidate.
+
+### Will it handle heat in a parked truck?
+
+PLA softens in a hot car, so we do not use it. We print PETG for cabins and can use ASA if the vehicle sits in strong sun.
+
+### How do I photograph the latch for a fit check?
+
+Photograph the latch and its mating spot on the lid from the front, side and underside, on a plain background with a coin or ruler. Send your year, model and any part number on the old piece. The photo also tells us whether the latch or the lid is the part that failed.
+
+### Do you make safety-related car parts?
+
+No. We make interior and trim parts only, and we do not make airbag, seatbelt, brake, steering, lighting or fuel parts.
+
+## Related parts
+
+-
+
+Automotive interior parts
+
+### Toyota Tacoma center console latch
+
+We print a replacement center console lid latch that fits Toyota Tacoma 2005-2012, in PETG or heat-resistant ASA. Send a photo...
+
+From $18
+
+-
+
+Automotive interior parts
+
+### Sun visor retainer clip
+
+We print a replacement sun visor retainer clip made to your photo or part number, in PETG, for most cars with a...
+
+From $12
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Related guides
+
+-
+
+Guide
+
+### Broken center console latch: your options and what they cost
+
+A center console latch usually breaks because its small plastic hook is thin, loaded every time the lid closes, and baked by cabin heat....
+
+## Sources
+
+- Aftermarket console latch 2-pack and single, Walmart listing
+
+
+======================================================================
+PAGE: Sun Visor Clip Replacement, 3D Printed | PartRevive
+URL: https://jdinneen.github.io/partrevive/parts/sun-visor-clip/
+======================================================================
+
+# Sun visor clip replacement, printed from your photo
+
+Short answer: We print a replacement sun visor retainer clip made to your photo or part number, in PETG, for most cars with a vehicle-specific version. Send a clear photo with a coin for scale and we quote within 24 hours on business days, from $12.
+
+From $12
+
+per clip; pairs for both visors quoted lower per unit. Typical quote; final price confirmed before we print.
+
+Lead time: 5 to 10 business days after approval
+
+Quote: within 24 hours on business days
+
+Get a quote
+
+Made to order. You approve the quote before we print anything.
+
+## Fits
+
+- Most cars and trucks; each clip is made to your vehicle, so send the year, model and trim
+
+Brand names identify fit only. PartRevive is not affiliated with any brand named.
+
+## Why it breaks
+
+The clip that holds the visor in its hook cracks or goes missing, so the visor droops or flips down on its own. It is a tiny piece of plastic on a visor that is otherwise fine. The clip is often what fails first because it flexes every time the visor is moved.
+
+## OEM situation
+
+The clip is typically sold only as part of the visor or trim, so a single clip is hard to find. Free printable files exist for some popular models, but they need a clear photo with scale to match your car. We make one to your photo or part number instead.
+
+## What we make
+
+We print PETG, which holds up in a hot cabin where PLA softens, and we do not use PLA for car interiors. We need a clear photo of the old clip or the empty hook, with a coin or ruler beside it, plus your year, model and trim. We make interior trim parts only, not airbag, seatbelt, brake, steering, lighting or fuel parts.
+
+## Specifications
+
+Material | PETG (ASA on request for sunny climates)
+Max size | 250 mm
+Lead time | 5 to 10 business days after approval
+Made | To order from your photo or model number
+Fit confirmed from | Year, model and a photo of the old clip and hook, with scale
+Price from | $12 (per clip; pairs for both visors quoted lower per unit)
+
+## How to order
+
+- Photograph the broken clip, or the empty hook on the headliner, with a coin in the shot. Note your year, model and trim.
+- Send photos on the request page, with any part number on the old piece. We reply with a quote within 24 hours on business days.
+- Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you.
+
+Get a quote
+
+## Frequently asked questions
+
+### Will it fit my car?
+
+Visor clips are vehicle-specific, so we match yours from photos and your year, model and trim before printing. If it is a poor candidate for printing, we say so.
+
+### Is a printed clip as strong as the original?
+
+We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the flexing load runs along the layers. A visor clip is light-duty, and PETG is usually enough.
+
+### Will it soften in a hot, parked car?
+
+PLA softens in a hot car, so we do not use it. We print PETG for cabins and can use ASA if the car sits in strong sun.
+
+### How do I photograph the clip for a fit check?
+
+Photograph the clip from the front, side and back, and the hook it snaps into, on a plain background with a coin or ruler beside it. Send your year, model, trim and any part number on the old piece.
+
+### Do you make safety-related car parts?
+
+No. We make interior and trim parts only, and we do not make airbag, seatbelt, brake, steering, lighting or fuel parts.
+
+## Related parts
+
+-
+
+Automotive interior parts
+
+### Toyota Tacoma center console latch
+
+We print a replacement center console lid latch that fits Toyota Tacoma 2005-2012, in PETG or heat-resistant ASA. Send a photo...
+
+From $18
+
+-
+
+Automotive interior parts
+
+### Tonneau cover prop rod clip
+
+We print a replacement prop rod or strut retention clip that fits BAKFlip and UnderCover tonneau covers, in UV-resistant ASA....
+
+From $14
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Related guides
+
+-
+
+Guide
+
+### Broken center console latch: your options and what they cost
+
+A center console latch usually breaks because its small plastic hook is thin, loaded every time the lid closes, and baked by cabin heat....
+
+## Sources
+
+- Printables: Sun visor clip for any garage remote control (702 downloads)
+- Printables: Sun visor clip (434 downloads)
+- Printables: Alfa Romeo 147 sun visor clip (296 downloads)
+
+
+======================================================================
+PAGE: Tonneau Cover Clip Replacement, Printed | PartRevive
+URL: https://jdinneen.github.io/partrevive/parts/tonneau-prop-rod-clip/
+======================================================================
+
+# Tonneau cover clip replacement for prop rods, printed in ASA
+
+Short answer: We print a replacement prop rod or strut retention clip that fits BAKFlip and UnderCover tonneau covers, in UV-resistant ASA. Send a photo of the old clip or the empty spot and we quote within 24 hours on business days, from $14.
+
+From $14
+
+per clip; sets for several clips quoted lower per unit. Typical quote; final price confirmed before we print.
+
+Lead time: 5 to 10 business days after approval
+
+Quote: within 24 hours on business days
+
+Get a quote
+
+Made to order. You approve the quote before we print anything.
+
+## Fits
+
+- BAKFlip tonneau cover prop rod and strut retention clips
+- UnderCover tonneau cover prop rod retaining clips
+- Other covers on request; send a photo to confirm
+
+Brand names identify fit only. PartRevive is not affiliated with any brand named.
+
+## Why it breaks
+
+The small plastic clip that holds the prop rod or strut cracks or is lost, so the cover will not stay propped open. That typically happens after sun, cold and many open-close cycles. The cover itself is usually fine.
+
+## OEM situation
+
+The cover maker typically sells these clips only as part of a hardware kit, though we have not verified this for every model. Free printable files exist for some covers, but they need to match your exact cover and a photo with scale. We make a single clip to your photo instead.
+
+## What we make
+
+We print ASA because a clip on a truck bed sits in sun and weather all year, and ASA is the UV and heat resistant choice. We do not use PLA, which softens in heat. We need a photo of the old clip or the empty mounting spot, with a coin or ruler in the shot, plus the cover brand and model and your truck year. We make trim and hardware clips only, not safety-related parts.
+
+## Specifications
+
+Material | ASA (UV and heat resistant)
+Max size | 250 mm
+Lead time | 5 to 10 business days after approval
+Made | To order from your photo or model number
+Fit confirmed from | Cover brand and model, truck year and a photo of the old clip
+Price from | $14 (per clip; sets for several clips quoted lower per unit)
+
+## How to order
+
+- Photograph the broken clip, or the empty mounting spot on the cover or rod, with a coin in the shot. Note the cover brand and model.
+- Send photos on the request page, with any part number on the old piece. We reply with a quote within 24 hours on business days.
+- Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you.
+
+Get a quote
+
+## Frequently asked questions
+
+### Will it fit my tonneau cover?
+
+We target BAKFlip and UnderCover covers and confirm the fit from your photos, cover model and truck year before printing.
+
+### Is a printed clip as strong as the original?
+
+We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the load runs along the layers. A prop rod clip holds a light load, but tell us if your cover is heavy.
+
+### Will it handle heat and sun on a truck bed?
+
+That is why we use ASA, which is UV and heat resistant. PLA softens in heat, so we do not use it.
+
+### How do I photograph the clip for a fit check?
+
+Photograph the clip from the front, side and back, and the spot on the cover or rod where it fits, on a plain background with a coin or ruler beside it. Send your cover brand, model and truck year.
+
+### Are you affiliated with the cover makers?
+
+No. Brand names tell you what the part fits and nothing more. We are not affiliated with or endorsed by any cover brand, and we do not make safety-related car parts.
+
+## Related parts
+
+-
+
+Automotive interior parts
+
+### Sun visor retainer clip
+
+We print a replacement sun visor retainer clip made to your photo or part number, in PETG, for most cars with a...
+
+From $12
+
+-
+
+Automotive interior parts
+
+### Toyota Tacoma center console latch
+
+We print a replacement center console lid latch that fits Toyota Tacoma 2005-2012, in PETG or heat-resistant ASA. Send a photo...
+
+From $18
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Sources
+
+- Printables: Prop Rod Clip for BAKFlip Tonneau Cover (240 downloads)
+- Printables: UnderCover Tonneau Prop Rod Retaining Clip (103 downloads)
+- Printables: Tonneau Cover Prop Rod Clip (83 downloads)
+
+
+======================================================================
+PAGE: Toyota Tacoma Center Console Latch Replacement | PartRevive
+URL: https://jdinneen.github.io/partrevive/parts/toyota-tacoma-console-latch/
+======================================================================
+
+# Toyota Tacoma center console latch replacement, printed to fit
+
+Short answer: We print a replacement center console lid latch that fits Toyota Tacoma 2005-2012, in PETG or heat-resistant ASA. Send a photo of the old latch and your year, and we quote within 24 hours on business days, from $18.
+
+From $18
+
+per latch; typical quote, final price depends on the version. Typical quote; final price confirmed before we print.
+
+Lead time: 5 to 10 business days after approval
+
+Quote: within 24 hours on business days
+
+Get a quote
+
+Made to order. You approve the quote before we print anything.
+
+## Fits
+
+- Toyota Tacoma 2005-2012 center console lid latch (original part numbers vary by year, so we confirm from your photo and year)
+
+Brand names identify fit only. PartRevive is not affiliated with any brand named.
+
+## Why it breaks
+
+The small plastic hook and retention tabs on the console latch snap off, so the lid will not stay shut and rattles or pops open on bumps. It is a tiny part on a console that is otherwise fine. The Tacoma community has also reported that printed parts in PLA soften in summer heat inside a parked truck.
+
+## OEM situation
+
+Molded replacement latches are sold in beige (2009-2012) and gray (2005-2012) by aftermarket retailers, and original part numbers differ by year. We did not capture current prices, so check the listing for your colour and year first. A made-to-fit printed latch is worth asking about when your colour or year is hard to find, or when the latch keeps breaking.
+
+## What we make
+
+We print in PETG, which holds up in a warm cabin where PLA softens, and in ASA when the truck lives in the sun. We do not use PLA for car interiors. We need a clear photo of the old latch or the empty latch position, with a coin or ruler in the shot, plus your year and trim. This is an interior trim part only; we do not make safety-related parts such as airbag, seatbelt, brake, steering, lighting or fuel components.
+
+## Specifications
+
+Material | PETG standard, ASA for hot or sunny cabins
+Max size | 250 mm
+Lead time | 5 to 10 business days after approval
+Made | To order from your photo or model number
+Fit confirmed from | Year, trim and a photo of the old latch
+Price from | $18 (per latch; typical quote, final price depends on the version)
+
+## How to order
+
+- Photograph the broken latch, or the empty latch position on the console, with a coin in the shot. Note your year and trim.
+- Send photos on the request page, with the part number if you can see one. We reply with a quote within 24 hours on business days.
+- Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you.
+
+Get a quote
+
+## Frequently asked questions
+
+### Will it fit my Tacoma?
+
+We target 2005-2012 Tacoma consoles. Because original numbers vary by year, we confirm the fit from your photos and year before printing.
+
+### Is a printed latch as strong as the original?
+
+We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print to put the load along the layers. PETG is tough enough for a console lid latch, and we tell you if your part looks like a poor candidate.
+
+### Will it survive heat in a parked truck?
+
+PLA softens in a hot car, so we do not use it. We print PETG for cabins and ASA if the truck sits in strong sun for long periods. The Tacoma latch designer reported that a PETG reprint held up where PLA softened.
+
+### How do I photograph the latch for a fit check?
+
+Photograph the old latch from the front, side and underside on a plain background with a coin or ruler beside it, and the latch position on the console. Send your year and trim, and any part number on the old piece.
+
+### Do you make safety-related car parts?
+
+No. We make interior and trim parts only, and we do not make airbag, seatbelt, brake, steering, lighting or fuel parts.
+
+## Related parts
+
+-
+
+Automotive interior parts
+
+### Silverado and Sierra center console latch
+
+We print a replacement center console lid latch that fits Chevrolet Silverado and GMC Sierra 2007-2013 and related SUVs with...
+
+From $19
+
+-
+
+Automotive interior parts
+
+### Sun visor retainer clip
+
+We print a replacement sun visor retainer clip made to your photo or part number, in PETG, for most cars with a...
+
+From $12
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Related guides
+
+-
+
+Guide
+
+### Broken center console latch: your options and what they cost
+
+A center console latch usually breaks because its small plastic hook is thin, loaded every time the lid closes, and baked by cabin heat....
+
+## Sources
+
+- Tacoma center console latch, Printables
+- Beige console latch 2009-2012, Extreme Terrain
+- Gray console latch 2005-2012, Extreme Terrain
+- Console latch listing, Home Depot
+- Console hatch latch thread, IH8MUD forum
 
 
 ======================================================================
@@ -1632,6 +3602,46 @@ RV and camper parts
 We print replacement RV cabinet door latches in ASA, including shapes that are discontinued, from your photo or part number....
 
 From $22
+
+-
+
+RV and camper parts
+
+### RV entry door holder catch
+
+We print replacement plunger-and-socket door holders for RV and caravan entry doors in UV-resistant ASA, including odd shapes...
+
+From $12
+
+-
+
+RV and camper parts
+
+### RV refrigerator door handle and latch
+
+We print replacement door handles and latch catches for RV refrigerators in UV-resistant ASA, matched by model number and...
+
+From $24
+
+-
+
+RV and camper parts
+
+### RV screen door latch and handle
+
+We print replacement paddle and lever latches for travel-trailer screen doors, including Forest River style doors, in...
+
+From $22
+
+-
+
+RV and camper parts
+
+### RV roof vent crank knob
+
+We print replacement crank knobs for manual RV roof vents, including Ventline, Elixir and Hehr style vents, in UV-resistant...
+
+From $16
 
 ## Kitchen and home appliance parts
 
@@ -1685,6 +3695,26 @@ We print a replacement plastic trigger that fits the Dyson V11 cordless vacuum, 
 
 From $16
 
+-
+
+Kitchen and home appliance parts
+
+### Dishwasher detergent dispenser latch
+
+We print a replacement detergent dispenser latch in PETG that fits many Whirlpool, KitchenAid, Kenmore and Maytag dishwashers....
+
+From $24
+
+-
+
+Kitchen and home appliance parts
+
+### Refrigerator and freezer drawer wheel
+
+We print replacement drawer wheels and rollers in PETG for LG, Samsung and Whirlpool refrigerator and freezer drawers. Send a...
+
+From $14
+
 ## Tools and toolbox parts
 
 -
@@ -1717,6 +3747,46 @@ Send us a photo of a broken or missing plastic part, with a coin or ruler beside
 
 From $35
 
+-
+
+Tools and toolbox parts
+
+### Cooler lid hinge (Igloo, Coleman, Rubbermaid style)
+
+We print replacement lid hinges that fit Igloo, Coleman and Rubbermaid plastic coolers and ice chests in PETG. Send a photo of...
+
+From $14
+
+-
+
+Tools and toolbox parts
+
+### Cooler lid latch (Yeti Tundra, Roadie, RTIC style)
+
+We print a flexible TPU replacement latch that fits Yeti Tundra, Yeti Roadie and RTIC hard coolers. Send a photo of the torn...
+
+From $14
+
+-
+
+Tools and toolbox parts
+
+### Pelican-style hard case latch
+
+We print a single replacement latch that fits Pelican 1510, 1550 and 1600-style hard cases in carbon-fibre nylon (PA-CF);...
+
+From $16
+
+-
+
+Tools and toolbox parts
+
+### Ryobi 40V mower battery door (cover only)
+
+We print a replacement battery bay cover for Ryobi 40V mowers in sun-resistant ASA, including RY401014US, RY401015US and...
+
+From $24
+
 ## Automotive interior parts
 
 -
@@ -1728,6 +3798,46 @@ Automotive interior parts
 We print replacement cup holders that fit the BMW E90 dash and the E46 console in ASA, a heat-resistant plastic. Send photos...
 
 From $49
+
+-
+
+Automotive interior parts
+
+### Silverado and Sierra center console latch
+
+We print a replacement center console lid latch that fits Chevrolet Silverado and GMC Sierra 2007-2013 and related SUVs with...
+
+From $19
+
+-
+
+Automotive interior parts
+
+### Sun visor retainer clip
+
+We print a replacement sun visor retainer clip made to your photo or part number, in PETG, for most cars with a...
+
+From $12
+
+-
+
+Automotive interior parts
+
+### Tonneau cover prop rod clip
+
+We print a replacement prop rod or strut retention clip that fits BAKFlip and UnderCover tonneau covers, in UV-resistant ASA....
+
+From $14
+
+-
+
+Automotive interior parts
+
+### Toyota Tacoma center console latch
+
+We print a replacement center console lid latch that fits Toyota Tacoma 2005-2012, in PETG or heat-resistant ASA. Send a photo...
+
+From $18
 
 
 ======================================================================
@@ -1762,6 +3872,46 @@ RV and camper parts
 We print replacement RV cabinet door latches in ASA, including shapes that are discontinued, from your photo or part number....
 
 From $22
+
+-
+
+RV and camper parts
+
+### RV entry door holder catch
+
+We print replacement plunger-and-socket door holders for RV and caravan entry doors in UV-resistant ASA, including odd shapes...
+
+From $12
+
+-
+
+RV and camper parts
+
+### RV refrigerator door handle and latch
+
+We print replacement door handles and latch catches for RV refrigerators in UV-resistant ASA, matched by model number and...
+
+From $24
+
+-
+
+RV and camper parts
+
+### RV screen door latch and handle
+
+We print replacement paddle and lever latches for travel-trailer screen doors, including Forest River style doors, in...
+
+From $22
+
+-
+
+RV and camper parts
+
+### RV roof vent crank knob
+
+We print replacement crank knobs for manual RV roof vents, including Ventline, Elixir and Hehr style vents, in UV-resistant...
+
+From $16
 
 
 ======================================================================
@@ -1827,6 +3977,26 @@ We print a replacement plastic trigger that fits the Dyson V11 cordless vacuum, 
 
 From $16
 
+-
+
+Kitchen and home appliance parts
+
+### Dishwasher detergent dispenser latch
+
+We print a replacement detergent dispenser latch in PETG that fits many Whirlpool, KitchenAid, Kenmore and Maytag dishwashers....
+
+From $24
+
+-
+
+Kitchen and home appliance parts
+
+### Refrigerator and freezer drawer wheel
+
+We print replacement drawer wheels and rollers in PETG for LG, Samsung and Whirlpool refrigerator and freezer drawers. Send a...
+
+From $14
+
 
 ======================================================================
 PAGE: Toolbox Latches and Tool Parts, 3D Printed | PartRevive
@@ -1871,6 +4041,46 @@ Send us a photo of a broken or missing plastic part, with a coin or ruler beside
 
 From $35
 
+-
+
+Tools and toolbox parts
+
+### Cooler lid hinge (Igloo, Coleman, Rubbermaid style)
+
+We print replacement lid hinges that fit Igloo, Coleman and Rubbermaid plastic coolers and ice chests in PETG. Send a photo of...
+
+From $14
+
+-
+
+Tools and toolbox parts
+
+### Cooler lid latch (Yeti Tundra, Roadie, RTIC style)
+
+We print a flexible TPU replacement latch that fits Yeti Tundra, Yeti Roadie and RTIC hard coolers. Send a photo of the torn...
+
+From $14
+
+-
+
+Tools and toolbox parts
+
+### Pelican-style hard case latch
+
+We print a single replacement latch that fits Pelican 1510, 1550 and 1600-style hard cases in carbon-fibre nylon (PA-CF);...
+
+From $16
+
+-
+
+Tools and toolbox parts
+
+### Ryobi 40V mower battery door (cover only)
+
+We print a replacement battery bay cover for Ryobi 40V mowers in sun-resistant ASA, including RY401014US, RY401015US and...
+
+From $24
+
 
 ======================================================================
 PAGE: Car Interior Replacement Parts, 3D Printed | PartRevive
@@ -1894,6 +4104,46 @@ Automotive interior parts
 We print replacement cup holders that fit the BMW E90 dash and the E46 console in ASA, a heat-resistant plastic. Send photos...
 
 From $49
+
+-
+
+Automotive interior parts
+
+### Silverado and Sierra center console latch
+
+We print a replacement center console lid latch that fits Chevrolet Silverado and GMC Sierra 2007-2013 and related SUVs with...
+
+From $19
+
+-
+
+Automotive interior parts
+
+### Sun visor retainer clip
+
+We print a replacement sun visor retainer clip made to your photo or part number, in PETG, for most cars with a...
+
+From $12
+
+-
+
+Automotive interior parts
+
+### Tonneau cover prop rod clip
+
+We print a replacement prop rod or strut retention clip that fits BAKFlip and UnderCover tonneau covers, in UV-resistant ASA....
+
+From $14
+
+-
+
+Automotive interior parts
+
+### Toyota Tacoma center console latch
+
+We print a replacement center console lid latch that fits Toyota Tacoma 2005-2012, in PETG or heat-resistant ASA. Send a photo...
+
+From $18
 
 
 ======================================================================
@@ -2038,6 +4288,325 @@ Kitchen and home appliance parts
 We print a replacement plastic knob for Maytag and Whirlpool style dryers to order, matched to your model number and photos....
 
 From $14
+
+
+======================================================================
+PAGE: Broken Center Console Latch: Options and Prices
+URL: https://jdinneen.github.io/partrevive/guides/center-console-latch-broken-options/
+======================================================================
+
+# Broken center console latch: your options and what they cost
+
+By PartRevive · 2026-10-21
+
+Short answer: A center console latch usually breaks because its small plastic hook is thin, loaded every time the lid closes, and baked by cabin heat. You can buy an aftermarket latch, ask a dealer, or have a made-to-fit latch printed in PETG or ASA, which we quote within 24 hours on business days.
+
+## The short answer
+
+When a console lid will not stay shut, the part that failed is almost always the latch itself: a small plastic hook with a couple of retention tabs. The lid, the hinge and the console body are usually fine. That is good news, because the latch is a small, cheap part when you can find it on its own.
+
+The trouble is finding it. This guide covers why the hook breaks, what the three common routes cost, and when a printed latch is worth ordering.
+
+## Why the little hook breaks
+
+A console latch does a hard job in a small package. The hook catches a striker every time you close the lid, and the lid is often leaned on, used as an armrest or pushed shut with a full hand.
+
+- Thin geometry. The hook and its tabs are small, so a little bending load concentrates at the root.
+
+- Repeated cycles. Hundreds of closings flex the same spot until it cracks.
+
+- Heat. A parked car cabin in summer gets very hot, and plastic that is stiff in spring can soften and creep by August.
+
+- Age. Old plastic loses toughness, so the tab that survived ten years snaps on the eleventh.
+
+## Why PLA fails in a hot cabin
+
+PLA is the easiest plastic to print, which is why many free latch designs use it. It also softens at low temperatures compared with other print plastics, and a closed vehicle in the sun can pass that point. The designer of a Tacoma center console latch model on Printables reports that a PLA version softened in summer heat and that a PETG reprint held up. We make vehicle parts in PETG or ASA, never PLA.
+
+### PETG or ASA?
+
+PETG is tough, slightly flexible and a sound choice for a console latch in most climates. ASA is made for sun and heat, so we suggest it for a vehicle that lives in a hot place or parks outdoors all day.
+
+## Three ways to fix it
+
+Here is how the routes compare, using the prices we could confirm.
+
+Option | Typical price | Fit | Material | Lead time
+
+Dealer part | One Walmart reviewer says a dealer wanted over $200 and would not sell just the latch (an anecdote, not a list price) | Matches the original | Original | Varies
+
+Aftermarket latch | $8.99 for a 2-pack of GM-style latches, or $25.95 for a single, on Walmart | Good if the number and year match | Molded plastic | Typically a few days
+
+Made-to-fit printed latch | From $18 for the Tacoma, from $19 for the Silverado and Sierra | Matched to your photo | PETG, or ASA for hot cabins | 5 to 10 business days after approval
+
+If a $8.99 2-pack fits your truck, that is hard to beat on price, and we would buy it. A printed latch makes sense when the aftermarket part does not fit your year, is out of stock, or has already broken the same way.
+
+## Toyota Tacoma consoles
+
+Molded Tacoma latches are sold by Extreme Terrain in beige for 2009 to 2012 and in gray for 2005 to 2012, and a Home Depot listing covers the 2005 to 2012 gray latch. Original part numbers vary by year, according to a long ih8mud forum thread, so check your year and colour before you order. We list a Tacoma console latch made from your photo.
+
+## Silverado, Sierra and related trucks
+
+The 2007 to 2013 GM trucks and SUVs with the bucket-seat console share a latch that the Walmart 2-pack lists as GM 20864151, 20864153 and 20864154. Photograph both the latch and the lid so we can tell whether the latch or the lid catch is the part that failed. Our Silverado and Sierra console latch page has the details.
+
+## How to tell what has broken
+
+- Open the lid and look at the latch body for a missing hook or snapped tabs.
+
+- Check the striker on the console base; if it is bent or loose, a new latch alone will not hold.
+
+- Press the release button and see whether the latch still moves under its spring.
+
+- Look for cracks in the plastic around the latch pocket.
+
+## What to photograph
+
+Send a close photo of the broken latch from the front and back, with a coin or ruler beside it. Add a photo of the latch pocket in the lid, the striker on the console, and your vehicle year and trim. Use the request page to send them. If you have a related trim part, such as a cracked sun visor clip, include it in the same request and we can quote both together.
+
+## What we do not promise
+
+A printed latch is not an original part, and we are not affiliated with any vehicle maker. We do not claim it is equal to the factory part. A console latch is a convenience item, not a safety part, and we will not quote parts for brakes, airbags or other safety systems. Quotes arrive within 24 hours on business days, and parts ship 5 to 10 business days after approval.
+
+## Need a replacement made?
+
+Send a photo and the model number and we will quote within 24 hours on business days.
+
+Request a quote
+
+## Frequently asked questions
+
+### Why does my console latch keep breaking?
+
+The hook is small, flexes every time the lid closes, and the plastic ages and softens in a hot cabin. Stronger material and a thicker hook help.
+
+### Can I buy just the latch from a dealer?
+
+Sometimes not. One Walmart reviewer says a dealer wanted over $200 and would not sell the latch alone, but that is a single anecdote.
+
+### Why not print it in PLA?
+
+PLA can soften in a hot cabin. A Printables designer reports a PLA Tacoma latch softened in summer heat and a PETG reprint held up, so we use PETG or ASA.
+
+### Is a printed latch cheaper than an aftermarket 2-pack?
+
+No. A 2-pack was listed at $8.99 on Walmart. Our printed latches start from $18, and they suit cases where the stock part does not fit.
+
+### Which years do you cover?
+
+We work from your photo and year. Typical fits are Tacoma 2005 to 2012 and GM trucks 2007 to 2013, but send a photo if yours is different.
+
+## Related parts
+
+-
+
+Automotive interior parts
+
+### Toyota Tacoma center console latch
+
+We print a replacement center console lid latch that fits Toyota Tacoma 2005-2012, in PETG or heat-resistant ASA. Send a photo...
+
+From $18
+
+-
+
+Automotive interior parts
+
+### Silverado and Sierra center console latch
+
+We print a replacement center console lid latch that fits Chevrolet Silverado and GMC Sierra 2007-2013 and related SUVs with...
+
+From $19
+
+-
+
+Automotive interior parts
+
+### Sun visor retainer clip
+
+We print a replacement sun visor retainer clip made to your photo or part number, in PETG, for most cars with a...
+
+From $12
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Sources
+
+- Tacoma center console latch model (PLA softened, PETG held)
+- Tacoma console latch, beige 2009-2012
+- Tacoma console latch, gray 2005-2012
+- Home Depot Tacoma console latch listing
+- Tacoma console hatch latch OE numbers by year (forum)
+- GM console latch 2-pack and single, with reviewer anecdote
+
+
+======================================================================
+PAGE: Cooler Latch and Hinge Repair: Options and Prices
+URL: https://jdinneen.github.io/partrevive/guides/cooler-latch-hinge-repair-yeti-rtic-igloo-coleman/
+======================================================================
+
+# Fixing a broken cooler latch or hinge: Yeti, RTIC, Igloo, Coleman
+
+By PartRevive · 2026-10-21
+
+Short answer: A cooler latch or hinge usually fails at the pin hole, where a rubber latch stretches or a plastic hinge splits. Official sets cost about $10 to $17 when they fit, and a printed TPU latch or PETG hinge makes sense when you only need one piece or the set does not match.
+
+## The short answer
+
+Coolers outlive their small parts. The body keeps working for a decade, while a rubber pull latch tears or a plastic hinge cracks at the pin. Before you buy a whole new cooler, check whether the part is sold as a set you can afford, and whether a printed one-off would be a better fit.
+
+## Pull latches: Yeti and RTIC style
+
+The rubber pull latch on a hard cooler wears out in two ways. The rubber tears, or the hole that sits over the pin stretches until the latch slips off. Both come from years of sun and daily pulling.
+
+Official latch sets are sold in packs. A Yeti Tundra 2-pack was listed at about $17 at Farm and Fleet, while one reseller listed the same 2-pack at $61.39, so shop around. Larger Tundra sizes such as the 85, 120 and 155 use three latches, so a 2-pack may leave you one short.
+
+### When a printed TPU latch makes sense
+
+TPU is a flexible plastic, so it can behave like the original rubber. We suggest it when you need a single latch rather than a pack, when one has stretched at the pin hole, or when a set is out of stock. Other small shops print latches for popular coolers too, so a printed latch is not a new idea; our advantage is matching your cooler from a photo and your measurements. We do not claim it equals the original, and we do not make any claim about resistance to animals or rough handling.
+
+## Lid hinges: Igloo and Coleman style
+
+Plastic hinges on Igloo and Coleman coolers typically crack or split at the pin. A reviewer on MakerWorld says Igloo hinges split from stress after a few years. The good news is that stock sets are cheap:
+
+- Igloo Universal Hinge Set: about $10 to $12 per pair at Sportsman's Warehouse.
+
+- Coleman hinge set of four: about $10.43 at Walmart.
+
+- Hinge for a 150 to 165 quart Igloo: $35.99 from one seller.
+
+If a universal set bolts on and the lid sits right, buy it. A printed PETG hinge is worth asking about when the universal hinge does not line up with your screw holes, when you have an older model, or when a large cooler needs a bigger hinge. Several free hinge models exist on Printables for Coleman, Igloo and Rubbermaid coolers, so we compete only on exact-fit matching from your photo.
+
+## Pelican-style case latches
+
+Hard cases use a hook, pin and spring tab that can crack. Single latches are typically not sold on their own. ColorCase sells genuine handle-and-latch sets for the 1510, and one reviewer there wished for a single-latch option. For a printed latch we use PA-CF, a stiff carbon-fibre nylon. We make no claim about sealing or water protection; how a case seals depends on the latch preload, and we do not promise an IP rating.
+
+## OEM, aftermarket and printed compared
+
+Option | Typical price | Fit | Material | Lead time
+
+Yeti latch 2-pack | About $17, one reseller $61.39 | Matches the original | Rubber | Varies
+
+Igloo or Coleman hinge set | About $10 to $12 per pair | Good if the universal set fits | Plastic | Varies
+
+Printed latch (TPU) | From $14 | Matched to your photo | TPU | 5 to 10 business days after approval
+
+Printed hinge (PETG) | From $14 | Matched to your photo | PETG | 5 to 10 business days after approval
+
+Printed case latch (PA-CF) | From $16 | Matched to your photo | PA-CF | 5 to 10 business days after approval
+
+## What to measure
+
+- Pin diameter. Measure the post or pin the latch hooks over, in millimetres. Pin-hole size is the critical number for a flexible latch.
+
+- Screw spacing. Measure centre to centre between the two screw holes on a hinge or latch plate.
+
+- Hinge width and thickness. Note the overall length and how thick the hinge is where it meets the pin.
+
+- Number of latches. Count how many your cooler or case has, so we can quote a full set if you want one.
+
+If you cannot measure, a photo with a coin or ruler beside the part is enough for a first quote.
+
+## What to photograph
+
+Take the broken part on a plain surface, then the spot on the cooler where it mounts. Include the pin or the hinge pocket from the side and from above. Add any model name on the cooler if you can read it. Send everything on the request page.
+
+## Our related part pages
+
+See the cooler lid latch page for pull latches, the cooler lid hinge page for Igloo, Coleman and Rubbermaid style hinges, and the hard case latch page for Pelican-style cases.
+
+## What we do not promise
+
+A printed part is not an original, and we are not affiliated with Yeti, RTIC, Igloo, Coleman or Pelican. We do not claim equal strength, any sealing performance or any food-related approval. If a part is a poor candidate for printing, we say so rather than quote it. Quotes arrive within 24 hours on business days, and parts ship 5 to 10 business days after approval.
+
+## Need a replacement made?
+
+Send a photo and the model number and we will quote within 24 hours on business days.
+
+Request a quote
+
+## Frequently asked questions
+
+### How much is an official Yeti latch set?
+
+A Tundra 2-pack was listed at about $17 at Farm and Fleet, and one reseller listed it at $61.39. Larger Tundra sizes use three latches.
+
+### Why does a cooler hinge split?
+
+Plastic hinges typically crack at the pin after years of stress and sun. A reviewer reports Igloo hinges splitting after a few years.
+
+### When is a printed latch better than a stock set?
+
+When you need only one latch, the set is out of stock, or the stretched pin hole means the new part must be matched to your cooler.
+
+### What should I measure?
+
+The pin diameter and the centre-to-centre screw spacing. A photo with a coin or ruler works if you cannot measure.
+
+### Do you make Pelican-style case latches?
+
+Yes, in PA-CF from a photo. We do not make claims about sealing or water protection.
+
+## Related parts
+
+-
+
+Tools and toolbox parts
+
+### Cooler lid latch (Yeti Tundra, Roadie, RTIC style)
+
+We print a flexible TPU replacement latch that fits Yeti Tundra, Yeti Roadie and RTIC hard coolers. Send a photo of the torn...
+
+From $14
+
+-
+
+Tools and toolbox parts
+
+### Cooler lid hinge (Igloo, Coleman, Rubbermaid style)
+
+We print replacement lid hinges that fit Igloo, Coleman and Rubbermaid plastic coolers and ice chests in PETG. Send a photo of...
+
+From $14
+
+-
+
+Tools and toolbox parts
+
+### Pelican-style hard case latch
+
+We print a single replacement latch that fits Pelican 1510, 1550 and 1600-style hard cases in carbon-fibre nylon (PA-CF);...
+
+From $16
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Sources
+
+- Yeti Tundra 2-pack latch, about $17
+- Yeti Tundra latch 2-pack, reseller $61.39
+- Igloo Universal Hinge Set
+- Coleman hinge set of four
+- Hinge for 150-165 qt Igloo
+- Igloo hinge printed model with reviewer comments on splitting
+- Free Coleman cooler hinge model
+- Genuine Pelican 1510 handle and latch set
+- Pelican 1650 set, reviewer wished for single latch
 
 
 ======================================================================
@@ -2486,6 +5055,173 @@ From $12
 
 
 ======================================================================
+PAGE: RV Screen Door Latch Replacement: Fit and Options
+URL: https://jdinneen.github.io/partrevive/guides/rv-screen-door-latch-replacement-guide/
+======================================================================
+
+# How to replace a broken RV screen door latch or handle
+
+By PartRevive · 2026-10-21
+
+Short answer: To replace a broken RV screen door latch, first work out whether it is a left-hand or right-hand door, then measure the distance between the mounting holes. If a stock kit does not match, we print an exact-fit paddle or handle in ASA from a photo, quoted within 24 hours on business days.
+
+## The short answer
+
+Most screen door latch failures come down to a cracked plastic paddle, a worn lever or a spring-return part that has given up. Before you buy anything, you need three facts: which hand the door is, how far apart the screw holes sit, and whether the broken part is sold on its own or only inside a full kit.
+
+That last point matters. On one Forest River owner forum thread about a broken screen door handle, the paddle and lever were described as hard to find, and a poster said the replacement had been discontinued at their dealer. We cannot say that is true for your trailer, but it is a common pattern: the small part you need is often not offered alone.
+
+## Why screen door latches break
+
+Screen door hardware sits in direct sun and gets used every day. Plastic paddles and levers typically become brittle with UV exposure, then crack at the pivot or where the screw passes through. The spring-return mechanism adds a small, repeated load every time someone walks in or out.
+
+- A paddle that snaps off at its base is usually old plastic, not misuse.
+
+- A latch that works but will not return is often the spring part, not the handle.
+
+- Stripped screw holes in thin door skin are a separate problem that a new latch will not fix.
+
+## Step 1: identify left hand or right hand
+
+Handedness trips up many first-time buyers. Stand outside the trailer, facing the screen door, and note which side the hinges are on. Many parts are made as a mirrored pair, so a right-hand handle will not work on a left-hand door even though the two look almost identical.
+
+An easy check is to look at which way the paddle or lever points when the latch is at rest and which way you push it. If you are unsure, photograph the door from outside and from inside and we will read the hand from the pictures.
+
+## Step 2: measure the hole spacing
+
+Hole spacing is the single most useful measurement. Use a ruler or calipers and measure from the centre of one mounting hole to the centre of the next. Write the number down in millimetres or inches, and say which you used.
+
+- Measure centre to centre between the two screw holes on the latch body.
+
+- Measure the thickness of the door skin or frame where the latch mounts.
+
+- Note the screw type and length if you still have the screws.
+
+- Check whether the latch also has a strike plate on the frame, and photograph it.
+
+## Kit, aftermarket or printed: how they compare
+
+A full kit is the right answer when the whole latch is worn, or when you want everything new at once. A printed part makes sense when only the plastic paddle or lever has failed and the rest of the hardware is sound.
+
+Option | Typical price | Fit | Material | Lead time
+
+Zinc latch kit, third-party listing | $17.09 on Amazon as tracked by camelcamelcamel | Good if it matches your door hand and holes | Zinc | Typically a few days, depending on the seller
+
+Dealer or OEM part | Varies; may be discontinued | Matches the original if available | Original plastic or metal | Varies
+
+Printed here | From $22 | Matched to your photo and measurements | ASA | 5 to 10 business days after approval
+
+If a $17 kit fits your door, buy the kit. Our part is for the case where nothing on the shelf matches your hand or hole spacing, or where only one small piece is missing.
+
+## Why we use ASA for a door in the sun
+
+ASA is a plastic made for outdoor use, with good resistance to sun and heat. It suits a screen door latch that lives outside all summer. One maker who posted a left-hand screen door handle design on Thangs recommends PETG for it, and PETG is also a reasonable choice if the latch will be shaded. We will suggest the better one for your trailer when we quote.
+
+## Step 3: what to photograph
+
+Good photos save a round of emails. Take them with a coin or ruler beside the part, in daylight, with the phone held straight on.
+
+- The broken latch or handle from the front, with a coin or ruler in view.
+
+- The back of the latch, showing the mounting holes and any spring.
+
+- The door from outside, showing the hinge side.
+
+- Any pieces that broke off, laid flat next to the ruler.
+
+- The strike plate or catch on the door frame.
+
+Send them on the request page, along with your trailer make and year if you know them. Our guide to photographing a broken part goes into more detail.
+
+## Related parts we make
+
+While you are at the door, check the other plastic bits. A worn RV door holder catch lets the door swing in the wind; a typical store-bought 3-inch catch, such as the Camco listing at $8.59 on Ace Hardware, works for standard doors, and we can make one for odd shapes the generic part does not fit. Sun-baked RV window latches fail in the same way and are often sold only as an assembly. You can see the screen door part itself on the RV screen door latch page.
+
+## What we do not promise
+
+A printed latch is not an original part, and we are not affiliated with any trailer maker. We do not claim it is equal to the factory part. If a latch is a poor candidate for printing, for example because the body is cast metal, we say so rather than quote it.
+
+Quotes arrive within 24 hours on business days. Once you approve, parts ship 5 to 10 business days after approval.
+
+## Need a replacement made?
+
+Send a photo and the model number and we will quote within 24 hours on business days.
+
+Request a quote
+
+## Frequently asked questions
+
+### How do I tell if my RV screen door is left hand or right hand?
+
+Stand outside facing the door and see which side the hinges are on. If you are unsure, send photos from outside and inside and we will work it out.
+
+### What measurement matters most?
+
+The centre-to-centre distance between the two mounting holes on the latch. Add the door skin thickness if you can.
+
+### Is a kit cheaper than a printed part?
+
+A zinc kit was listed at $17.09 on Amazon by a third-party seller, and our printed part starts from $22. A kit is the better buy if it fits your hand and holes.
+
+### Which material do you use?
+
+Usually ASA, which is made for sun and heat. We may suggest PETG for a shaded door.
+
+### How long does it take?
+
+We quote within 24 hours on business days, and parts ship 5 to 10 business days after approval.
+
+## Related parts
+
+-
+
+RV and camper parts
+
+### RV screen door latch and handle
+
+We print replacement paddle and lever latches for travel-trailer screen doors, including Forest River style doors, in...
+
+From $22
+
+-
+
+RV and camper parts
+
+### RV entry door holder catch
+
+We print replacement plunger-and-socket door holders for RV and caravan entry doors in UV-resistant ASA, including odd shapes...
+
+From $12
+
+-
+
+RV and camper parts
+
+### RV window latch (Elixir, Hehr, Kinro style)
+
+We print replacement RV and camper window latches in ASA, a UV and heat resistant plastic, from your photo or measurements....
+
+From $18
+
+-
+
+Tools and toolbox parts
+
+### Custom replacement part from a photo
+
+Send us a photo of a broken or missing plastic part, with a coin or ruler beside it, and we quote a 3D-printed replacement...
+
+From $35
+
+## Sources
+
+- Zinc screen door latch kit price history
+- Left-hand screen door handle model (maker recommends PETG)
+- Camco 3 in door catch
+- RV window latch: sold as assembly, printed sellers $7-24
+
+
+======================================================================
 PAGE: RV Window Latch Replacement Guide: Options and Cost
 URL: https://jdinneen.github.io/partrevive/guides/rv-window-latch-replacement-guide/
 ======================================================================
@@ -2659,6 +5395,22 @@ Most broken plastic parts under 250 mm can be 3D printed if they are not food-co
 
 Guide
 
+### Broken center console latch: your options and what they cost
+
+A center console latch usually breaks because its small plastic hook is thin, loaded every time the lid closes, and baked by cabin heat....
+
+-
+
+Guide
+
+### Fixing a broken cooler latch or hinge: Yeti, RTIC, Igloo, Coleman
+
+A cooler latch or hinge usually fails at the pin hole, where a rubber latch stretches or a plastic hinge splits. Official sets cost...
+
+-
+
+Guide
+
 ### Why a DeWalt TSTAK latch keeps breaking, and what to do
 
 A DeWalt TSTAK latch usually breaks from side loads, cold plastic and lifting a stack by the handle. A replacement printed in...
@@ -2678,6 +5430,14 @@ Guide
 ### How to photograph a broken part so we can quote it
 
 Photograph the broken part from the top, side and mounting end with a coin or ruler beside it, and add the model number. That is usually...
+
+-
+
+Guide
+
+### How to replace a broken RV screen door latch or handle
+
+To replace a broken RV screen door latch, first work out whether it is a left-hand or right-hand door, then measure the distance between...
 
 -
 

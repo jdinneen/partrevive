@@ -1,0 +1,72 @@
+{
+  "slug": "silverado-sierra-console-latch",
+  "name": "Silverado and Sierra center console latch",
+  "category": "automotive",
+  "meta_title": "Silverado Center Console Latch Replacement | PartRevive",
+  "meta_description": "Silverado or Sierra console lid won't stay shut? We print a made-to-fit latch in PETG. Quote within 24 hours on business days, from $19. Send a photo.",
+  "h1": "Silverado center console latch replacement, made to fit",
+  "primary_keyword": "Silverado center console latch replacement",
+  "secondary_keywords": [
+    "Sierra console lid latch",
+    "2013 Silverado console latch",
+    "chevy silverado center console latch",
+    "Silverado console latch broken"
+  ],
+  "answer_first": "We print a replacement center console lid latch that fits Chevrolet Silverado and GMC Sierra 2007-2013 and related SUVs with the bucket-seat console, in PETG. Send a photo of the old latch and your year, and we quote within 24 hours on business days, from $19.",
+  "fits": [
+    "Chevrolet Silverado 1500, Suburban, Tahoe and Avalanche 2007-2013",
+    "GMC Sierra 1500, Yukon and Yukon XL 2007-2013",
+    "Bucket-seat console versions; we confirm from your photo whether the latch or the lid is the broken part"
+  ],
+  "problem": "The console latch breaks and the lid will not stay shut, so it flaps open over bumps and corners. It is a small part, but the console is used every drive. People often cannot tell whether the latch or the lid itself has failed.",
+  "oem_situation": "A cheap fix exists: one retailer lists an aftermarket 2-pack of latches (GM 20864151/53/54) for $8.99, and a single latch for $25.95. One reviewer there said a dealer wanted over $200 and would not sell just the latch (an anecdote, not a price we can confirm). If the cheap latch fits your truck, buy it. A made-to-fit printed part makes sense when your year or colour does not match, the part is discontinued, or the latch keeps breaking and you want a stronger material.",
+  "our_part": "We print PETG, which holds up in a warm cabin where PLA softens, and we can use ASA if the vehicle sits in strong sun. We do not use PLA for car interiors. We need a photo of the old latch or the empty position, with a coin or ruler in the shot, and your year and model. Interior trim only; we do not make airbag, seatbelt, brake, steering, lighting or fuel parts.",
+  "price_from_usd": 19,
+  "price_note": "per latch; typical quote, multiples quoted lower per unit",
+  "material": "PETG",
+  "lead_time": "5 to 10 business days after approval",
+  "specs": [
+    { "label": "Material", "value": "PETG (ASA on request for sunny climates)" },
+    { "label": "Max size", "value": "250 mm" },
+    { "label": "Lead time", "value": "5 to 10 business days after approval" },
+    { "label": "Made", "value": "To order from your photo or model number" },
+    { "label": "Fit confirmed from", "value": "Year, model and a photo of the old latch" }
+  ],
+  "how_to_order": [
+    "Photograph the broken latch, or the empty latch position on the console, with a coin in the shot. Note your year and model.",
+    "Send photos on the request page, with any part number you can see. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Why not just buy the $8.99 aftermarket pair?",
+      "a": "If it fits your truck and you are happy with it, do that. Ours is for when the year or colour does not match, the part is discontinued, or the latch keeps breaking and you want a stronger material."
+    },
+    {
+      "q": "Is a printed latch as strong as the original?",
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the main load runs along the layers. We tell you if the part is a poor candidate."
+    },
+    {
+      "q": "Will it handle heat in a parked truck?",
+      "a": "PLA softens in a hot car, so we do not use it. We print PETG for cabins and can use ASA if the vehicle sits in strong sun."
+    },
+    {
+      "q": "How do I photograph the latch for a fit check?",
+      "a": "Photograph the latch and its mating spot on the lid from the front, side and underside, on a plain background with a coin or ruler. Send your year, model and any part number on the old piece. The photo also tells us whether the latch or the lid is the part that failed."
+    },
+    {
+      "q": "Do you make safety-related car parts?",
+      "a": "No. We make interior and trim parts only, and we do not make airbag, seatbelt, brake, steering, lighting or fuel parts."
+    }
+  ],
+  "related": [
+    "toyota-tacoma-console-latch",
+    "sun-visor-clip",
+    "custom-replacement-part-from-photo"
+  ],
+  "image": "silverado-sierra-console-latch.jpg",
+  "image_alt": "Printed replacement console lid latch for a pickup truck, with a pivoting hook",
+  "sources": [
+    { "label": "Aftermarket console latch 2-pack and single, Walmart listing", "url": "https://www.walmart.com/ip/921160452" }
+  ]
+}

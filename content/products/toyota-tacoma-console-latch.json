@@ -1,0 +1,74 @@
+{
+  "slug": "toyota-tacoma-console-latch",
+  "name": "Toyota Tacoma center console latch",
+  "category": "automotive",
+  "meta_title": "Toyota Tacoma Center Console Latch Replacement | PartRevive",
+  "meta_description": "Broken Tacoma console latch? We print a made-to-fit replacement in PETG or ASA. Quote within 24 hours on business days, from $18. Send a photo.",
+  "h1": "Toyota Tacoma center console latch replacement, printed to fit",
+  "primary_keyword": "Toyota Tacoma center console latch replacement",
+  "secondary_keywords": [
+    "Tacoma console lid latch broken",
+    "Tacoma armrest latch",
+    "center console lid replacement",
+    "Tacoma console latch 3d print"
+  ],
+  "answer_first": "We print a replacement center console lid latch that fits Toyota Tacoma 2005-2012, in PETG or heat-resistant ASA. Send a photo of the old latch and your year, and we quote within 24 hours on business days, from $18.",
+  "fits": [
+    "Toyota Tacoma 2005-2012 center console lid latch (original part numbers vary by year, so we confirm from your photo and year)"
+  ],
+  "problem": "The small plastic hook and retention tabs on the console latch snap off, so the lid will not stay shut and rattles or pops open on bumps. It is a tiny part on a console that is otherwise fine. The Tacoma community has also reported that printed parts in PLA soften in summer heat inside a parked truck.",
+  "oem_situation": "Molded replacement latches are sold in beige (2009-2012) and gray (2005-2012) by aftermarket retailers, and original part numbers differ by year. We did not capture current prices, so check the listing for your colour and year first. A made-to-fit printed latch is worth asking about when your colour or year is hard to find, or when the latch keeps breaking.",
+  "our_part": "We print in PETG, which holds up in a warm cabin where PLA softens, and in ASA when the truck lives in the sun. We do not use PLA for car interiors. We need a clear photo of the old latch or the empty latch position, with a coin or ruler in the shot, plus your year and trim. This is an interior trim part only; we do not make safety-related parts such as airbag, seatbelt, brake, steering, lighting or fuel components.",
+  "price_from_usd": 18,
+  "price_note": "per latch; typical quote, final price depends on the version",
+  "material": "PETG or ASA",
+  "lead_time": "5 to 10 business days after approval",
+  "specs": [
+    { "label": "Material", "value": "PETG standard, ASA for hot or sunny cabins" },
+    { "label": "Max size", "value": "250 mm" },
+    { "label": "Lead time", "value": "5 to 10 business days after approval" },
+    { "label": "Made", "value": "To order from your photo or model number" },
+    { "label": "Fit confirmed from", "value": "Year, trim and a photo of the old latch" }
+  ],
+  "how_to_order": [
+    "Photograph the broken latch, or the empty latch position on the console, with a coin in the shot. Note your year and trim.",
+    "Send photos on the request page, with the part number if you can see one. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Will it fit my Tacoma?",
+      "a": "We target 2005-2012 Tacoma consoles. Because original numbers vary by year, we confirm the fit from your photos and year before printing."
+    },
+    {
+      "q": "Is a printed latch as strong as the original?",
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print to put the load along the layers. PETG is tough enough for a console lid latch, and we tell you if your part looks like a poor candidate."
+    },
+    {
+      "q": "Will it survive heat in a parked truck?",
+      "a": "PLA softens in a hot car, so we do not use it. We print PETG for cabins and ASA if the truck sits in strong sun for long periods. The Tacoma latch designer reported that a PETG reprint held up where PLA softened."
+    },
+    {
+      "q": "How do I photograph the latch for a fit check?",
+      "a": "Photograph the old latch from the front, side and underside on a plain background with a coin or ruler beside it, and the latch position on the console. Send your year and trim, and any part number on the old piece."
+    },
+    {
+      "q": "Do you make safety-related car parts?",
+      "a": "No. We make interior and trim parts only, and we do not make airbag, seatbelt, brake, steering, lighting or fuel parts."
+    }
+  ],
+  "related": [
+    "silverado-sierra-console-latch",
+    "sun-visor-clip",
+    "custom-replacement-part-from-photo"
+  ],
+  "image": "toyota-tacoma-console-latch.jpg",
+  "image_alt": "Small printed replacement console lid latch with a hook and two retention tabs",
+  "sources": [
+    { "label": "Tacoma center console latch, Printables", "url": "https://www.printables.com/model/189223-toyota-tacoma-center-console-latch" },
+    { "label": "Beige console latch 2009-2012, Extreme Terrain", "url": "https://extremeterrain.com/tacoma-center-console-latch-beige-41044.html" },
+    { "label": "Gray console latch 2005-2012, Extreme Terrain", "url": "https://extremeterrain.com/tacoma-center-console-latch-gray-41042.html" },
+    { "label": "Console latch listing, Home Depot", "url": "https://www.homedepot.com/p/Center-Console-Latch-2005-2012-Toyota-Tacoma-2-7L-4-0L-41042/308009386" },
+    { "label": "Console hatch latch thread, IH8MUD forum", "url": "https://forum.ih8mud.com/threads/console-hatch-latch.1384587/" }
+  ]
+}

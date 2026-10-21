@@ -1,0 +1,102 @@
+{
+  "slug": "fridge-drawer-wheel",
+  "name": "Refrigerator and freezer drawer wheel",
+  "category": "kitchen-appliance",
+  "meta_title": "LG Refrigerator Drawer Wheel Replacement | PartRevive",
+  "meta_description": "Sticking fridge or freezer drawer? We print a replacement drawer wheel in PETG, from $14. Quote within 24 hours on business days. Send a photo.",
+  "h1": "LG refrigerator drawer wheel replacement, and other brands",
+  "primary_keyword": "lg refrigerator drawer wheel replacement",
+  "secondary_keywords": [
+    "lg freezer drawer wheel replacement",
+    "samsung fridge drawer wheel replacement",
+    "refrigerator drawer roller replacement",
+    "whirlpool refrigerator drawer roller replacement"
+  ],
+  "answer_first": "We print replacement drawer wheels and rollers in PETG for LG, Samsung and Whirlpool refrigerator and freezer drawers. Send a photo and the model number and we quote within 24 hours on business days, from $14.",
+  "fits": [
+    "LG refrigerator and freezer drawer wheels",
+    "Samsung refrigerator drawer wheels",
+    "Whirlpool refrigerator drawer rollers (fit varies by model, so we confirm from your photos before printing)"
+  ],
+  "problem": "The small wheels under a crisper or freezer drawer flat-spot or snap, and the drawer starts to stick, scrape or tilt. The wheel is a few centimetres of plastic, but the drawer will not run without it. Owners often find the repair is not offered on its own.",
+  "oem_situation": "Manufacturers typically sell only the whole rail or drawer, not the wheel. Rails are listed from about $18 to $175 depending on the brand. Printed wheels have been used by owners to get a sticking LG crisper drawer rolling again.",
+  "our_part": "We print the wheel or roller in PETG, matched to your drawer from your photos, typically around 25 x 10 mm. The wheel sits inside the fridge but does not touch food. We do not claim OEM equivalence or food-contact certification. We need a photo of the broken wheel or its empty mount, the wheel diameter and axle size if you can measure them, and the model number.",
+  "price_from_usd": 14,
+  "price_note": "per wheel; sets for several wheels quoted lower per unit",
+  "material": "PETG",
+  "lead_time": "5 to 10 business days after approval",
+  "specs": [
+    {
+      "label": "Material",
+      "value": "PETG"
+    },
+    {
+      "label": "Max size",
+      "value": "250 mm"
+    },
+    {
+      "label": "Lead time",
+      "value": "5 to 10 business days after approval"
+    },
+    {
+      "label": "Made",
+      "value": "To order from your photo or model number"
+    },
+    {
+      "label": "Typical wheel size",
+      "value": "About 25 x 10 mm, matched to your axle"
+    }
+  ],
+  "how_to_order": [
+    "Photograph the broken wheel, or the empty mount on the drawer, with a coin or ruler in the shot. Note the wheel diameter and axle size if you can, and the fridge model number.",
+    "Send the photos on the request page. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Will it fit my fridge?",
+      "a": "Wheels vary by model, even within one brand. Send the model number and photos and we confirm the fit before printing."
+    },
+    {
+      "q": "Is a printed wheel as strong as the original?",
+      "a": "We do not claim it matches the original. PETG is tough and wears reasonably, but a heavily loaded drawer will wear any plastic wheel over time. We orient the print so the wheel resists splitting along the axle and tell you if a part is a poor candidate."
+    },
+    {
+      "q": "Does the cold of a fridge or freezer affect it?",
+      "a": "PETG stays usable at normal fridge and freezer temperatures in typical use. The wheel does not touch food. We do not claim food-contact certification."
+    },
+    {
+      "q": "How do I measure or photograph the wheel?",
+      "a": "Measure the wheel diameter and the axle or pin size in millimetres if you can, and photograph the wheel and its mount from the side and top with a coin or ruler beside them. Also send the model number, usually on a sticker inside the fridge wall or on the door frame."
+    },
+    {
+      "q": "Do I need to order every wheel?",
+      "a": "Only the ones that are broken, though flat-spotted wheels often wear together. Tell us how many you need and we quote a lower price per wheel for sets."
+    }
+  ],
+  "related": [
+    "whirlpool-kitchenaid-fridge-door-bin",
+    "samsung-fridge-door-bin",
+    "dishwasher-detergent-dispenser-latch"
+  ],
+  "image": "fridge-drawer-wheel.jpg",
+  "image_alt": "Small printed replacement refrigerator drawer wheel with a central axle hole",
+  "sources": [
+    {
+      "label": "Printed LG crisper drawer wheel (promotional blog)",
+      "url": "https://www.goodprints3d.com/blogs/3d/lg-fridge-drawer-wheel-a-3d-printed-replacement-that-gets-a-sticking-crisper-drawer-rolling-again"
+    },
+    {
+      "label": "Whirlpool drawer strut tab repair",
+      "url": "https://softsolder.com/2015/12/09/whirlpool-refrigerator-drawer-strut-tab-replacement/"
+    },
+    {
+      "label": "Crisper assembly parts and rail prices",
+      "url": "https://www.appliancepartspros.com/03-crisper-assembly-parts-for-maytag-mfi2568aes.html"
+    },
+    {
+      "label": "GE rail part WR72X240 listing",
+      "url": "https://www.geapplianceparts.com/store/parts/spec/WR72X240"
+    }
+  ]
+}

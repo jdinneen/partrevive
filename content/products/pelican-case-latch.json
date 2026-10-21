@@ -1,0 +1,59 @@
+{
+  "slug": "pelican-case-latch",
+  "name": "Pelican-style hard case latch",
+  "category": "tools-toolboxes",
+  "meta_title": "Pelican Case Latch Replacement, 3D Printed | PartRevive",
+  "meta_description": "Cracked Pelican case latch or pin? We print a single replacement in PA-CF. Quote within 24 hours, from $16. Send a photo of the case.",
+  "h1": "Pelican case latch replacement, printed single latch",
+  "primary_keyword": "pelican case latch replacement",
+  "secondary_keywords": [
+    "pelican 1510 latch",
+    "peli case latch",
+    "pelican latch pin",
+    "pelican case latch 3d print"
+  ],
+  "answer_first": "We print a single replacement latch that fits Pelican 1510, 1550 and 1600-style hard cases in carbon-fibre nylon (PA-CF); Storm cases are matched from photos. Send a photo of the broken latch and we quote within 24 hours on business days, from $16.",
+  "fits": [
+    "Pelican 1510, 1550 and 1600-style hard case latches (old and new style, confirmed from your photo)",
+    "Peli-style and similar hard case latches",
+    "Storm cases, matched from photos"
+  ],
+  "problem": "The latch hook or its pin cracks, or the small spring tab snaps, after years of opening and closing under load. The case itself is usually fine, but one dead latch means it no longer closes tight. Google searches such as \"pelican case latch pin\" show how common this is.",
+  "oem_situation": "Single latches are typically not sold separately. Genuine latches usually come as a handle-and-latch set from resellers such as ColorCase, and one reviewer there wished for a single-latch option. We print one latch and price from $16.",
+  "our_part": "We print in PA-CF, carbon-fibre filled nylon, because a latch hook takes repeated load and PA-CF is stiff and tough. We orient the print so the main load runs along the layers. We need a photo of the broken latch beside a coin, plus the matching latch on the case. We make no waterproof or sealing claim: how well a case seals depends on the latch holding the lid shut firmly, and we do not give any ingress rating.",
+  "price_from_usd": 16,
+  "price_note": "per latch; sets for several latches quoted lower per unit",
+  "material": "PA-CF",
+  "specs": [
+    {"label": "Material", "value": "PA-CF (carbon-fibre filled nylon)"},
+    {"label": "Max size", "value": "250 mm"},
+    {"label": "Lead time", "value": "5 to 10 business days after approval"},
+    {"label": "Made", "value": "To order from your photo or model number"},
+    {"label": "Typical size", "value": "About 60 x 35 x 20 mm"}
+  ],
+  "how_to_order": [
+    "Photograph the broken latch, and the intact latch on the other side of the case, with a coin in the shot.",
+    "Send photos on the request page, with a coin or ruler in the shot and the case model number if you have it. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {"q": "Will it fit my Pelican case?", "a": "We match it from photos for Pelican 1510, 1550 and 1600-style cases and confirm the fit with you before printing. Older and newer latch styles differ, so send a clear photo of the latch and the case model number."},
+    {"q": "Is a printed latch as strong as the original?", "a": "We do not claim it matches the original. PA-CF is stiff and tough, and we orient the print so the load runs along the layers, but a printed part is weakest where layers pull apart. We tell you if your latch is a poor candidate."},
+    {"q": "Will the case still be waterproof?", "a": "We make no waterproof or ingress-rating claim. A case seal depends on the latch holding the lid firmly, so a good-fitting latch helps, but we cannot promise any seal level."},
+    {"q": "Can it live outdoors in the sun?", "a": "PA-CF is a tough nylon blend and fine for ordinary outdoor use, but we do not give a UV rating. If the case sits in strong sun all day, tell us and we will discuss options, such as ASA."},
+    {"q": "How do I measure or photograph it?", "a": "Photograph the latch from the front, side and underside on a plain background with a coin or ruler beside it, and include the pin and the case model number, usually moulded or printed on the case. If you still have broken pieces, photograph those too."}
+  ],
+  "related": [
+    "milwaukee-packout-drawer-latch",
+    "dewalt-tstak-latch-clip",
+    "custom-replacement-part-from-photo"
+  ],
+  "image": "pelican-case-latch.jpg",
+  "image_alt": "Printed replacement hard case latch with hook and pin in black carbon-fibre nylon",
+  "sources": [
+    {"label": "ColorCase Pelican 1510 replacement handles and latches set", "url": "https://www.colorcase.com/collections/pelican-handles-latches-sets-protector-1510/products/pelican-1510-replacement-handles-latches-set-lime-green"},
+    {"label": "ColorCase Pelican 1650 handle and latches set (reviewer wanted single latches)", "url": "https://www.colorcase.com/collections/pelican-handles-latches-sets-protector/products/pelican-1650-replacement-handle-latches-set-blue"},
+    {"label": "Printables Pelican 1600 Latch model", "url": "https://www.printables.com/model/1359876"}
+  ],
+  "lead_time": "5 to 10 business days after approval"
+}

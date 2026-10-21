@@ -1,0 +1,60 @@
+{
+  "slug": "cooler-lid-latch",
+  "name": "Cooler lid latch (Yeti Tundra, Roadie, RTIC style)",
+  "category": "tools-toolboxes",
+  "meta_title": "Yeti Cooler Latch Replacement, 3D Printed | PartRevive",
+  "meta_description": "Torn Yeti or RTIC cooler latch? We print a flexible TPU replacement. Quote within 24 hours, from $14. Send a photo of the latch and pin.",
+  "h1": "Yeti cooler latch replacement, flexible printed latch",
+  "primary_keyword": "yeti cooler latch replacement",
+  "secondary_keywords": [
+    "yeti tundra latch",
+    "rtic cooler latch replacement",
+    "yeti roadie latch",
+    "cooler latch broke"
+  ],
+  "answer_first": "We print a flexible TPU replacement latch that fits Yeti Tundra, Yeti Roadie and RTIC hard coolers. Send a photo of the torn latch and its pin and we quote within 24 hours on business days, from $14.",
+  "fits": [
+    "Yeti Tundra hard coolers",
+    "Yeti Roadie hard coolers",
+    "RTIC hard coolers",
+    "Other rubber-latch hard coolers, matched from photos"
+  ],
+  "problem": "The rubber pull latch tears, or its pin hole stretches until it slips off, after years of sun and use. The cooler is fine but will not stay shut. Searches such as \"yeti cooler latch broke\" are common.",
+  "oem_situation": "An official 2-pack is about $17 at one retailer, while one reseller lists a 2-pack at $61.39. Latches are sold in sets, and the larger Tundra 85, 120 and 155 coolers use three. We print a single latch or a full set and price from $14.",
+  "our_part": "We print in TPU, a flexible plastic that stretches and springs back like the original rubber, so the latch still pulls over the lid lug. The pin hole size matters most, so we need a photo of the old latch beside a coin and one of the lug it hooks onto. We do not claim bear-resistance or any special rating.",
+  "price_from_usd": 14,
+  "price_note": "per latch; sets of two or three quoted lower per unit",
+  "material": "TPU",
+  "specs": [
+    {"label": "Material", "value": "TPU (flexible, like the original rubber)"},
+    {"label": "Max size", "value": "250 mm"},
+    {"label": "Lead time", "value": "5 to 10 business days after approval"},
+    {"label": "Made", "value": "To order from your photo or model number"},
+    {"label": "Typical size", "value": "About 80 x 30 x 25 mm"}
+  ],
+  "how_to_order": [
+    "Photograph the torn latch, and the lid lug or pin it hooks onto, with a coin in the shot.",
+    "Send photos on the request page, with a coin or ruler in the shot and your cooler model and size if you know it. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {"q": "Will it fit my Yeti or RTIC cooler?", "a": "We match it from photos for Yeti Tundra, Roadie and RTIC coolers and confirm the fit before printing. Tell us the cooler size, as larger coolers use three latches."},
+    {"q": "Is a printed latch as strong as the original?", "a": "We do not claim it matches the original. TPU flexes like rubber, so it does not snap, but it can stretch or wear over time. We tell you if your latch looks like a poor candidate."},
+    {"q": "Will it hold up in the sun?", "a": "TPU is fine for ordinary outdoor use, but we do not give a UV rating and sun slowly wears any flexible plastic. If the cooler lives in strong sun, tell us when you order."},
+    {"q": "Is it safe for food?", "a": "The latch sits on the outside of the cooler and does not touch food. We make no food-contact safety claim, so we do not recommend it for any part that touches food or drink."},
+    {"q": "How do I measure or photograph it?", "a": "Photograph the latch flat from the front and side beside a coin or ruler, and measure the pin or lug diameter if you can, since that fit matters most. Add a photo of the cooler lid where the latch attaches."}
+  ],
+  "related": [
+    "cooler-lid-hinge",
+    "dewalt-tstak-latch-clip",
+    "custom-replacement-part-from-photo"
+  ],
+  "image": "cooler-lid-latch.jpg",
+  "image_alt": "Printed replacement flexible cooler lid pull latch in black TPU",
+  "sources": [
+    {"label": "Yeti Tundra latch 2-pack, Farm and Fleet", "url": "https://www.farmandfleet.com/products/1625184-yeti-2-pack-tundra-latch.html"},
+    {"label": "Yeti Tundra replacement latches 2-pack reseller listing", "url": "https://ibspot.com/products/yeti-tundra-replacement-latches-2-pack"},
+    {"label": "Gear Patrol, Etsy shop printing Yeti Roadie latches", "url": "https://www.gearpatrol.com/?p=909377"}
+  ],
+  "lead_time": "5 to 10 business days after approval"
+}

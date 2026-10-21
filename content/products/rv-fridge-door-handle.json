@@ -1,0 +1,75 @@
+{
+  "slug": "rv-fridge-door-handle",
+  "name": "RV refrigerator door handle and latch",
+  "category": "rv-camper",
+  "meta_title": "RV Refrigerator Door Handle Replacement | PartRevive",
+  "meta_description": "Snapped RV fridge door handle or latch? We print a replacement in ASA to fit your model. Quote within 24 hours, from $24. Send a photo.",
+  "h1": "RV refrigerator door handle replacement, printed to fit",
+  "primary_keyword": "rv refrigerator door handle replacement",
+  "secondary_keywords": [
+    "dometic rv fridge door handle",
+    "norcold refrigerator door latch",
+    "rv fridge door latch for traveling"
+  ],
+  "answer_first": "We print replacement door handles and latch catches for RV refrigerators in UV-resistant ASA, matched by model number and photo. Send a photo and your fridge model and we quote within 24 hours on business days, from $24.",
+  "fits": [
+    "Fits Dometic DMR702, DM2652, RM2652, RM2852, DM2672 and DM2872 refrigerator doors",
+    "Fits Dometic NRX series refrigerator doors",
+    "Fits Norcold latch 61578522 style door latches",
+    "Matched by model number, so send a photo to confirm"
+  ],
+  "problem": "Plastic fridge handles and latch catches snap from sun exposure and from vibration on the road. The parts are specific to each fridge model, so a handle that looks close often does not fit. A broken latch can leave the door swinging open while you travel.",
+  "oem_situation": "Original parts range widely. A Dometic DMR702 handle lists at about $20.99, a DM2672 or DM2872 handle set of two at $64.99, an NRX130C handle assembly at $42.02 on sale against $66.81, and a Norcold latch at $2.95. We price from $24 and quote by model.",
+  "our_part": "We print in ASA, a plastic made to resist sun and heat. We print only the plastic handle or latch catch. We do not make or touch anything to do with gas, burners or electrics. We need the fridge model number, usually on the label inside the fridge, and photos of the broken part and its mounting points with a coin or ruler beside them.",
+  "price_from_usd": 24,
+  "price_note": "per handle or latch; sets quoted lower per unit",
+  "material": "ASA",
+  "lead_time": "5 to 10 business days after approval",
+  "specs": [
+    {"label": "Material", "value": "ASA (UV and heat resistant)"},
+    {"label": "Max size", "value": "250 mm"},
+    {"label": "Lead time", "value": "5 to 10 business days after approval"},
+    {"label": "Made", "value": "To order from your photo or model number"},
+    {"label": "Part type", "value": "Door handle or latch catch, matched by fridge model number"}
+  ],
+  "how_to_order": [
+    "Find your fridge model number and photograph the broken handle or latch, or the empty mounting spot, with a coin in the shot.",
+    "Send photos and the model number on the request page. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Will it fit my Dometic or Norcold fridge?",
+      "a": "We match the part from your model number and photos. The models we list are a starting point, and we confirm the fit with you before printing."
+    },
+    {
+      "q": "Is a printed handle as strong as the original?",
+      "a": "We do not claim it matches the original. Printed ASA is strong in most directions but weakest where the layers pull apart, so we orient the print to put the load along the layers. We tell you if a part is a poor candidate."
+    },
+    {
+      "q": "How do I measure or photograph the part?",
+      "a": "Photograph the handle or latch from the front, side and back on a plain background with a coin or ruler beside it, plus the door where it mounts. Send the fridge model number, usually on a label inside the fridge, and note the screw hole spacing if you can measure it."
+    },
+    {
+      "q": "Do you work on gas or electrical parts?",
+      "a": "No. We print only the plastic door handle or latch catch, never anything connected to burners, gas or electrics."
+    },
+    {
+      "q": "Can you make a matching pair of handles?",
+      "a": "Yes, for models that use two. Tell us the quantity and we quote a lower price per handle."
+    }
+  ],
+  "related": [
+    "rv-door-holder-catch",
+    "rv-cabinet-door-latch",
+    "custom-replacement-part-from-photo"
+  ],
+  "image": "rv-fridge-door-handle.jpg",
+  "image_alt": "Printed replacement RV refrigerator door handle, a long black bar-style plastic handle with mounting holes",
+  "sources": [
+    {"label": "Dometic DMR702 handle price", "url": "https://www.walmart.com/ip/566389520"},
+    {"label": "Dometic DM2672 and DM2872 handle set", "url": "https://www.tractorsupply.com/tsc/product/dometic-replacement-refrigerator-door-handle-for-dometic-dm2672-dm2872-model-refrigerators-black-set-of-2-3316882900-2268187"},
+    {"label": "Dometic NRX130C handle assembly", "url": "https://elkhartrvparts.com/products/dometic-nrx130c-door-handle-assembly"},
+    {"label": "Norcold door latch 61578522", "url": "https://nomadicsupply.com/norcold-refrigerator-replacement-door-latch-61578522/"}
+  ]
+}

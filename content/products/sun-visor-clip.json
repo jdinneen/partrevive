@@ -1,0 +1,96 @@
+{
+  "slug": "sun-visor-clip",
+  "name": "Sun visor retainer clip",
+  "category": "automotive",
+  "meta_title": "Sun Visor Clip Replacement, 3D Printed | PartRevive",
+  "meta_description": "Broken or missing sun visor clip? We print a made-to-fit replacement in PETG from your photo or part number. Quote within 24 hours. From $12.",
+  "h1": "Sun visor clip replacement, printed from your photo",
+  "primary_keyword": "sun visor clip replacement",
+  "secondary_keywords": [
+    "broken sun visor clip",
+    "sun visor retainer clip",
+    "car visor clip 3d printed",
+    "sun visor clip 3d print"
+  ],
+  "answer_first": "We print a replacement sun visor retainer clip made to your photo or part number, in PETG, for most cars with a vehicle-specific version. Send a clear photo with a coin for scale and we quote within 24 hours on business days, from $12.",
+  "fits": [
+    "Most cars and trucks; each clip is made to your vehicle, so send the year, model and trim"
+  ],
+  "problem": "The clip that holds the visor in its hook cracks or goes missing, so the visor droops or flips down on its own. It is a tiny piece of plastic on a visor that is otherwise fine. The clip is often what fails first because it flexes every time the visor is moved.",
+  "oem_situation": "The clip is typically sold only as part of the visor or trim, so a single clip is hard to find. Free printable files exist for some popular models, but they need a clear photo with scale to match your car. We make one to your photo or part number instead.",
+  "our_part": "We print PETG, which holds up in a hot cabin where PLA softens, and we do not use PLA for car interiors. We need a clear photo of the old clip or the empty hook, with a coin or ruler beside it, plus your year, model and trim. We make interior trim parts only, not airbag, seatbelt, brake, steering, lighting or fuel parts.",
+  "price_from_usd": 12,
+  "price_note": "per clip; pairs for both visors quoted lower per unit",
+  "material": "PETG",
+  "lead_time": "5 to 10 business days after approval",
+  "specs": [
+    {
+      "label": "Material",
+      "value": "PETG (ASA on request for sunny climates)"
+    },
+    {
+      "label": "Max size",
+      "value": "250 mm"
+    },
+    {
+      "label": "Lead time",
+      "value": "5 to 10 business days after approval"
+    },
+    {
+      "label": "Made",
+      "value": "To order from your photo or model number"
+    },
+    {
+      "label": "Fit confirmed from",
+      "value": "Year, model and a photo of the old clip and hook, with scale"
+    }
+  ],
+  "how_to_order": [
+    "Photograph the broken clip, or the empty hook on the headliner, with a coin in the shot. Note your year, model and trim.",
+    "Send photos on the request page, with any part number on the old piece. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Will it fit my car?",
+      "a": "Visor clips are vehicle-specific, so we match yours from photos and your year, model and trim before printing. If it is a poor candidate for printing, we say so."
+    },
+    {
+      "q": "Is a printed clip as strong as the original?",
+      "a": "We do not claim it matches the original. Printed layers are weakest where they pull apart, so we orient the print so the flexing load runs along the layers. A visor clip is light-duty, and PETG is usually enough."
+    },
+    {
+      "q": "Will it soften in a hot, parked car?",
+      "a": "PLA softens in a hot car, so we do not use it. We print PETG for cabins and can use ASA if the car sits in strong sun."
+    },
+    {
+      "q": "How do I photograph the clip for a fit check?",
+      "a": "Photograph the clip from the front, side and back, and the hook it snaps into, on a plain background with a coin or ruler beside it. Send your year, model, trim and any part number on the old piece."
+    },
+    {
+      "q": "Do you make safety-related car parts?",
+      "a": "No. We make interior and trim parts only, and we do not make airbag, seatbelt, brake, steering, lighting or fuel parts."
+    }
+  ],
+  "related": [
+    "toyota-tacoma-console-latch",
+    "tonneau-prop-rod-clip",
+    "custom-replacement-part-from-photo"
+  ],
+  "image": "sun-visor-clip.jpg",
+  "image_alt": "Small printed replacement sun visor retainer clip",
+  "sources": [
+    {
+      "label": "Printables: Sun visor clip for any garage remote control (702 downloads)",
+      "url": "https://www.printables.com/model/253962-sun-visor-clip-for-any-garage-remote-control"
+    },
+    {
+      "label": "Printables: Sun visor clip (434 downloads)",
+      "url": "https://www.printables.com/model/585780-sun-visor-clip"
+    },
+    {
+      "label": "Printables: Alfa Romeo 147 sun visor clip (296 downloads)",
+      "url": "https://www.printables.com/model/216582-alfa-romeo-147-sun-visor-clip"
+    }
+  ]
+}

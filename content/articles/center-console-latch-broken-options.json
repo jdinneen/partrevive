@@ -1,0 +1,67 @@
+{
+  "slug": "center-console-latch-broken-options",
+  "title": "Broken center console latch: your options and what they cost",
+  "meta_title": "Broken Center Console Latch: Options and Prices",
+  "meta_description": "Tacoma or Silverado console lid won't stay shut? Compare dealer, aftermarket 2-pack and a made-to-fit PETG or ASA latch. Send a photo for a quote.",
+  "primary_keyword": "center console latch replacement",
+  "answer_first": "A center console latch usually breaks because its small plastic hook is thin, loaded every time the lid closes, and baked by cabin heat. You can buy an aftermarket latch, ask a dealer, or have a made-to-fit latch printed in PETG or ASA, which we quote within 24 hours on business days.",
+  "body_html": "<h2>The short answer</h2>\n<p>When a console lid will not stay shut, the part that failed is almost always the latch itself: a small plastic hook with a couple of retention tabs. The lid, the hinge and the console body are usually fine. That is good news, because the latch is a small, cheap part when you can find it on its own.</p>\n<p>The trouble is finding it. This guide covers why the hook breaks, what the three common routes cost, and when a printed latch is worth ordering.</p>\n<h2>Why the little hook breaks</h2>\n<p>A console latch does a hard job in a small package. The hook catches a striker every time you close the lid, and the lid is often leaned on, used as an armrest or pushed shut with a full hand.</p>\n<ul>\n<li><strong>Thin geometry.</strong> The hook and its tabs are small, so a little bending load concentrates at the root.</li>\n<li><strong>Repeated cycles.</strong> Hundreds of closings flex the same spot until it cracks.</li>\n<li><strong>Heat.</strong> A parked car cabin in summer gets very hot, and plastic that is stiff in spring can soften and creep by August.</li>\n<li><strong>Age.</strong> Old plastic loses toughness, so the tab that survived ten years snaps on the eleventh.</li>\n</ul>\n<h2>Why PLA fails in a hot cabin</h2>\n<p>PLA is the easiest plastic to print, which is why many free latch designs use it. It also softens at low temperatures compared with other print plastics, and a closed vehicle in the sun can pass that point. The designer of a Tacoma center console latch model on Printables reports that a PLA version softened in summer heat and that a PETG reprint held up. We make vehicle parts in PETG or ASA, never PLA.</p>\n<h3>PETG or ASA?</h3>\n<p>PETG is tough, slightly flexible and a sound choice for a console latch in most climates. ASA is made for sun and heat, so we suggest it for a vehicle that lives in a hot place or parks outdoors all day.</p>\n<h2>Three ways to fix it</h2>\n<p>Here is how the routes compare, using the prices we could confirm.</p>\n<table>\n<thead><tr><th>Option</th><th>Typical price</th><th>Fit</th><th>Material</th><th>Lead time</th></tr></thead>\n<tbody>\n<tr><td>Dealer part</td><td>One Walmart reviewer says a dealer wanted over $200 and would not sell just the latch (an anecdote, not a list price)</td><td>Matches the original</td><td>Original</td><td>Varies</td></tr>\n<tr><td>Aftermarket latch</td><td>$8.99 for a 2-pack of GM-style latches, or $25.95 for a single, on Walmart</td><td>Good if the number and year match</td><td>Molded plastic</td><td>Typically a few days</td></tr>\n<tr><td>Made-to-fit printed latch</td><td>From $18 for the Tacoma, from $19 for the Silverado and Sierra</td><td>Matched to your photo</td><td>PETG, or ASA for hot cabins</td><td>5 to 10 business days after approval</td></tr>\n</tbody></table>\n<p>If a $8.99 2-pack fits your truck, that is hard to beat on price, and we would buy it. A printed latch makes sense when the aftermarket part does not fit your year, is out of stock, or has already broken the same way.</p>\n<h2>Toyota Tacoma consoles</h2>\n<p>Molded Tacoma latches are sold by Extreme Terrain in beige for 2009 to 2012 and in gray for 2005 to 2012, and a Home Depot listing covers the 2005 to 2012 gray latch. Original part numbers vary by year, according to a long ih8mud forum thread, so check your year and colour before you order. We list a <a href=\"/partrevive/parts/toyota-tacoma-console-latch/\">Tacoma console latch</a> made from your photo.</p>\n<h2>Silverado, Sierra and related trucks</h2>\n<p>The 2007 to 2013 GM trucks and SUVs with the bucket-seat console share a latch that the Walmart 2-pack lists as GM 20864151, 20864153 and 20864154. Photograph both the latch and the lid so we can tell whether the latch or the lid catch is the part that failed. Our <a href=\"/partrevive/parts/silverado-sierra-console-latch/\">Silverado and Sierra console latch</a> page has the details.</p>\n<h2>How to tell what has broken</h2>\n<ol>\n<li>Open the lid and look at the latch body for a missing hook or snapped tabs.</li>\n<li>Check the striker on the console base; if it is bent or loose, a new latch alone will not hold.</li>\n<li>Press the release button and see whether the latch still moves under its spring.</li>\n<li>Look for cracks in the plastic around the latch pocket.</li>\n</ol>\n<h2>What to photograph</h2>\n<p>Send a close photo of the broken latch from the front and back, with a coin or ruler beside it. Add a photo of the latch pocket in the lid, the striker on the console, and your vehicle year and trim. Use the <a href=\"/partrevive/request/\">request page</a> to send them. If you have a related trim part, such as a cracked <a href=\"/partrevive/parts/sun-visor-clip/\">sun visor clip</a>, include it in the same request and we can quote both together.</p>\n<h2>What we do not promise</h2>\n<p>A printed latch is not an original part, and we are not affiliated with any vehicle maker. We do not claim it is equal to the factory part. A console latch is a convenience item, not a safety part, and we will not quote parts for brakes, airbags or other safety systems. Quotes arrive within 24 hours on business days, and parts ship 5 to 10 business days after approval.</p>",
+  "faqs": [
+    {
+      "q": "Why does my console latch keep breaking?",
+      "a": "The hook is small, flexes every time the lid closes, and the plastic ages and softens in a hot cabin. Stronger material and a thicker hook help."
+    },
+    {
+      "q": "Can I buy just the latch from a dealer?",
+      "a": "Sometimes not. One Walmart reviewer says a dealer wanted over $200 and would not sell the latch alone, but that is a single anecdote."
+    },
+    {
+      "q": "Why not print it in PLA?",
+      "a": "PLA can soften in a hot cabin. A Printables designer reports a PLA Tacoma latch softened in summer heat and a PETG reprint held up, so we use PETG or ASA."
+    },
+    {
+      "q": "Is a printed latch cheaper than an aftermarket 2-pack?",
+      "a": "No. A 2-pack was listed at $8.99 on Walmart. Our printed latches start from $18, and they suit cases where the stock part does not fit."
+    },
+    {
+      "q": "Which years do you cover?",
+      "a": "We work from your photo and year. Typical fits are Tacoma 2005 to 2012 and GM trucks 2007 to 2013, but send a photo if yours is different."
+    }
+  ],
+  "related_products": [
+    "toyota-tacoma-console-latch",
+    "silverado-sierra-console-latch",
+    "sun-visor-clip",
+    "custom-replacement-part-from-photo"
+  ],
+  "image": "article-center-console-latch-broken-options.jpg",
+  "image_alt": "Open truck center console with a broken plastic lid latch hook beside a ruler",
+  "date_published": "2026-10-21",
+  "author": "PartRevive",
+  "sources": [
+    {
+      "label": "Tacoma center console latch model (PLA softened, PETG held)",
+      "url": "https://www.printables.com/model/189223-toyota-tacoma-center-console-latch"
+    },
+    {
+      "label": "Tacoma console latch, beige 2009-2012",
+      "url": "https://extremeterrain.com/tacoma-center-console-latch-beige-41044.html"
+    },
+    {
+      "label": "Tacoma console latch, gray 2005-2012",
+      "url": "https://extremeterrain.com/tacoma-center-console-latch-gray-41042.html"
+    },
+    {
+      "label": "Home Depot Tacoma console latch listing",
+      "url": "https://www.homedepot.com/p/Center-Console-Latch-2005-2012-Toyota-Tacoma-2-7L-4-0L-41042/308009386"
+    },
+    {
+      "label": "Tacoma console hatch latch OE numbers by year (forum)",
+      "url": "https://forum.ih8mud.com/threads/console-hatch-latch.1384587/"
+    },
+    {
+      "label": "GM console latch 2-pack and single, with reviewer anecdote",
+      "url": "https://www.walmart.com/ip/921160452"
+    }
+  ]
+}

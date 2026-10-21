@@ -1,0 +1,71 @@
+{
+  "slug": "rv-door-holder-catch",
+  "name": "RV entry door holder catch",
+  "category": "rv-camper",
+  "meta_title": "RV Door Holder Catch, 3D Printed Replacement | PartRevive",
+  "meta_description": "Cracked RV door holder catch or socket? We print a replacement in ASA to fit odd shapes. Quote within 24 hours, from $12. Send a photo.",
+  "h1": "RV door holder catch, printed to fit your door",
+  "primary_keyword": "rv door holder catch",
+  "secondary_keywords": [
+    "rv entry door holder replacement",
+    "rv door holder 90 degree",
+    "caravan door catch"
+  ],
+  "answer_first": "We print replacement plunger-and-socket door holders for RV and caravan entry doors in UV-resistant ASA, including odd shapes the generic part does not fit. Send a photo and we quote within 24 hours on business days, from $12.",
+  "fits": [
+    "Fits most travel trailer and caravan entry door holders, plunger-and-socket style",
+    "Odd or angled shapes matched from your photo"
+  ],
+  "problem": "The plastic stem or socket of a door holder cracks or loses its grip, and the door then swings in the wind. Holders also go missing when the screws strip out. Some campers use a shape the common store-bought catch does not fit.",
+  "oem_situation": "A Camco 3 in door catch lists at $8.59, and an RV Designer E257 angled holder ranges from about $7.99 to $31 on eBay. Our value is in odd shapes the generic part does not fit. We price from $12.",
+  "our_part": "We print in ASA, a plastic made to resist sun and heat. We need photos of the broken holder and of the spot on the door and frame where it mounts, with a coin or ruler beside them. We match the screw spacing and shape from your photos.",
+  "price_from_usd": 12,
+  "price_note": "per holder; sets quoted lower per unit",
+  "material": "ASA",
+  "lead_time": "5 to 10 business days after approval",
+  "specs": [
+    {"label": "Material", "value": "ASA (UV and heat resistant)"},
+    {"label": "Max size", "value": "250 mm"},
+    {"label": "Lead time", "value": "5 to 10 business days after approval"},
+    {"label": "Made", "value": "To order from your photo or model number"},
+    {"label": "Style", "value": "Plunger and socket, matched from your photo"}
+  ],
+  "how_to_order": [
+    "Photograph the broken holder and its mounting spots on the door and frame, with a coin or ruler in the shot.",
+    "Send photos on the request page, and add the camper make and model if you have it. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Will it fit my door?",
+      "a": "If your holder is a plunger-and-socket style, we match it from photos. We confirm the fit with you before printing."
+    },
+    {
+      "q": "Is a printed holder as strong as the original?",
+      "a": "We do not claim it matches the original. Printed ASA is strong in most directions but weakest where the layers pull apart, so we orient the print to put the load along the layers. We tell you if a part is a poor candidate."
+    },
+    {
+      "q": "How do I measure or photograph it?",
+      "a": "Photograph the holder from the front, side and back on a plain background with a coin or ruler beside it. Photograph the mounting spots on the door and frame too, and measure the screw hole spacing if you can. Send the camper make and model if you know them."
+    },
+    {
+      "q": "Can you copy an angled or 90 degree holder?",
+      "a": "Often, yes. Send clear photos from several sides and we tell you whether we can match the shape."
+    },
+    {
+      "q": "Can I order a few at once?",
+      "a": "Yes. Tell us the quantity and we quote a lower price per holder."
+    }
+  ],
+  "related": [
+    "rv-screen-door-latch",
+    "rv-cabinet-door-latch",
+    "custom-replacement-part-from-photo"
+  ],
+  "image": "rv-door-holder-catch.jpg",
+  "image_alt": "Printed replacement RV door holder catch, a small plastic plunger and socket pair with screw holes",
+  "sources": [
+    {"label": "Camco 3 in door catch price", "url": "https://www.acehardware.com/departments/automotive-rv-and-marine/recreational-vehicle-parts-and-accessories/rv-hardware/8376741"},
+    {"label": "RV Designer E257 angled holder listings", "url": "https://www.ebay.com/p/1122669537"}
+  ]
+}

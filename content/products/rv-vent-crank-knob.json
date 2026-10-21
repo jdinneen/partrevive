@@ -1,0 +1,71 @@
+{
+  "slug": "rv-vent-crank-knob",
+  "name": "RV roof vent crank knob",
+  "category": "rv-camper",
+  "meta_title": "RV Vent Crank Handle Replacement, Printed | PartRevive",
+  "meta_description": "Stripped RV vent crank handle? We print a knob to match your shaft or spline in ASA. Quote within 24 hours, from $16. Send a photo to start.",
+  "h1": "RV vent crank handle replacement, matched to your shaft",
+  "primary_keyword": "rv vent crank handle replacement",
+  "secondary_keywords": [
+    "camper vent crank handle",
+    "rv roof vent crank knob"
+  ],
+  "answer_first": "We print replacement crank knobs for manual RV roof vents, including Ventline, Elixir and Hehr style vents, in UV-resistant ASA, matched to your shaft or spline. Send a photo and your measurements and we quote within 24 hours on business days, from $16.",
+  "fits": [
+    "Fits Ventline, Elixir-style and Hehr-style manual roof vents",
+    "Matched to a splined shaft or a 1/2 in shaft, from your measurements"
+  ],
+  "problem": "Plastic crank knobs strip where they grip the shaft, so the handle spins without opening the vent. The knobs sit in the sun for years and turn brittle. The fit depends on the exact spline or shaft size, which varies between makers.",
+  "oem_situation": "A Ventline operator with crank, BVD0462-00, was listed at $23.14 and out of stock. One etrailer answer says Ventline Northern Breeze vents are discontinued with no replacement parts. Ventline spline also differs from Jensen, so a generic knob may not fit. We price from $16.",
+  "our_part": "We print in ASA, a plastic made to resist sun and heat. We need the shaft type and size, which you measure yourself: spline or round, with the diameter, plus the knob diameter and a photo with a coin or ruler. We match the shaft opening to your measurements and tell you if anything looks unclear before we print.",
+  "price_from_usd": 16,
+  "price_note": "per knob; sets quoted lower per unit",
+  "material": "ASA",
+  "lead_time": "5 to 10 business days after approval",
+  "specs": [
+    {"label": "Material", "value": "ASA (UV and heat resistant)"},
+    {"label": "Max size", "value": "250 mm"},
+    {"label": "Lead time", "value": "5 to 10 business days after approval"},
+    {"label": "Made", "value": "To order from your photo or model number"},
+    {"label": "Shaft", "value": "Spline or 1/2 in, measured by you"}
+  ],
+  "how_to_order": [
+    "Photograph the old knob and the bare shaft with a coin or ruler in the shot, and measure the shaft diameter.",
+    "Send photos and measurements on the request page, noting if the shaft is splined or round. We reply with a quote within 24 hours on business days.",
+    "Approve the quote and we print the part, usually in 5 to 10 business days after approval, then ship it to you."
+  ],
+  "faqs": [
+    {
+      "q": "Will it fit my vent?",
+      "a": "If we have a photo of your shaft and its measured size, we can match it. We confirm the fit with you before printing."
+    },
+    {
+      "q": "Is a printed knob as strong as the original?",
+      "a": "We do not claim it matches the original. Printed ASA is strong in most directions but weakest where the layers pull apart, so we orient the print to put the load along the layers. We tell you if a part is a poor candidate."
+    },
+    {
+      "q": "How do I measure the shaft?",
+      "a": "Photograph the shaft end from the side and straight on with a coin or ruler beside it. Tell us if it is splined or round, measure the diameter across it, and measure the old knob diameter. Send the vent make or model number if you have it."
+    },
+    {
+      "q": "My shaft is splined. Does that matter?",
+      "a": "Yes. Spline patterns differ between makers, and Ventline spline differs from Jensen. A clear straight-on photo of the shaft end is the most useful thing you can send."
+    },
+    {
+      "q": "Can I order several knobs?",
+      "a": "Yes. Tell us how many vents you have and we quote a lower price per knob."
+    }
+  ],
+  "related": [
+    "rv-window-latch",
+    "rv-screen-door-latch",
+    "custom-replacement-part-from-photo"
+  ],
+  "image": "rv-vent-crank-knob.jpg",
+  "image_alt": "Printed replacement RV roof vent crank knob, a round plastic handle with a shaft hole",
+  "sources": [
+    {"label": "Ventline operator with crank BVD0462-00", "url": "https://www.walmart.com/ip/317518462"},
+    {"label": "etrailer question on Ventline Northern Breeze vents", "url": "https://www.etrailer.com/question-870233.html"},
+    {"label": "Ventline vent winder knob, spline note", "url": "https://www.caravansplus.com.au/winder-knob-suit-ventline-coast-rv-vents-p-22779.html"}
+  ]
+}
