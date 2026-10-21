@@ -30,3 +30,8 @@ Each page ends with "Don't have a printer? PartRevive prints this and ships it" 
 - Etsy and eBay listing copy for 12 products: marketing/listings/
 - Reddit and forum answer templates for 10 products and a 25-place watchlist: marketing/community/
 - Short-video scripts for 8 products: marketing/video/
+
+## Posted on Reddit (account posts under a random Reddit username, no real name)
+- r/YetiCoolers "Lose latch on roadie 15": helpful reply (OEM 2-pack first, then the shop as an option, with disclosure)
+- r/fixit "Subaru Impreza 2018 driver's side visor": helpful reply; r/fixit bans marketing, so the reply links only the free Printables clip (edited to remove the shop mention)
+- Bing Webmaster Tools sitemap: submitted, status Processing
