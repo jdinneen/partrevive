@@ -1,0 +1,36 @@
+{
+  "displayName": "PartRevive: new quote request",
+  "documentation": {
+    "mimeType": "text/markdown",
+    "content": "New PartRevive quote request.\n\nName: ${log.extracted_label.name}\nEmail: ${log.extracted_label.email}\nPart: ${log.extracted_label.part}\nQuantity: ${log.extracted_label.quantity}\nWhat broke: ${log.extracted_label.what_broke}\nPhoto: ${log.extracted_label.photo}\nLead id: ${log.extracted_label.lead_id}\n\nFull record and photo: ${log.extracted_label.console}\n\nReply to the customer from Gmail within 24 hours on business days."
+  },
+  "combiner": "OR",
+  "conditions": [
+    {
+      "displayName": "New PartRevive quote request",
+      "conditionMatchedLog": {
+        "filter": "resource.type=\"cloud_run_revision\" AND resource.labels.service_name=\"partrevive-quote\" AND jsonPayload.event=\"partrevive_lead\"",
+        "labelExtractors": {
+          "lead_id": "EXTRACT(jsonPayload.lead_id)",
+          "name": "EXTRACT(jsonPayload.name)",
+          "email": "EXTRACT(jsonPayload.email)",
+          "part": "EXTRACT(jsonPayload.part)",
+          "quantity": "EXTRACT(jsonPayload.quantity)",
+          "what_broke": "EXTRACT(jsonPayload.what_broke)",
+          "photo": "EXTRACT(jsonPayload.photo)",
+          "console": "EXTRACT(jsonPayload.console)"
+        }
+      }
+    }
+  ],
+  "alertStrategy": {
+    "notificationRateLimit": { "period": "300s" },
+    "autoClose": "1800s"
+  },
+  "severity": "WARNING",
+  "notificationChannels": [
+    "projects/monterey-bay-lab/notificationChannels/6686672769351832486",
+    "projects/monterey-bay-lab/notificationChannels/1442086413698695682"
+  ],
+  "enabled": true
+}

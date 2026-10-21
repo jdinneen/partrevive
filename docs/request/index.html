@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Request a quote for a replacement part | PartRevive</title>
+<meta name="google-site-verification" content="fx1rRbB75uLzyPENkUwprJb7NKlCc0SKh8pDvnlZGRI"><title>Request a quote for a replacement part | PartRevive</title>
 <meta name="description" content="Send a photo and the model number of your broken part. We reply with a quote within 24 hours on business days.">
 <link rel="canonical" href="https://jdinneen.github.io/partrevive/request/">
 <meta name="robots" content="index, follow, max-image-preview:large">
@@ -52,11 +52,9 @@
   <h1>Request a quote</h1>
   <p class="lead">Tell us what broke and attach a photo. We reply within 24 hours on business days with a price and lead time (5 to 10 business days after approval). You approve the quote before we print anything.</p>
 
-  <form class="quote-form" action="https://formsubmit.co/jon.dinneen2@gmail.com" method="POST" enctype="multipart/form-data" data-lead>
-    <input type="hidden" name="_subject" value="PartRevive quote request">
-    <input type="hidden" name="_captcha" value="true">
-    <input type="hidden" name="_template" value="table">
+  <form class="quote-form" action="https://partrevive-quote-957730565502.us-central1.run.app/" method="POST" enctype="multipart/form-data" data-lead>
     <input type="hidden" name="_next" value="https://jdinneen.github.io/partrevive/request/thanks/">
+    <div class="form-status" id="form-status" role="status" aria-live="polite" hidden></div>
     <div class="honey"><label for="_honey">Leave this field empty</label><input type="text" id="_honey" name="_honey" tabindex="-1" autocomplete="off"></div>
 
     <div class="field">
@@ -86,8 +84,9 @@
       <input type="file" id="photo" name="attachment" accept="image/*" aria-describedby="photo-h">
       <p class="hint" id="photo-h">Place a coin or ruler beside the part and shoot from two or three angles. Photos up to 10 MB in total. <a href="/partrevive/guides/how-to-photograph-a-broken-part-for-a-quote/">How to photograph a broken part</a>.</p>
     </div>
-    <p><button class="btn btn-lg" type="submit">Send quote request</button></p>
+    <p><button class="btn btn-lg" type="submit" id="send-btn">Send quote request</button></p>
     <p class="fine-note">We use your details only to reply about this quote. We do not make safety-critical parts, battery contacts, children's items or food-contact surfaces.</p>
+    <p class="fine-note">Prefer email? Send your photos to <a href="mailto:jon.dinneen@gmail.com?subject=PartRevive%20quote%20request">jon.dinneen@gmail.com</a>.</p>
   </form>
 </div>
 </main>
@@ -123,7 +122,7 @@
 </footer>
 <script>
 (function(){
-  var id="G-C1NDPF5X2M";
+  var id="G-4GJRL6SE0H";
   window.dataLayer=window.dataLayer||[];
   window.gtag=function(){window.dataLayer.push(arguments);};
   var n=navigator;
@@ -138,14 +137,58 @@
     var a=e.target.closest&&e.target.closest("[data-quote]");
     if(a){gtag("event","select_content",{content_type:"quote_button",item_id:a.getAttribute("data-quote"),transport_type:"beacon"});}
   });
-  var f=document.querySelector("form[data-lead]");
-  if(f){f.addEventListener("submit",function(){gtag("event","generate_lead",{form:"quote_request",transport_type:"beacon"});});}
 })();
 </script>
 <script>
-(function(){var p=new URLSearchParams(location.search).get("part");if(!p)return;
-var names={"bmw-e90-e46-cup-holder": "BMW E90 and E46 cup holder", "bosch-dishwasher-tine-clip": "Bosch dishwasher tine clip (set of 4)", "custom-replacement-part-from-photo": "Custom replacement part from a photo", "dewalt-tstak-latch-clip": "DeWalt TSTAK latch clip", "dyson-v11-trigger": "Dyson V11 trigger", "maytag-whirlpool-dryer-knob": "Maytag and Whirlpool dryer knob", "milwaukee-packout-drawer-latch": "Milwaukee Packout drawer latch", "rv-cabinet-door-latch": "RV cabinet door latch (Newmar-style)", "rv-window-latch": "RV window latch (Elixir, Hehr, Kinro style)", "samsung-fridge-door-bin": "Samsung fridge door bin", "whirlpool-kitchenaid-fridge-door-bin": "Whirlpool and KitchenAid fridge door bin and holder"};var f=document.getElementById("part");
-if(f&&!f.value){f.value=names[p]||p.replace(/-/g," ");}})();
+(function(){
+  var q=new URLSearchParams(location.search);
+  var p=q.get("part");
+  var names={"bmw-e90-e46-cup-holder": "BMW E90 and E46 cup holder", "bosch-dishwasher-tine-clip": "Bosch dishwasher tine clip (set of 4)", "custom-replacement-part-from-photo": "Custom replacement part from a photo", "dewalt-tstak-latch-clip": "DeWalt TSTAK latch clip", "dyson-v11-trigger": "Dyson V11 trigger", "maytag-whirlpool-dryer-knob": "Maytag and Whirlpool dryer knob", "milwaukee-packout-drawer-latch": "Milwaukee Packout drawer latch", "rv-cabinet-door-latch": "RV cabinet door latch (Newmar-style)", "rv-window-latch": "RV window latch (Elixir, Hehr, Kinro style)", "samsung-fridge-door-bin": "Samsung fridge door bin", "whirlpool-kitchenaid-fridge-door-bin": "Whirlpool and KitchenAid fridge door bin and holder"};var pf=document.getElementById("part");
+  if(p&&pf&&!pf.value){pf.value=names[p]||p.replace(/-/g," ");}
+  var form=document.querySelector("form[data-lead]"),st=document.getElementById("form-status"),btn=document.getElementById("send-btn");
+  if(!form||!window.fetch||!window.FormData)return;
+  var mail="jon.dinneen@gmail.com";
+  function show(kind,html){st.className="form-status form-status-"+kind;st.innerHTML=html;st.hidden=false;st.scrollIntoView({block:"nearest"});}
+  function mailto(){
+    var d=new FormData(form),body="Name: "+(d.get("name")||"")+"
+Email: "+(d.get("email")||"")+"
+Part: "+(d.get("part")||"")+"
+Quantity: "+(d.get("quantity")||"1")+"
+
+What broke:
+"+(d.get("what_broke")||"")+"
+
+(Please attach your photos.)";
+    return "mailto:"+mail+"?subject="+encodeURIComponent("PartRevive quote request: "+(d.get("part")||""))+"&body="+encodeURIComponent(body);
+  }
+  if(q.get("error")){show("err","Something went wrong with that submission. Please try again, or <a href=\""+mail+"\">email us</a> instead.".replace(mail,"mailto:"+mail));}
+  form.addEventListener("submit",function(e){
+    e.preventDefault();
+    if(!form.reportValidity())return;
+    btn.disabled=true;btn.textContent="Sending…";show("info","Sending your request…");
+    var ctrl=("AbortController" in window)?new AbortController():null;
+    var timer=ctrl?setTimeout(function(){ctrl.abort();},30000):null;
+    fetch(form.action,{method:"POST",body:new FormData(form),headers:{"Accept":"application/json","X-Requested-With":"fetch"},signal:ctrl?ctrl.signal:undefined})
+      .then(function(r){return r.json().then(function(j){return {ok:r.ok&&j.ok,j:j,status:r.status};});})
+      .then(function(res){
+        if(timer)clearTimeout(timer);
+        if(res.ok){
+          if(window.gtag){gtag("event","generate_lead",{form:"quote_request",transport_type:"beacon"});}
+          location.href=form.querySelector("[name=_next]").value;
+          return;
+        }
+        var why=res.j&&res.j.error||("error "+res.status);
+        var msg={bad_email:"That email address does not look right.",missing_fields:"Please fill in every required field.",photo_too_large:"That photo is over 10 MB. Please resize it or send it by email.",request_too_large:"Those files are over 10 MB in total. Please resize them or send them by email.",too_many_requests:"Too many requests from this connection. Please try again in an hour or email us."}[why]||"We could not send that request.";
+        show("err",msg+" Or <a href=\""+mailto()+"\">send it by email</a> to "+mail+".");
+        btn.disabled=false;btn.textContent="Send quote request";
+      })
+      .catch(function(){
+        if(timer)clearTimeout(timer);
+        show("err","We could not reach our server. <a href=\""+mailto()+"\">Send the request by email</a> instead (it opens your mail app with the details filled in), or email "+mail+" directly.");
+        btn.disabled=false;btn.textContent="Send quote request";
+      });
+  });
+})();
 </script>
 </body>
 </html>

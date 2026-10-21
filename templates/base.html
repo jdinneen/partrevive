@@ -101,8 +101,6 @@
     var a=e.target.closest&&e.target.closest("[data-quote]");
     if(a){gtag("event","select_content",{content_type:"quote_button",item_id:a.getAttribute("data-quote"),transport_type:"beacon"});}
   });
-  var f=document.querySelector("form[data-lead]");
-  if(f){f.addEventListener("submit",function(){gtag("event","generate_lead",{form:"quote_request",transport_type:"beacon"});});}
 })();
 </script>
 {% block scripts %}{% endblock %}

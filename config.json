@@ -3,10 +3,10 @@
   "tagline": "Made-to-order 3D-printed replacement parts for appliances, RVs, tools and cars",
   "base_url": "https://jdinneen.github.io/partrevive",
   "repo": "jdinneen/partrevive",
-  "ga_measurement_id": "G-C1NDPF5X2M",
-  "ga_note": "Shared with Samish River Watch for launch; replace with a dedicated GA4 web stream ID for this site.",
-  "form_action": "https://formsubmit.co/jon.dinneen2@gmail.com",
-  "form_note": "formsubmit.co delivers to this inbox after a one-time activation email is confirmed; swap to the hashed alias it issues.",
+  "ga_measurement_id": "G-4GJRL6SE0H",
+  "ga_note": "Dedicated GA4 property \"PartRevive\" (properties/560119783) under the Monterey Bay AI Lab GA account; web stream 16176699407.",
+  "form_action": "https://partrevive-quote-957730565502.us-central1.run.app/",
+  "form_note": "Cloud Run service partrevive-quote (project monterey-bay-lab) stores each lead in gs://partrevive-leads-mbl and a Monitoring alert emails it to contact_email. See backend/quote-receiver/README.md.",
   "locale": "en-US",
   "country": "United States",
   "lead_time": "5 to 10 business days after approval",
@@ -20,6 +20,7 @@
   "max_size_mm": 250,
   "founded": "2026",
   "indexnow_key": "4f5d376f530acfa721f3b161d4ec38d5",
-  "google_site_verification": "",
-  "bing_site_verification": ""
+  "google_site_verification": "fx1rRbB75uLzyPENkUwprJb7NKlCc0SKh8pDvnlZGRI",
+  "bing_site_verification": "",
+  "contact_email": "jon.dinneen@gmail.com"
 }
