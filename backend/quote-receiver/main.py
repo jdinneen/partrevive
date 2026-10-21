@@ -83,17 +83,20 @@ def rate_limited(ip):
     return False
 
 
-@app.route("/", methods=["GET"])
-def health():
-    return cors(Response("partrevive quote receiver: ok\n", mimetype="text/plain"))
+@app.after_request
+def add_cors(resp):
+    return cors(resp)
 
 
-@app.route("/", methods=["OPTIONS"])
-def preflight():
-    return cors(Response("", status=204))
+@app.route("/", methods=["GET", "POST", "OPTIONS"], provide_automatic_options=False)
+def entry():
+    if request.method == "GET":
+        return Response("partrevive quote receiver: ok\n", mimetype="text/plain")
+    if request.method == "OPTIONS":
+        return Response("", status=204)
+    return receive()
 
 
-@app.route("/", methods=["POST"])
 def receive():
     f = request.form
     if f.get("_honey"):                        # honeypot filled: a bot
